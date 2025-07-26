@@ -1,0 +1,116 @@
+{
+  "test_strategy": "exclude_linkedin_from_scraping",
+  "test_timestamp": "2025-07-26T11:48:30.185Z",
+  "lead_tested": {
+    "id": "non_linkedin_test_001",
+    "name": "Giorgio Migliarina",
+    "title": "Chief Technology Officer",
+    "company": "Maybank",
+    "email": "giorgio.migliarina@maybank.com",
+    "location": "Malaysia",
+    "source": "non_linkedin_test",
+    "confidence_score": 0.95
+  },
+  "sources_analysis": {
+    "total_sources": 4,
+    "linkedin_references": 1,
+    "scraped_sites": 3,
+    "linkedin_urls": [
+      "https://my.linkedin.com/in/giorgio-migliarina-a61217"
+    ],
+    "scraped_urls": [
+      "https://www.maybank.com/en/about-us/leadership/giorgio-migliarina.page",
+      "https://www.maybank.com/en/news/2024/10/30.page",
+      "https://www.thestar.com.my/business/business-news/2024/10/30/maybank-appoints-giorgo-migliarina-as-new-group-chief-technology-and-digital-officer"
+    ]
+  },
+  "personality_analysis_success": true,
+  "metadata": {
+    "analysis_completed": true,
+    "linkedin_urls_found": 1,
+    "linkedin_urls_kept_for_reference": 1,
+    "non_linkedin_sites_attempted": 3,
+    "content_sources_used": 3,
+    "ai_analysis_success": true,
+    "processing_timestamp": "2025-07-26T11:48:30.185Z",
+    "analysis_method": "web_scraping_chatgpt",
+    "scraping_strategy": "exclude_linkedin"
+  },
+  "full_result": {
+    "id": "non_linkedin_test_001",
+    "name": "Giorgio Migliarina",
+    "title": "Chief Technology Officer",
+    "company": "Maybank",
+    "email": "giorgio.migliarina@maybank.com",
+    "location": "Malaysia",
+    "source": "non_linkedin_test",
+    "confidence_score": 0.95,
+    "personality_analysis": {
+      "personality_traits": [
+        "experienced",
+        "strategic",
+        "customer-centric"
+      ],
+      "communication_style": "Giorgio communicates with a focus on aligning technology with business needs, emphasizing resilience and efficiency.",
+      "leadership_approach": "He employs a strategic and agile leadership style, focusing on long-term technology strategies and digital enhancements.",
+      "technical_expertise": [
+        "telecommunications",
+        "digital transformation"
+      ],
+      "values_and_motivations": [
+        "customer-centricity",
+        "innovation"
+      ],
+      "decision_making": "Giorgio makes decisions based on strategic alignment with business goals and technological resilience.",
+      "networking_style": "He builds relationships through his extensive global experience and leadership roles in diverse environments.",
+      "summary": "Giorgio Migliarina is a seasoned technology executive with nearly 30 years of experience in the telecom and high-tech sectors. He is known for his strategic leadership and focus on customer-centric digital transformation.",
+      "confidence_level": "medium",
+      "generated_at": "2025-07-26T11:48:30.184Z",
+      "content_sources": 3,
+      "analysis_method": "web_scraping_chatgpt"
+    },
+    "personality_sources": [
+      {
+        "url": "https://my.linkedin.com/in/giorgio-migliarina-a61217",
+        "title": "Giorgio Migliarina - Technology Executive",
+        "scraped_successfully": false,
+        "type": "linkedin_reference",
+        "timestamp": "2025-07-26T11:48:30.184Z"
+      },
+      {
+        "url": "https://www.maybank.com/en/about-us/leadership/giorgio-migliarina.page",
+        "title": "Giorgio Migliarina - Technology Executive",
+        "scraped_successfully": true,
+        "type": "scraped_content",
+        "timestamp": "2025-07-26T11:48:30.185Z"
+      },
+      {
+        "url": "https://www.maybank.com/en/news/2024/10/30.page",
+        "title": "Professional - Technology Executive",
+        "scraped_successfully": true,
+        "type": "scraped_content",
+        "timestamp": "2025-07-26T11:48:30.185Z"
+      },
+      {
+        "url": "https://www.thestar.com.my/business/business-news/2024/10/30/maybank-appoints-giorgo-migliarina-as-new-group-chief-technology-and-digital-officer",
+        "title": "Professional - Technology Executive",
+        "scraped_successfully": true,
+        "type": "scraped_content",
+        "timestamp": "2025-07-26T11:48:30.185Z"
+      }
+    ],
+    "last_personality_analysis": "2025-07-26T11:48:30.185Z",
+    "personality_metadata": {
+      "analysis_completed": true,
+      "linkedin_urls_found": 1,
+      "linkedin_urls_kept_for_reference": 1,
+      "non_linkedin_sites_attempted": 3,
+      "content_sources_used": 3,
+      "ai_analysis_success": true,
+      "processing_timestamp": "2025-07-26T11:48:30.185Z",
+      "analysis_method": "web_scraping_chatgpt",
+      "scraping_strategy": "exclude_linkedin"
+    },
+    "ready_for_outreach": true
+  }
+}

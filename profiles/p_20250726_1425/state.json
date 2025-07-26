@@ -1,0 +1,1345 @@
+{
+  "run_id": "p_20250726_1425",
+  "mode": "investor",
+  "profile": {
+    "answers": {
+      "product": "large language models for the french market",
+      "target": "preseed 500k for 10% to scale compute",
+      "pain": "22k users ",
+      "signals": [
+        "vertical ai"
+      ],
+      "proof": "fund",
+      "cta": "deck",
+      "constraints": "no usa companies"
+    },
+    "enrichment": {
+      "product": {
+        "original": "large language models for the french market",
+        "enriched": [
+          {
+            "question": "What is the current market size and growth rate for large language models in the French market?",
+            "answer": "50b and 50%"
+          },
+          {
+            "question": "What specific competitive advantages does your company have in the French market for large language models?",
+            "answer": "we are training sectorial llms"
+          },
+          {
+            "question": "Can you provide any traction numbers such as revenue, user base, or growth rate for your large language models in the French market?",
+            "answer": "my latest llm had 22k downloads on hugging face"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer 'large language models for the french market' lacks specific details such as the target audience within the French market, concrete metrics or proof points, and actionable information for outreach. It does not provide sufficient context to understand the value proposition or any specific market segment it aims to address."
+        }
+      },
+      "target": {
+        "original": "preseed 500k for 10% to scale compute",
+        "enriched": [
+          {
+            "question": "What are the key milestones you plan to achieve with the preseed funding?",
+            "answer": "get 34b and 70b models to compete with higher pocket size people"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer lacks specificity and context. It mentions 'preseed 500k for 10% to scale compute,' which provides some details about the funding stage and amount, but it does not specify the target audience, market segment, or provide concrete metrics or proof points. Additionally, there is no actionable information or sufficient context to understand the value proposition or how the funds will be used beyond 'scaling compute.'"
+        }
+      },
+      "pain": {
+        "original": "22k users ",
+        "enriched": [
+          {
+            "question": "What is your current revenue and growth rate for the large language models in the French market?",
+            "answer": "10% per year"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer '22k users' lacks specificity and context. It does not provide details about the target audience or market segment, nor does it offer concrete metrics or proof points beyond the user count. There is no actionable information or sufficient context to understand the value proposition or growth trajectory. Additional details such as revenue, growth rate, or user demographics would enrich the answer."
+        }
+      },
+      "signals": {
+        "original": "vertical ai",
+        "enriched": [
+          {
+            "question": "What specific sectors are you focusing on with your sectorial LLMs, and how do these sectors benefit from your vertical AI approach?",
+            "answer": "banking and insurance"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer 'vertical ai' lacks specificity and context. It does not provide details about the target audience, market segment, or any concrete metrics or proof points. It is too generic to understand the value proposition or to be actionable for investor outreach."
+        }
+      },
+      "proof": {
+        "original": "fund",
+        "enriched": [
+          {
+            "question": "What geographic regions are you targeting for expansion beyond the French market, if any?",
+            "answer": "germany"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer 'fund' is too vague and lacks specificity. It does not provide any details about the type of fund, target audience, geographic focus, investment thesis, or any actionable information. It needs enrichment to include specific details and context to be considered rich enough."
+        }
+      },
+      "cta": {
+        "original": "deck",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      },
+      "constraints": {
+        "original": "no usa companies",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      }
+    },
+    "value_prop": ""
+  },
+  "personas": [
+    {
+      "name": "Louis Dupont",
+      "title": "Managing Partner",
+      "company": "Early-Stage VC Fund (50M AUM)",
+      "profile": "Louis is a seasoned investor with a focus on early-stage technology startups in Europe. He has a background in computer science and a keen interest in AI innovations.",
+      "pain_points": [
+        "Finding high-potential startups",
+        "Mitigating investment risks",
+        "Staying ahead of AI trends"
+      ],
+      "motivations": [
+        "Invest in disruptive AI technologies",
+        "Expand portfolio in the French market",
+        "Support startups with strategic guidance"
+      ],
+      "search_query": "Early-stage VC AI investment France",
+      "outreach_angle": "Highlight the unique sectorial LLMs and potential for market disruption in France"
+    },
+    {
+      "name": "Emma Martin",
+      "title": "Angel Investor",
+      "company": "Independent",
+      "profile": "Emma is an angel investor with a passion for supporting innovative tech startups. She has a background in finance and is particularly interested in AI applications in traditional industries.",
+      "pain_points": [
+        "Limited access to exclusive deals",
+        "Balancing risk and reward",
+        "Identifying scalable business models"
+      ],
+      "motivations": [
+        "Support transformative AI solutions",
+        "Diversify investment portfolio",
+        "Engage with passionate founders"
+      ],
+      "search_query": "Angel investor AI startups France",
+      "outreach_angle": "Emphasize the growth potential and sector-specific applications of the LLMs"
+    },
+    {
+      "name": "Thomas Müller",
+      "title": "Director of Strategic Investments",
+      "company": "Large European Corporate (Fortune 500)",
+      "profile": "Thomas leads strategic investments for a major European corporation, focusing on acquiring technologies that can integrate into their existing business units, particularly in finance.",
+      "pain_points": [
+        "Aligning investments with corporate strategy",
+        "Ensuring technology integration",
+        "Achieving ROI on investments"
+      ],
+      "motivations": [
+        "Acquire cutting-edge AI technology",
+        "Enhance corporate innovation",
+        "Strengthen market position in AI"
+      ],
+      "search_query": "Strategic investments AI corporate Europe",
+      "outreach_angle": "Discuss potential synergies between the LLMs and the corporation's existing financial services"
+    },
+    {
+      "name": "Isabelle Lefevre",
+      "title": "Principal",
+      "company": "Growth-Stage VC Fund (200M AUM)",
+      "profile": "Isabelle is a principal at a growth-stage VC fund with a focus on scaling technology companies across Europe. She has a background in business development and a strong network in the tech industry.",
+      "pain_points": [
+        "Identifying scalable growth opportunities",
+        "Balancing portfolio diversity",
+        "Managing investment timelines"
+      ],
+      "motivations": [
+        "Invest in scalable AI solutions",
+        "Support companies with proven traction",
+        "Achieve high returns on investment"
+      ],
+      "search_query": "Growth-stage VC AI investment Europe",
+      "outreach_angle": "Highlight the traction and growth potential of the LLMs in the French and German markets"
+    },
+    {
+      "name": "Jürgen Schmidt",
+      "title": "Head of AI Investments",
+      "company": "European Family Office",
+      "profile": "Jürgen manages AI-focused investments for a family office with a long-term investment horizon. He has a background in AI research and is interested in sustainable and impactful technologies.",
+      "pain_points": [
+        "Ensuring long-term investment sustainability",
+        "Finding impactful technologies",
+        "Balancing innovation with stability"
+      ],
+      "motivations": [
+        "Invest in sustainable AI technologies",
+        "Support long-term innovation",
+        "Contribute to impactful tech solutions"
+      ],
+      "search_query": "Family office AI investments Europe",
+      "outreach_angle": "Focus on the sustainable impact and long-term potential of the sectorial LLMs"
+    }
+  ],
+  "leads": [
+    {
+      "id": "jina_lead_1753540107539_2",
+      "name": "Emmanuel Seugé",
+      "title": "Founder and Managing Partner",
+      "company": "CASSIUS Venture Capital",
+      "email": "emmanuel.seugé@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/emmanuel-seug%C3%A9-7197285",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France early-stage VC",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France early-stage VC\"",
+      "found_at": "2025-07-26T14:28:27.539Z",
+      "lead_status": "new",
+      "raw_data": "Founder and Managing Partner, CASSIUS. Sep 2016 - Present 8 years 11 months. Early stage Venture Capital fund investing across North America and Europe.",
+      "persona_id": "Louis Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France early-stage VC\"",
+        "Company type aligns with Early-Stage VC Fund (50M AUM)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/emmanuel-seuge-email_1773585",
+      "rocketreach_update_timestamp": "2025-07-26T14:31:51.911Z",
+      "rocketreach_updates": [
+        "💼 Title: Fondateur et Associé Gérant → Founder and Managing Partner"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Founder and Director at Cassius Family Management LLC, focusing on early-stage tech investments."
+        ],
+        "recent_developments": [
+          "No recent developments available from the provided sources."
+        ],
+        "strategic_priorities": [
+          "Focus on early-stage technology venture capital investments."
+        ],
+        "industry_involvement": [
+          "No recent speaking engagements, publications, or interviews found."
+        ],
+        "company_context": [
+          "Cassius Family Management LLC is involved in early-stage tech investments."
+        ],
+        "competitive_intelligence": [
+          "Emmanuel Seugé is leveraging his 19 years of marketing experience at Coca-Cola in his current role as a tech VC."
+        ],
+        "outreach_angles": [
+          "Discuss early-stage tech investment opportunities or insights from his experience at Coca-Cola."
+        ],
+        "recent_quotes_or_statements": [
+          "No recent quotes or statements found."
+        ],
+        "summary": "Emmanuel Seugé is the Founder and Director of Cassius Family Management LLC, focusing on early-stage tech investments. He brings extensive marketing experience from his previous role at Coca-Cola.",
+        "intelligence_quality": "medium",
+        "generated_at": "2025-07-26T14:37:19.128Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://www.linkedin.com/in/emmanuel-seug%C3%A9-7197285",
+          "title": "Emmanuel Seugé - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:37:19.128Z"
+        },
+        {
+          "url": "https://www.crunchbase.com/person/emmanuel-seuge",
+          "title": "Emmanuel Seuge - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:37:19.128Z"
+        },
+        {
+          "url": "https://x.com/manuseuge?lang=en",
+          "title": "Emmanuel Seugé - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:37:19.128Z"
+        },
+        {
+          "url": "https://www.bloomberg.com/profile/person/16849385",
+          "title": "Emmanuel Seuge - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:37:19.128Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:37:19.128Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:37:19.128Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Emmanuel, inspired by your work at CASSIUS, I'd love to connect. We're scaling a French LLM with 22k users, focusing on early-stage tech. Keen to discuss potential synergies and insights from your venture experience.",
+        "linkedin_followup": "Hi Emmanuel,\n\nThanks for connecting on LinkedIn! I've been following your impressive journey from Coca-Cola to founding Cassius Family Management LLC, and it's clear that your strategic focus on early-stage tech investments is making waves.\n\nGiven your commitment to nurturing early-stage tech ventures, I thought you might be interested in our on-premise large language model solution. We're serving 22k users and designed specifically for the French market, with performance metrics showing a 75% success rate in French business law applications. This could align well with your strategic priorities at Cassius, especially as you leverage your marketing expertise from Coca-Cola to drive tech investments.\n\nI'd love to explore how our solution can support your projects at Cassius. Feel free to book a time that suits you through my Calendly link: https://calendly.com/mohamed-legml/30min. Looking forward to the possibility of collaborating.\n\nBest regards,  \nMohamad",
+        "email": "**Subject: Quick Chat About Early-Stage Tech Investments?**\n\nHey Emmanuel,\n\nGreat to see your focus on early-stage tech investments at CASSIUS Venture Capital. With the rapid growth in tech, I'm guessing keeping up with the right resources is a challenge. We've built a large language model for the French market—22k users strong with 75% accuracy in French business law. This might help streamline your investment insights.\n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:41:55Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753540113545_1",
+      "name": "Jean-Laurent Bonnafé",
+      "title": "Directeur Général et CEO",
+      "company": "BNP Paribas",
+      "email": "jean-laurent.bonnafé@bnp.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/jean-laurent-bonnafé-9540911a1",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.98,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T14:28:33.545Z",
+      "lead_status": "new",
+      "raw_data": "Director and Chief Executive Officer of BNP Paribas · Engineer by training, banker since 1993, and CEO of BNP Paribas since December 2011.",
+      "persona_id": "Emma Martin",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Independent",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/jean-laurent-bonnafe-email_229257558",
+      "rocketreach_update_timestamp": "2025-07-26T14:31:59.371Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/jean-laurent-bonnafé-9540911a1"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Leading BNP Paribas' strategic initiatives in sustainable finance and digital transformation."
+        ],
+        "recent_developments": [
+          "BNP Paribas reported financial results as of June 2025, indicating ongoing strategic initiatives under Bonnafé's leadership."
+        ],
+        "strategic_priorities": [
+          "Focus on sustainable and inclusive contributions to environmental, societal, technological, and economic challenges."
+        ],
+        "industry_involvement": [
+          "Chairman of the Fédération Bancaire Française since 2017.",
+          "Member of the International Advisory Council at Bocconi University."
+        ],
+        "company_context": [
+          "BNP Paribas is actively involved in energy transition, climate action, and responsible savings and investments."
+        ],
+        "competitive_intelligence": [
+          "Bonnafé is responsible for all operational activities and group functions at BNP Paribas, indicating a broad scope of influence and decision-making power."
+        ],
+        "outreach_angles": [
+          "Discuss BNP Paribas' role in sustainable finance and digital transformation.",
+          "Explore opportunities for collaboration in energy transition and climate action initiatives."
+        ],
+        "recent_quotes_or_statements": [
+          "No specific recent quotes or statements found in the provided content."
+        ],
+        "summary": "Jean-Laurent Bonnafé is the CEO of BNP Paribas, focusing on sustainable finance and digital transformation. He is involved in strategic initiatives addressing environmental and societal challenges, with a significant role in operational activities and group functions.",
+        "intelligence_quality": "medium",
+        "generated_at": "2025-07-26T14:35:56.234Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/jean-laurent-bonnafe/en",
+          "title": "Jean-Laurent Bonnafé - Director",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:35:56.234Z"
+        },
+        {
+          "url": "https://group.bnpparibas/en/group/our-governance/general-management-and-the-executive-committee/jean-laurent-bonnafe",
+          "title": "Jean-Laurent Bonnafé, - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:35:56.234Z"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jean-Laurent_Bonnaf%C3%A9",
+          "title": "Jean-Laurent Bonnafé - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:35:56.234Z"
+        },
+        {
+          "url": "https://bpi.com/people/jean-laurent-bonnafe",
+          "title": "Jean-Laurent Bonnafé - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:35:56.234Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:35:56.234Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:35:56.234Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Bonjour Jean-Laurent, impressed by BNP Paribas' strides in sustainable finance and digital transformation. Curious to explore how our on-premise LLMs can support your strategic initiatives. Let's connect and discuss potential synergies!",
+        "linkedin_followup": "Hello Jean-Laurent,\n\nThank you for connecting on LinkedIn. I’m truly impressed by your leadership at BNP Paribas, particularly your focus on strategic initiatives in sustainable finance and digital transformation. Your commitment to addressing environmental and societal challenges is inspiring, especially your efforts in energy transition and climate action.\n\nAt legml.ai, we’ve developed a specialized on-premise large language model tailored for the French market, which could significantly enhance BNP Paribas' digital transformation journey. Our model demonstrates a 75% performance in French business law, which aligns well with BNP Paribas' focus on responsible savings and investments. This accuracy can support BNP Paribas' sustainable finance initiatives by ensuring compliance and enhancing decision-making processes without relying on US-based providers.\n\nI’d love to explore how our solution can complement your strategic priorities and contribute to BNP Paribas' ongoing projects. If you’re open to it, please feel free to book a convenient time for a brief discussion through my Calendly link: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to the possibility of collaborating!\n\nBest regards,  \nMohamad",
+        "email": "**Subject:** A Quick Idea for BNP Paribas\n\nHey Jean-Laurent,\n\nGreat to see BNP Paribas leading the charge in sustainable finance and digital transformation. With all that's on your plate, I'm guessing balancing tech innovation with sustainability goals can be a real puzzle. We've built a large language model for the French market—22k users and 75% accuracy on French business law might just streamline some of that complexity. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:41:59Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753540113545_3",
+      "name": "Nicolas Dufourcq",
+      "title": "Directeur Exécutif",
+      "company": "Bpifrance",
+      "email": "nicolas.dufourcq@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/nicolasdufourcq",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T14:28:33.545Z",
+      "lead_status": "new",
+      "raw_data": "I am currently the Executive Director of Bpifrance (the french public investment bank). I began my career in the French Administration before becoming an",
+      "persona_id": "Emma Martin",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Independent",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/nicolas-dufourcq-email_2455097",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T14:32:04.879Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/nicolasdufourcq"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Leading Bpifrance's efforts in industrial revival and ecological transformation",
+          "Involved in strategic initiatives at Stellantis as a non-executive director"
+        ],
+        "recent_developments": [
+          "Published a book in 2023 on the deindustrialization of France from 1995-2015",
+          "Continues to serve on the board of directors for companies like Doctolib and Orange"
+        ],
+        "strategic_priorities": [
+          "Focus on reviving industrial sites in France with a low-carbon and circular industry approach",
+          "Promoting economic growth and sovereignty through Bpifrance's initiatives"
+        ],
+        "industry_involvement": [
+          "Active in discussions about France's industrial policy and economic growth",
+          "Published works on social and economic issues in France"
+        ],
+        "company_context": [
+          "Bpifrance is actively working on ecological transformation and industrial revival",
+          "The company is focusing on sustainable and responsible investment strategies"
+        ],
+        "competitive_intelligence": [
+          "Dufourcq is a key figure in France's public investment bank, driving major economic initiatives",
+          "His role at Stellantis and other boards indicates a strong influence in strategic decision-making"
+        ],
+        "outreach_angles": [
+          "Discuss his recent publication on deindustrialization and its implications for future industrial policies",
+          "Explore opportunities for collaboration in ecological and industrial transformation projects"
+        ],
+        "recent_quotes_or_statements": [
+          "Dufourcq emphasized the importance of writing a 'beautiful industrial page by 2030' through determined efforts in industrial revival"
+        ],
+        "summary": "Nicolas Dufourcq is the CEO of Bpifrance, focusing on industrial revival and ecological transformation in France. He is actively involved in strategic roles at Stellantis and other major companies, and recently published a book on France's deindustrialization. His current priorities include promoting sustainable industry and economic growth.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T14:37:49.999Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/nicolasdufourcq/en",
+          "title": "Nicolas Dufourcq - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:37:50.000Z"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nicolas_Dufourcq",
+          "title": "Nicolas Dufourcq - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:37:50.000Z"
+        },
+        {
+          "url": "https://www.stellantis.com/content/dam/stellantis-corporate/group/governance/leadership/bio/eng/Nicolas%20Duforcq.pdf",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:37:50.000Z"
+        },
+        {
+          "url": "https://www.caissedesdepots.fr/en/unique/governance/Nicolas-Dufourcq",
+          "title": "Nicolas Dufourcq - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:37:50.000Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:37:50.000Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:37:50.000Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Bonjour Nicolas, inspired by your insights on deindustrialization, I'd love to connect. At legml.ai, we're crafting on-premise LLMs to support low-carbon industrial revival. Let's explore synergies in ecological transformation.",
+        "linkedin_followup": "Hi Nicolas,\n\nThank you for connecting on LinkedIn. I've been following Bpifrance's impressive work, especially your leadership in steering the industrial revival and ecological transformation efforts. Your recent book on the deindustrialization of France offers profound insights into the challenges and opportunities for crafting what you aptly describe as a 'beautiful industrial page by 2030.'\n\nGiven your focus on sustainable industry and economic growth, I'd love to explore how our on-premise large language model solution, with its 75% French business law performance, can support Bpifrance's initiatives. Our technology is designed to enhance decision-making processes, which could be particularly beneficial in your strategic roles at Stellantis and other boards, as you drive low-carbon and circular industry approaches.\n\nI believe there are synergies worth exploring between our capabilities and Bpifrance's strategic priorities. If you're open to it, I'd be thrilled to discuss this further. Please feel free to book a time that suits you on my Calendly: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to the possibility of collaborating with you.\n\nBest regards,\nMohamad",
+        "email": "**Subject:** Quick Idea for Your Industrial Goals\n\n---\n\nHey Nicolas,\n\nGreat to see your push for a low-carbon industrial revival at Bpifrance. With all those strategic roles you're juggling, I'm guessing finding efficient solutions is a key focus. We've built on-premise LLMs for the French market - they’ve got a 75% accuracy in French business law. This might help streamline some processes. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:42:06Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753540122787_1",
+      "name": "Jean-Louis Girodolle",
+      "title": "CEO, Investment Banking France",
+      "company": "Lazard",
+      "email": "jean-louis.girodolle@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/jean-louis-girodolle-94a631b",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Director of Strategic Investments France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Director of Strategic Investments France banking\"",
+      "found_at": "2025-07-26T14:28:42.787Z",
+      "lead_status": "new",
+      "raw_data": "Jean-Louis Girodolle joined Lazard in January 2007 as Managing Director and was appointed Chief Executive Officer of Lazard Investment Banking in France in",
+      "persona_id": "Thomas Müller",
+      "persona_match_reasons": [
+        "Found via targeted search for Director of Strategic Investments",
+        "Query match: \"Director of Strategic Investments France banking\"",
+        "Company type aligns with Large European Corporate (Fortune 500)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/jean-louis-girodolle-email_12541968",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T14:32:08.658Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/jean-louis-girodolle-94a631b"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Co-Head of European Investment Banking at Lazard",
+          "CEO of Lazard Investment Banking in France"
+        ],
+        "recent_developments": [
+          "Appointed Co-Head of European Investment Banking in October 2023"
+        ],
+        "strategic_priorities": [
+          "Advising large French and international companies on M&A and strategic financial transactions"
+        ],
+        "industry_involvement": [
+          "Speaker at Les Rencontres Économiques discussing European sovereignty"
+        ],
+        "company_context": [
+          "Lazard's Paris office is a key part of its global platform, focusing on M&A, restructuring, and debt advisory"
+        ],
+        "competitive_intelligence": [
+          "Jean-Louis Girodolle has a strong background in advising on complex transactions and has been with Lazard since 2007"
+        ],
+        "outreach_angles": [
+          "Discussing European investment banking trends and challenges",
+          "Exploring opportunities in M&A and strategic advisory in Europe"
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Jean-Louis Girodolle is currently the Co-Head of European Investment Banking at Lazard and CEO of Lazard Investment Banking in France. Recently appointed to his European role, he focuses on advising large companies on M&A and strategic transactions. He is actively involved in discussions on European sovereignty.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T14:38:12.021Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://www.linkedin.com/posts/lazard_lazards-ceo-in-france-and-co-head-of-investment-activity-7197252191848476672-UyUQ",
+          "title": "Lazard's CEO - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:38:12.021Z"
+        },
+        {
+          "url": "https://www.lazard.com/our-people/jean-louis-girodolle",
+          "title": "Jean-Louis Girodolle - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:38:12.021Z"
+        },
+        {
+          "url": "https://www.lesrencontreseconomiques.fr/en/speakers/jean-louis-girodolle",
+          "title": "Jean-Louis GIRODOLLE - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:38:12.021Z"
+        },
+        {
+          "url": "https://www.lazard.com/news-announcements/lazard-appoints-jean-louis-girodolle-ceo-of-investment-banking-in-france",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:38:12.021Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:38:12.021Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:38:12.021Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Jean-Louis, congrats on your new role as Co-Head of European IB at Lazard! I'm eager to discuss European M&A trends and share insights on our on-prem LLM solution for the French market, which could enhance strategic advisory. Let's connect!",
+        "linkedin_followup": "Hi Jean-Louis,\n\nThank you for connecting with me on LinkedIn. I'm impressed by your recent appointment as Co-Head of European Investment Banking at Lazard and your ongoing leadership as CEO of Lazard Investment Banking in France. Your work advising on M&A and strategic transactions for large companies is truly impactful, especially in the dynamic European market.\n\nI believe our on-premise large language model solution could be a valuable asset for your team. With 22k users already benefiting from our technology, we've tailored our platform specifically for the French market, achieving a remarkable 75% performance on French business law tasks. This could enhance your strategic advisory capabilities, especially in the complex financial landscapes you navigate.\n\nI'd love to explore how we can support your efforts in M&A and strategic financial transactions. You can easily schedule a time for us to discuss further using my Calendly link: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to our conversation.\n\nBest regards,  \nMohamad",
+        "email": "Subject: Quick Chat About Scaling Lazard’s French Operations?\n\nHey Jean-Louis,\n\nI saw you just took on the Co-Head role for European Investment Banking at Lazard—congrats! With such a big focus on advising M&As, I'm guessing there's a ton on your plate. We've built a large language model for the French market that might help—22k users already trust it with 75% accuracy on French business law. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:42:10Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753540138866_0",
+      "name": "Marc Vaucher",
+      "title": "Sr. Investment Director - Head of project selection and delivery",
+      "company": "Blackstone Credit et Assurance",
+      "email": "marc.vaucher@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/marc-vaucher",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Head of AI Investments France LinkedIn",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Head of AI Investments France LinkedIn\"",
+      "found_at": "2025-07-26T14:28:58.866Z",
+      "lead_status": "new",
+      "raw_data": "Senior Investment Director @ SCALE AI | Investing in AI | École Polytechnique - Paris | Mentor · I have 15 years of experience of advisory, negotiations,",
+      "persona_id": "Jürgen Schmidt",
+      "persona_match_reasons": [
+        "Found via targeted search for Head of AI Investments",
+        "Query match: \"Head of AI Investments France LinkedIn\"",
+        "Company type aligns with European Family Office",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/marc-vaucher-email_106380307",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T14:32:34.854Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/marc-vaucher",
+        "💼 Title: Directeur Général - Crédit et Assurance → Sr. Investment Director - Head of project selection and delivery"
+      ],
+      "personality_analysis": {
+        "error": "400 This model's maximum context length is 128000 tokens. However, your messages resulted in 471025 tokens. Please reduce the length of the messages.",
+        "summary": "Unable to extract competitive intelligence due to processing error",
+        "intelligence_quality": "low",
+        "generated_at": "2025-07-26T14:39:54.523Z"
+      },
+      "personality_sources": [
+        {
+          "url": "https://www.linkedin.com/in/marc-vaucher-01a33b209",
+          "title": "Marc Vaucher - Managing Director at CSP Associates",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:39:54.523Z"
+        },
+        {
+          "url": "https://people.equilar.com/bio/person/marc-vaucher-csp-associates/62963172",
+          "title": "Marc Vaucher - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:39:54.523Z"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/922457/000119312518263325/d469148dnpx.htm",
+          "title": "BlackRock Advantage - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:39:54.523Z"
+        },
+        {
+          "url": "https://www.novartis.com/sites/novartiscom/files/novartis-annual-report-2010-en.pdf",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:39:54.523Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:39:54.523Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T14:39:54.523Z",
+        "analysis_method": "web_scraping_chatgpt",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": false,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Marc, I’m Mohamad from legml.ai. We're scaling our on-premise LLMs for the French market. I’d love to connect and discuss insights on selecting and delivering projects efficiently at Blackstone Credit. Let’s explore synergies!",
+        "linkedin_followup": "Hi Marc,\n\nThanks for connecting with me on LinkedIn! I’m excited to have the opportunity to discuss how we can make a meaningful impact together.\n\nAlthough I couldn’t find specific details about your current projects or recent developments at Blackstone Credit et Assurance, I understand the importance of strategic selection and delivery of projects. Our on-premise large language model solution is specifically designed to enhance project efficiency and decision-making, especially given our strong performance in French business law, with a 75% accuracy rate. This could be a valuable asset for your team as you navigate complex investment landscapes.\n\nI'd love to explore this further and see how we can tailor our solution to meet your unique challenges. If you’re interested, feel free to book a time that works for you via my Calendly: https://calendly.com/mohamed-legml/30min. Looking forward to our conversation!\n\nBest, Mohamad",
+        "email": "Subject: Quick Chat About French Business Law?\n\nHey Marc,\n\nGreat to see your role at Blackstone Credit et Assurance, sounds like you're leading some interesting projects! With the fast-paced world of finance, I'm guessing keeping up with all the French business law details can be a bit of a headache. We've built a large language model tailored for the French market - it's got 22k users and hits 75% accuracy on French business law. This might help streamline some of your processes. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:42:15Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753540138866_4",
+      "name": "Adam Rida",
+      "title": "Responsable de l'Intelligence Artificielle",
+      "company": "Autoplay Technologies",
+      "email": "adam.rida@autoplay.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/adamrida",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Head of AI Investments France LinkedIn",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Head of AI Investments France LinkedIn\"",
+      "found_at": "2025-07-26T14:28:58.866Z",
+      "lead_status": "new",
+      "raw_data": "Head of AI at Autoplay - prev Sorbonne U & CNRS · My name is Adam, I am based in Paris, France, a data scientist with a background in AI research and CS.",
+      "persona_id": "Jürgen Schmidt",
+      "persona_match_reasons": [
+        "Found via targeted search for Head of AI Investments",
+        "Query match: \"Head of AI Investments France LinkedIn\"",
+        "Company type aligns with European Family Office",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/adam-rida-email_98310904",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T14:32:53.591Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/adamrida"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Head of AI at Autoplay AI, designing and building an AI inference and processing pipeline to understand user behavior."
+        ],
+        "recent_developments": [
+          "Co-founded a startup through Entrepreneur First to help private equity deal teams screen deals faster using advanced RAG techniques."
+        ],
+        "strategic_priorities": [
+          "Developing sophisticated evaluations and unsupervised learning models to detect user cohorts struggling with product adoption."
+        ],
+        "industry_involvement": [
+          "Published research at the DynXAI workshop of ECML-PKDD 2023 on explainable AI and interpretability."
+        ],
+        "company_context": [
+          "Autoplay AI is focusing on understanding user behavior through AI to improve product adoption and uncover hidden insights."
+        ],
+        "competitive_intelligence": [
+          "Adam Rida is focused on leveraging AI to solve complex problems, particularly in user behavior analysis and private equity deal screening."
+        ],
+        "outreach_angles": [
+          "Discuss his recent work on AI inference pipelines and user behavior analysis at Autoplay AI.",
+          "Explore potential collaborations on explainable AI and concept drift, given his recent publication and research focus."
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Adam Rida is currently the Head of AI at Autoplay AI, where he is developing AI systems to analyze user behavior and improve product adoption. He recently co-founded a startup to enhance private equity deal screening and published research on explainable AI.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T14:40:24.346Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/adam-rida-581296142",
+          "title": "Adam Rida - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:40:24.346Z"
+        },
+        {
+          "url": "https://adrida.github.io/",
+          "title": "Adam Rida - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:40:24.346Z"
+        },
+        {
+          "url": "https://scholar.google.com/citations?user=Ia8Rku4AAAAJ&hl=fr",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:40:24.346Z"
+        },
+        {
+          "url": "https://rocketreach.co/muhammad-f-email_743593660",
+          "title": "Muhammad F. - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:40:24.346Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:40:24.346Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:40:24.346Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Adam, impressed by your AI pipeline work at Autoplay! I'm exploring on-prem LLM solutions for the French market, and your insights on user behavior analysis could be invaluable. Let's connect and discuss potential synergies!",
+        "linkedin_followup": "Hi Adam,\n\nThank you for connecting on LinkedIn! I've been following your impressive work at Autoplay AI, especially your efforts in designing AI inference pipelines to better understand user behavior. It's fascinating to see how you're tackling the challenge of detecting user cohorts struggling with product adoption through sophisticated evaluations and unsupervised learning models.\n\nYour recent venture into enhancing private equity deal screening is equally intriguing. I believe our on-premise LLM solution could complement your work by providing robust, explainable AI capabilities. Our models have been tested to perform with 75% accuracy in French business law contexts, which might be beneficial as you look to develop more precise and insightful user behavior analyses.\n\nI'd love to explore how we might collaborate, particularly around your interest in explainable AI and concept drift. If you're open to it, let's set up a time to chat. You can easily book a slot that works for you via my Calendly: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to the conversation!\n\nBest,\nMohamad",
+        "email": "**Subject:** Quick Chat About AI and User Behavior?\n\nHey Adam,\n\nGreat to see your work on designing AI systems to understand user behavior at Autoplay Technologies. With all that on your plate, I'm guessing pinpointing user adoption challenges can be tricky. We've built large language models for the French market that might help—22k users and 75% accuracy on French business law. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:42:20Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753540274492_0",
+      "name": "Xavier Freynet",
+      "title": "Managing Partner, Services Financiers",
+      "company": "EY Financial Services",
+      "email": "xavier.freynet@financialservic.com.fr",
+      "linkedin_url": "https://www.ey.com/en_uk/people/xavier-freynet",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France banking\"",
+      "found_at": "2025-07-26T14:31:14.492Z",
+      "lead_status": "new",
+      "raw_data": "Xavier Freynet has started working as the Managing Partner of EY Financial Services in France, since 1 July 2021. He is responsible for all services",
+      "persona_id": "Louis Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France banking\"",
+        "Company type aligns with Early-Stage VC Fund (50M AUM)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/xavier-freynet-email_78369819",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Leading large and complex transformation projects including technology-enabled solutions for financial services clients."
+        ],
+        "recent_developments": [
+          "Appointed as Managing Partner of EY Financial Services in France since July 1, 2021."
+        ],
+        "strategic_priorities": [
+          "Focusing on digitalization, automation, and AI to meet rapidly evolving client needs."
+        ],
+        "industry_involvement": [
+          "Engaged in providing insights on megatrends like rapid digitalization and globalization."
+        ],
+        "company_context": [
+          "Overseeing a team of 1,100 professionals servicing clients in banking, capital markets, insurance, payments, wealth, and asset management."
+        ],
+        "competitive_intelligence": [
+          "Responsible for all services including audit, consulting, technology, tax, legal, strategy, and transaction services at EY France."
+        ],
+        "outreach_angles": [
+          "Discussing the impact of digitalization and AI on financial services could resonate well."
+        ],
+        "recent_quotes_or_statements": [
+          "Digitalization, automation, and the use of AI represent the most dramatic change experienced in his career."
+        ],
+        "summary": "Xavier Freynet is the Managing Partner of EY Financial Services in France, focusing on digital transformation and AI to address client needs. He leads a team of 1,100 professionals in delivering comprehensive services across various financial sectors.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T14:40:56.368Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/xavierfreynet",
+          "title": "Xavier Freynet - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:40:56.368Z"
+        },
+        {
+          "url": "https://www.ey.com/en_gl/people/xavier-freynet",
+          "title": "Xavier Freynet - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:40:56.368Z"
+        },
+        {
+          "url": "https://www.ey.com/en_us/people/xavier-freynet",
+          "title": "Xavier Freynet - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:40:56.368Z"
+        },
+        {
+          "url": "https://www.ey.com/en_kr/people/xavier-freynet",
+          "title": "Xavier Freynet - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:40:56.368Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:40:56.368Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:40:56.368Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Xavier, congrats on your role! Your work on tech-enabled transformations at EY inspires. At legml.ai, we're enhancing French LLMs for finance. Would love to chat about digitalization and AI's impact on your projects.",
+        "linkedin_followup": "Hi Xavier,\n\nThank you for connecting with me on LinkedIn. I’ve been really impressed by your leadership at EY Financial Services, especially your focus on digitalization, automation, and AI. Leading large-scale transformation projects is no small feat, and your recent appointment as Managing Partner is a testament to your expertise in these areas.\n\nGiven your strategic priorities, our on-premise large language model could be a game-changer for your team. With a solid base of 22k users, our solution is tailored to the French market and excels in areas like French business law, achieving a 75% performance accuracy. By integrating our LLM, EY could further enhance its service offerings in audit, consulting, and technology, aligning perfectly with your vision of leveraging AI to meet evolving client needs.\n\nI’d love to explore how we can support EY's digital transformation goals further. If you’re open to it, please feel free to book a time that suits you on my Calendly: https://calendly.com/mohamed-legml/30min. Looking forward to the possibility of working together.\n\nBest regards,  \nMohamad",
+        "email": "Subject: Quick Chat About AI Solutions?\n\nHey Xavier,\n\nCongrats on leading those big transformation projects at EY Financial Services! With all the digitalization and AI focus, I'm guessing finding reliable tech solutions can be a bit of a puzzle. We've built on-premise large language models for the French market—perfect for scaling compute. It nails 75% accuracy on French business law, so this might help streamline things for you.\n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:42:24Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753540274492_3",
+      "name": "Radwan Hoteit",
+      "title": "Managing Partner, Services Financiers",
+      "company": "EY & Associés",
+      "email": "radwan.hoteit@ey.com.fr",
+      "linkedin_url": "https://www.ey.com/en_nl/people/radwan-hoteit",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France banking\"",
+      "found_at": "2025-07-26T14:31:14.492Z",
+      "lead_status": "new",
+      "raw_data": "Radwan is currently the Managing Partner Financial Services at EY & Associés, France. As such, he is responsible for all services including and not limit",
+      "persona_id": "Louis Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France banking\"",
+        "Company type aligns with Early-Stage VC Fund (50M AUM)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/radwan-hoteit-email_12163452",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Managing the Financial Services sector at EY France, overseeing services including Audit, Consulting, Legal, and Transaction Services."
+        ],
+        "recent_developments": [
+          "Radwan Hoteit is the Managing Partner for Financial Services at EY France, a position he has held since 2006."
+        ],
+        "strategic_priorities": [
+          "Enhancing the performance and agility of financial institutions to contribute to a better working world."
+        ],
+        "industry_involvement": [
+          "Radwan has extensive experience in banking and capital markets, and has been involved in risk management and financial services consultancy."
+        ],
+        "company_context": [
+          "EY France's Financial Services Office, led by Radwan, consists of 1100 professionals dedicated to servicing the finance sector."
+        ],
+        "competitive_intelligence": [
+          "Radwan is focused on managing a large team and ensuring the delivery of comprehensive services across multiple domains within financial services."
+        ],
+        "outreach_angles": [
+          "Discussing the role of financial services in economic development and sustainability could resonate with Radwan, given his focus on these areas."
+        ],
+        "recent_quotes_or_statements": [
+          "Radwan believes the finance industry will continue to play a vital role in economic development and prosperity, emphasizing the importance of trust and agility in financial institutions."
+        ],
+        "summary": "Radwan Hoteit is the Managing Partner for Financial Services at EY France, responsible for overseeing a wide range of services. He is focused on enhancing the performance and trustworthiness of financial institutions to contribute to economic development and sustainability.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T14:41:17.676Z",
+        "content_sources": 1,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://www.ey.com/en_us/people/radwan-hoteit",
+          "title": "Radwan Hoteit - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:41:17.676Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:41:17.676Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 0,
+        "linkedin_urls_kept_for_reference": 0,
+        "non_linkedin_sites_attempted": 1,
+        "content_sources_used": 1,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:41:17.676Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Radwan, impressed by your work at EY enhancing financial services. I'm Mohamad from legml.ai, offering on-premise LLMs for the French market. Let's connect and explore synergies in driving sustainable economic growth!",
+        "linkedin_followup": "Bonjour Radwan,\n\nMerci beaucoup d'avoir accepté ma demande de connexion ! J'ai été particulièrement impressionné par votre travail en tant que Managing Partner chez EY France, surtout avec votre engagement à renforcer la performance et l'agilité des institutions financières pour un monde meilleur. C'est inspirant de voir comment vous dirigez une équipe de 1100 professionnels pour offrir des services complets dans le secteur financier.\n\nChez legml.ai, nous développons des modèles de langage sur-mesure pour le marché français, et je pense que notre solution pourrait être particulièrement pertinente pour vous. Étant donné votre priorité stratégique d'améliorer la confiance et la performance des institutions financières, notre modèle offre une précision de 75% en droit des affaires français, ce qui pourrait vraiment renforcer vos services en audit, conseil légal, et transactions.\n\nJe serais ravi d'explorer comment notre technologie pourrait s'intégrer dans vos initiatives actuelles pour contribuer à la durabilité économique et au développement. Si cela vous intéresse, je vous propose de fixer un moment pour en discuter plus en détail. Voici mon lien Calendly pour organiser un entretien à votre convenance : https://calendly.com/mohamed-legml/30min\n\nJ'espère avoir l'opportunité d'échanger bientôt avec vous.\n\nBien à vous,\n\nMohamad",
+        "email": "**Subject:** Quick Thought on Boosting EY's Agility\n\nHey Radwan,\n\nGreat to see how you're enhancing the performance and agility of financial institutions at EY France. With all that on your plate, I'm guessing finding new ways to streamline operations could be a challenge. We've built large language models for the French market that might help - 22k users and 75% accuracy on French business law. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:42:29Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753540276477_4",
+      "name": "Séverine Hotellier",
+      "title": "Associée et Responsable de la Pratique Assurance",
+      "company": "Dentons",
+      "email": "séverine.hotellier@financialservic.com.fr",
+      "linkedin_url": "https://www.dentons.com/en/severine-hotellier",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France insurance",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France insurance\"",
+      "found_at": "2025-07-26T14:31:16.477Z",
+      "lead_status": "new",
+      "raw_data": "Séverine Hotellier is Partner in Dentons' Paris office where she also heads the Insurance practice. Séverine focuses on insurance litigation.",
+      "persona_id": "Louis Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France insurance\"",
+        "Company type aligns with Early-Stage VC Fund (50M AUM)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Leading the Insurance practice at Dentons' Paris office",
+          "Advising on complex insurance litigation and claims management for industrial clients"
+        ],
+        "recent_developments": [
+          "Recognized by Chambers Europe 2023 and Legal 500 EMEA 2023 for her expertise in insurance law",
+          "Appointed as France Managing Partner at Dentons from 2019 to 2021"
+        ],
+        "strategic_priorities": [
+          "Focusing on insurance litigation and evolving risks in the insurance sector",
+          "Implementing Dentons' vision in France and leading innovation initiatives"
+        ],
+        "industry_involvement": [
+          "Lecturer in Insurance Law at University Paris I Panthéon-Sorbonne from 2015 to 2018",
+          "Member of the Association pour le Risk Management et les Assurances d’Entreprises (AMRAE)"
+        ],
+        "company_context": [
+          "Dentons is expanding its global presence with recent combinations in the Philippines and India",
+          "The Paris office celebrated its 40th anniversary in 2018 and employs 130 lawyers"
+        ],
+        "competitive_intelligence": [
+          "Séverine Hotellier is highly involved in advising on cyber risk and insurance policy adaptation",
+          "She has a strong focus on high-stakes insurance litigation and regulatory insurance distribution"
+        ],
+        "outreach_angles": [
+          "Discuss her insights on cyber risk management in the insurance sector",
+          "Explore opportunities for collaboration on complex insurance litigation cases"
+        ],
+        "recent_quotes_or_statements": [
+          "Séverine Hotellier expressed excitement about her role in implementing Dentons' vision in France and partnering with clients to meet strategic objectives"
+        ],
+        "summary": "Séverine Hotellier is a Partner at Dentons' Paris office, leading the Insurance practice. She is recognized for her expertise in insurance litigation and is actively involved in advising on cyber risk and insurance policy adaptation. Recently, she was acknowledged by Chambers Europe and Legal 500 for her contributions to the field.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T14:41:52.189Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/s%C3%A9verine-hotellier",
+          "title": "Séverine Hotellier - Partner / Head of Insurance France",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:41:52.190Z"
+        },
+        {
+          "url": "https://www.dentons.com/en/severine-hotellier",
+          "title": "Séverine Hotellier - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:41:52.190Z"
+        },
+        {
+          "url": "https://www.dentons.com/en/about-dentons/news-events-and-awards/news/2019/january/dentons-appoints-severine-hotellier-as-france-managing-partner",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:41:52.190Z"
+        },
+        {
+          "url": "https://www.legal500.com/firms/895-dentons/c-france/lawyers/539699-severine-hotellier",
+          "title": "Séverine Hotellier - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:41:52.190Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:41:52.190Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:41:52.190Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Séverine, impressed by your recognition in Chambers Europe 2023! I'd love to discuss cyber risk management in insurance and explore how our on-premise LLM solutions could support your innovation at Dentons. Let's connect!",
+        "linkedin_followup": "Bonjour Séverine,\n\nMerci beaucoup d'avoir accepté ma demande de connexion. J'ai été particulièrement impressionné par votre travail remarquable dans la gestion des litiges complexes et la gestion des risques cybernétiques au sein de la pratique Assurance chez Dentons. Votre reconnaissance par Chambers Europe 2023 et Legal 500 EMEA 2023 témoigne de votre expertise et de votre leadership dans ce domaine.\n\nJe pense que notre solution de modèles de langage sur site pourrait offrir une valeur ajoutée significative à vos projets en cours, surtout dans le contexte de l'évolution des risques dans le secteur de l'assurance. Notre modèle a démontré une performance de 75% en droit des affaires français, ce qui pourrait être un atout pour renforcer votre équipe dans la gestion des litiges d'assurance à fort enjeu et l'adaptation des politiques d'assurance en matière de cyber risques.\n\nJe serais ravi d'explorer comment nous pourrions collaborer pour soutenir vos initiatives d'innovation chez Dentons. Si cela vous intéresse, n'hésitez pas à réserver un créneau qui vous convient via ce lien : https://calendly.com/mohamed-legml/30min.\n\nJe me réjouis de discuter avec vous bientôt.\n\nCordialement,  \nMohamad",
+        "email": "Subject: Quick Idea for Your Insurance Challenges\n\nHey Séverine,\n\nCongrats on being recognized by Chambers Europe 2023 for your insurance law expertise! With all the evolving risks in the insurance sector you're tackling, I'm guessing keeping up with the latest in business law can be a lot. We've built an on-premise LLM for the French market that boasts 75% accuracy on French business law. This might help streamline some of those complex litigation cases.\n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:42:34Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753540281650_1",
+      "name": "Jean-Laurent Bonnafé",
+      "title": "Directeur Général et Président Directeur Général",
+      "company": "BNP Paribas",
+      "email": "jean-laurent.bonnafé@bnp.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/jean-laurent-bonnafe/en",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.98,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T14:31:21.650Z",
+      "lead_status": "new",
+      "raw_data": "Director and Chief Executive Officer of BNP Paribas · Engineer by training, banker since 1993, and CEO of BNP Paribas since December 2011.",
+      "persona_id": "Emma Martin",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Independent",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Leading BNP Paribas' strategic initiatives in sustainable finance and digital transformation."
+        ],
+        "recent_developments": [
+          "BNP Paribas reported financial results as of June 2025, indicating ongoing strategic initiatives under Bonnafé's leadership."
+        ],
+        "strategic_priorities": [
+          "Focus on sustainable and inclusive contributions to environmental, societal, technological, and economic challenges.",
+          "Emphasis on energy transition, climate action, and responsible investments."
+        ],
+        "industry_involvement": [
+          "Chairman of the Fédération Bancaire Française since 2017.",
+          "Member of the International Advisory Council at Bocconi University."
+        ],
+        "company_context": [
+          "BNP Paribas is actively involved in sustainable finance and innovation, with a focus on customer experience and data & AI."
+        ],
+        "competitive_intelligence": [
+          "Bonnafé is responsible for all operational activities and group functions at BNP Paribas, indicating a central role in strategic decision-making."
+        ],
+        "outreach_angles": [
+          "Discuss BNP Paribas' role in sustainable finance and how it aligns with global environmental goals.",
+          "Explore opportunities in digital transformation and innovation within the banking sector."
+        ],
+        "recent_quotes_or_statements": [
+          "No specific recent quotes or statements found in the provided content."
+        ],
+        "summary": "Jean-Laurent Bonnafé, as CEO of BNP Paribas, is currently focused on driving the bank's strategic initiatives in sustainable finance and digital transformation. He plays a pivotal role in managing all operational activities and group functions, emphasizing environmental and societal contributions.",
+        "intelligence_quality": "medium",
+        "generated_at": "2025-07-26T14:36:18.938Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/jean-laurent-bonnafe/en",
+          "title": "Jean-Laurent Bonnafé - Director",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:36:18.938Z"
+        },
+        {
+          "url": "https://group.bnpparibas/en/group/our-governance/general-management-and-the-executive-committee/jean-laurent-bonnafe",
+          "title": "Jean-Laurent Bonnafé, - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:36:18.938Z"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jean-Laurent_Bonnaf%C3%A9",
+          "title": "Jean-Laurent Bonnafé - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:36:18.938Z"
+        },
+        {
+          "url": "https://bpi.com/people/jean-laurent-bonnafe",
+          "title": "Jean-Laurent Bonnafé - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:36:18.938Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:36:18.938Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:36:18.938Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Bonjour Jean-Laurent, impressed by BNP Paribas' strides in sustainable finance and digital transformation. Eager to connect and explore how our on-premise LLMs can support these initiatives and align with your strategic priorities.",
+        "linkedin_followup": "Hello Jean-Laurent,\n\nThank you for connecting on LinkedIn. I’ve been closely following BNP Paribas’s impressive strides in sustainable finance and digital transformation under your leadership. Your focus on energy transition and climate action, along with the recent financial results, truly sets a benchmark in aligning with global environmental goals.\n\nAt legml.ai, we specialize in large language models tailored for the French market, boasting a 75% performance metric in French business law. Our on-premise LLM solution can significantly enhance BNP Paribas's data-driven initiatives, aligning perfectly with your commitment to innovation and customer experience. Our model is designed to support your strategic initiatives by providing robust, AI-driven insights that complement your focus on sustainable and responsible investments.\n\nI would love to explore how we can support BNP Paribas in these areas. Feel free to book a 30-minute chat at your convenience using my Calendly link: https://calendly.com/mohamed-legml/30min\n\nLooking forward to our conversation.\n\nBest regards,  \nMohamad",
+        "email": "Subject: Quick Idea for BNP Paribas 🚀\n\nHey Jean-Laurent,\n\nGreat to see BNP Paribas driving the charge in sustainable finance and digital transformation. With such a massive focus on these initiatives, I'm guessing keeping everything streamlined can be tricky. We've built a large language model specifically for the French market that could ease some of that complexity - it's got 75% accuracy on French business law.\n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:42:38Z",
+        "generated_by": "OutreachNode"
+      }
+    }
+  ],
+  "outreach": [],
+  "inbound": [],
+  "triage": [],
+  "search_metadata": {
+    "total_leads": 42,
+    "leads_per_persona": {
+      "Louis Dupont": 8,
+      "Emma Martin": 11,
+      "Thomas Müller": 15,
+      "Jürgen Schmidt": 8
+    },
+    "search_completed_at": "2025-07-26T16:35:31Z",
+    "search_method": "jina_api",
+    "real_data": true,
+    "llm_enhanced": true,
+    "rocketreach_enriched": 22,
+    "rocketreach_success_rate": "52%",
+    "existing_leads_updated": 13,
+    "existing_leads_total": 42,
+    "personality_analyzed_leads": 10,
+    "successful_personality_analyses": 9,
+    "personality_analysis_completed": "2025-07-26T16:41:52Z",
+    "personality_analysis_method": "web_scraping_chatgpt_analysis",
+    "personality_analysis_sources": {
+      "total_analyzed": 9,
+      "sources": {},
+      "confidence_distribution": {
+        "high": 0,
+        "medium": 0,
+        "low": 0
+      }
+    }
+  },
+  "outreach_metadata": {
+    "total_leads_processed": 10,
+    "outreach_messages_generated": 10,
+    "csv_export_path": "/home/azureuser/jim_and_dwight/profiles/p_20250726_1425/leads-outreach.csv",
+    "outreach_completed_at": "2025-07-26T16:42:39Z",
+    "outreach_method": "competitive_intelligence_based",
+    "message_types": [
+      "linkedin_connection",
+      "linkedin_followup",
+      "email"
+    ]
+  }
+}

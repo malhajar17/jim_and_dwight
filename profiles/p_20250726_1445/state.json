@@ -1,0 +1,1319 @@
+{
+  "run_id": "p_20250726_1445",
+  "mode": "investor",
+  "profile": {
+    "answers": {
+      "product": "french speaking llm legml",
+      "target": "200k for 10%",
+      "pain": "22k free users",
+      "signals": [
+        "sectorial llm"
+      ],
+      "proof": "vs investor or angel investor",
+      "cta": "deck",
+      "constraints": "non-french investors"
+    },
+    "enrichment": {
+      "product": {
+        "original": "french speaking llm legml",
+        "enriched": [
+          {
+            "question": "What is the current market size and growth rate for French-speaking legal language models?",
+            "answer": "15b and growing 10% per year"
+          },
+          {
+            "question": "What specific traction numbers do you have, such as revenue, user base, or growth rate?",
+            "answer": "20% grwth by the year"
+          },
+          {
+            "question": "What are your clear competitive advantages compared to other legal language models?",
+            "answer": "sectorial llms"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer 'french speaking llm legml' lacks specificity and context. It does not provide details about the target audience, market segment, or any concrete metrics or proof points. There is no actionable information or sufficient context to understand the value proposition. It is too vague and generic to be considered rich enough."
+        }
+      },
+      "target": {
+        "original": "200k for 10%",
+        "enriched": [
+          {
+            "question": "What is the intended use of the funds being raised?",
+            "answer": "scale compute"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer '200k for 10%' lacks specificity and context. It does not provide details about the stage of the company, the target market, or how the funds will be used. There are no concrete metrics, numbers, or proof points that demonstrate the value proposition or appeal to a specific audience. The answer is too generic and does not offer actionable information for investor outreach."
+        }
+      },
+      "pain": {
+        "original": "22k free users",
+        "enriched": [
+          {
+            "question": "What is the current revenue or revenue growth rate?",
+            "answer": "10%"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer '22k free users' lacks specificity and context. It does not provide information about the target audience or market segment, nor does it offer concrete metrics or proof points beyond the number of users. Additionally, it does not include actionable information for outreach or sufficient context to understand the value proposition. More details are needed to make the answer rich enough."
+        }
+      },
+      "signals": {
+        "original": "sectorial llm",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      },
+      "proof": {
+        "original": "vs investor or angel investor",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      },
+      "cta": {
+        "original": "deck",
+        "enriched": [
+          {
+            "question": "Is there a data room available for investors to review additional materials and information?",
+            "answer": "yes it will be provided"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer 'deck' is too vague and lacks specificity. It does not provide any details about the content of the deck, the target audience, metrics, or any actionable information. It needs more context to understand the value proposition and make it useful for investor outreach."
+        }
+      },
+      "constraints": {
+        "original": "non-french investors",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      }
+    },
+    "value_prop": ""
+  },
+  "personas": [
+    {
+      "name": "Marie Dupont",
+      "title": "Managing Partner",
+      "company": "Early-Stage VC Fund (Assets under management: $50M)",
+      "profile": "Marie is a seasoned investor with a focus on early-stage tech startups in Europe. She has a background in law and is interested in innovative legal technologies.",
+      "pain_points": [
+        "Finding scalable legal tech solutions",
+        "High competition for promising startups",
+        "Limited time for due diligence"
+      ],
+      "motivations": [
+        "Invest in disruptive legal tech",
+        "Support startups with high growth potential",
+        "Expand portfolio in the French-speaking market"
+      ],
+      "search_query": "Early-stage VC legal tech Europe",
+      "outreach_angle": "Highlight the unique sectorial LLM advantage and growth potential in the French-speaking market"
+    },
+    {
+      "name": "John Smith",
+      "title": "Angel Investor",
+      "company": "Individual Investor",
+      "profile": "John is a retired tech entrepreneur turned angel investor. He looks for opportunities to mentor and support startups in the AI and legal tech sectors.",
+      "pain_points": [
+        "Limited access to niche market insights",
+        "Balancing risk with potential returns",
+        "Desire for involvement in startup growth"
+      ],
+      "motivations": [
+        "Mentor promising startups",
+        "Invest in AI-driven solutions",
+        "Diversify investment portfolio"
+      ],
+      "search_query": "Angel investor AI legal tech",
+      "outreach_angle": "Emphasize mentorship opportunities and the innovative use of AI in legal language models"
+    },
+    {
+      "name": "Elena Garcia",
+      "title": "Director of Strategic Investments",
+      "company": "Large Corporate VC (Fortune 500 Company)",
+      "profile": "Elena manages strategic investments for a multinational corporation, focusing on technologies that can integrate with their existing legal services.",
+      "pain_points": [
+        "Aligning investments with corporate strategy",
+        "Ensuring technology compatibility",
+        "Long decision-making cycles"
+      ],
+      "motivations": [
+        "Enhance corporate legal services",
+        "Invest in complementary technologies",
+        "Achieve strategic synergies"
+      ],
+      "search_query": "Corporate VC legal tech strategic investments",
+      "outreach_angle": "Showcase potential integration benefits and strategic alignment with their corporate goals"
+    },
+    {
+      "name": "Ahmed Khan",
+      "title": "Principal",
+      "company": "Growth-Stage VC Fund (Assets under management: $200M)",
+      "profile": "Ahmed focuses on growth-stage investments in AI and tech companies. He has a keen interest in companies with proven traction and scalability.",
+      "pain_points": [
+        "Identifying scalable business models",
+        "Ensuring sustainable growth",
+        "Navigating competitive markets"
+      ],
+      "motivations": [
+        "Invest in scalable AI solutions",
+        "Support companies with strong growth metrics",
+        "Expand presence in the European market"
+      ],
+      "search_query": "Growth-stage VC AI tech Europe",
+      "outreach_angle": "Highlight the 20% growth rate and scalability of the French-speaking LLM market"
+    },
+    {
+      "name": "Isabelle Laurent",
+      "title": "Investment Analyst",
+      "company": "Mid-Stage VC Fund (Assets under management: $100M)",
+      "profile": "Isabelle conducts market research and due diligence for a mid-stage VC fund. She specializes in tech investments with a focus on AI and machine learning.",
+      "pain_points": [
+        "Conducting thorough due diligence",
+        "Assessing market potential",
+        "Balancing portfolio diversity"
+      ],
+      "motivations": [
+        "Invest in AI-driven innovations",
+        "Ensure thorough market analysis",
+        "Support data-driven decision making"
+      ],
+      "search_query": "Mid-stage VC AI machine learning investments",
+      "outreach_angle": "Provide comprehensive market data and competitive advantages of sectorial LLMs"
+    }
+  ],
+  "leads": [
+    {
+      "id": "jina_lead_1753541269659_3",
+      "name": "Gilles Amsallem",
+      "title": "Managing Partner, Corporate and US Groups",
+      "company": "Eurazeo",
+      "email": "gilles.amsallem@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/gilles-amsallem-a6715223",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France VC",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France VC\"",
+      "found_at": "2025-07-26T14:47:49.659Z",
+      "lead_status": "new",
+      "raw_data": "Gilles is our Managing Partner in France and heads both the corporate and US groups. Gilles advises large media entertainment and technology clients.",
+      "persona_id": "Marie Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France VC\"",
+        "Company type aligns with Early-Stage VC Fund (Assets under management: $50M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/gilles-amsallem-email_27776967",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T14:50:15.230Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/gilles-amsallem-a6715223"
+      ],
+      "personality_analysis": {
+        "error": "400 This model's maximum context length is 128000 tokens. However, your messages resulted in 613234 tokens. Please reduce the length of the messages.",
+        "summary": "Unable to extract competitive intelligence due to processing error",
+        "intelligence_quality": "low",
+        "generated_at": "2025-07-26T14:53:37.004Z"
+      },
+      "personality_sources": [
+        {
+          "url": "https://www.linkedin.com/in/gilles-amsallem-",
+          "title": "Gilles Amsallem - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:53:37.004Z"
+        },
+        {
+          "url": "https://assets.leadersleague.com/guides/Transaction_&_deal/T&D_2023_24.pdf",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:53:37.004Z"
+        },
+        {
+          "url": "https://www.legal500.com/c/france/mergers-and-acquisitions?edition=europe-middle-east-africa/2019-edition/lawyers/540557-balazs-csuday/",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:53:37.004Z"
+        },
+        {
+          "url": "https://chambers.com/downloads/rankings/793/france.pdf",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:53:37.004Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:53:37.004Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T14:53:37.004Z",
+        "analysis_method": "web_scraping_chatgpt",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": false,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Gilles, I'm Mohamad from legml.ai. I'd love to connect and discuss our French-speaking LLM solution, which has already gained 22k users. I believe it could align well with your work at Eurazeo. Looking forward to exploring synergies!",
+        "linkedin_followup": "Hi Gilles,\n\nThank you for connecting with me on LinkedIn. I truly appreciate the opportunity to engage with someone leading the charge at Eurazeo. While there wasn't specific competitive intelligence available at this time, I understand the innovative and strategic nature of the work you're doing as Managing Partner.\n\nI wanted to share how our French-speaking LLM, legml, might dovetail with your efforts, particularly given its impressive 75% performance in French business law. With 22k free users already on board, our goal is to expand this to 200k, aligning with our growth objectives and proving value to investors.\n\nIf you're exploring solutions that can enhance your legal and corporate operations, I'd love to discuss how our on-premise LLM could fit within your strategic framework. Please feel free to book a time that suits you using my Calendly link: https://calendly.com/mohamed-legml/30min. Looking forward to a potential collaboration.\n\nWarm regards,\nMohamad",
+        "email": "Subject: Quick Chat About French Business Law?\n\nHey Gilles,\n\nI hear Eurazeo is doing some awesome stuff lately! With everything on your plate, I'm guessing tackling French business law can be a bit of a slog. We've built a French-speaking LLM that might just make life easier—22k folks are already using it for free with a 75% accuracy rate in French business law. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:56:52Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753541269659_4",
+      "name": "Benoist Grossmann",
+      "title": "Senior Managing Partner, Chairman of Eurazeo Tech",
+      "company": "Eurazeo",
+      "email": "benoist.grossmann@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/benoist-grossmann-4956b37",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France VC",
+      "confidence_score": 0.98,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France VC\"",
+      "found_at": "2025-07-26T14:47:49.659Z",
+      "lead_status": "new",
+      "raw_data": "Benoist Grossmann is Senior Managing Partner – Chairman Eurazeo Tech. Before joining the Group, Benoist worked for several venture capital funds for over 10",
+      "persona_id": "Marie Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France VC\"",
+        "Company type aligns with Early-Stage VC Fund (Assets under management: $50M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/benoist-grossmann-email_3194482",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T14:50:19.726Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/benoist-grossmann-4956b37"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Managing Growth Capital and Eurazeo Growth activities at Idinvest Partners."
+        ],
+        "recent_developments": [
+          "Eurazeo Investment Manager (EIM) and Eurazeo Mid Cap (EMC) are merging to form Eurazeo Global Investor (EGI)."
+        ],
+        "strategic_priorities": [
+          "Focus on growth capital and expanding Eurazeo's technology investments."
+        ],
+        "industry_involvement": [
+          "President of France Digitale since December 2019.",
+          "Member of Meta France's advisory board.",
+          "Director of Swile and Withings.",
+          "Member of BPI France's Innovation Committee."
+        ],
+        "company_context": [
+          "Eurazeo is a leading private asset manager in Europe, focusing on private equity, private debt, and real assets."
+        ],
+        "competitive_intelligence": [
+          "Benoist Grossmann is heavily involved in technology investments and growth capital at Eurazeo."
+        ],
+        "outreach_angles": [
+          "Discuss the recent merger of EIM and EMC into EGI and its implications for growth capital.",
+          "Explore opportunities in technology investments and digital transformation."
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Benoist Grossmann is the Senior Managing Partner and Chairman of Eurazeo Tech, focusing on growth capital and technology investments. He is actively involved in several industry boards and committees, including France Digitale and Meta France's advisory board.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T14:52:49.929Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/benoist-grossmann-4956b37",
+          "title": "Benoist Grossmann - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:52:49.930Z"
+        },
+        {
+          "url": "https://www.eurazeo.com/en/group/teams/profile/benoist-grossmann",
+          "title": "Benoist Grossmann - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:52:49.930Z"
+        },
+        {
+          "url": "https://www.karmanproject.org/members/benoist-grossmann",
+          "title": "Benoist Grossmann - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:52:49.930Z"
+        },
+        {
+          "url": "https://www.eurazeo.com/en/group/teams?page=1",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:52:49.930Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:52:49.930Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:52:49.930Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Benoist, congrats on the EGI merger! As Eurazeo focuses on tech growth, our on-premise LLM solution, with 22k users, could align with your digital transformation goals. Let's connect to explore potential synergies!",
+        "linkedin_followup": "Hi Benoist,\n\nThank you for connecting with me on LinkedIn. I've been following the exciting developments at Eurazeo, particularly your strategic focus on growth capital and the recent merger of EIM and EMC into Eurazeo Global Investor. These steps seem pivotal in positioning Eurazeo as a leader in technology investments.\n\nGiven your emphasis on expanding tech investments, I wanted to share how our French-speaking LLM, Legml, could align with your goals. With 22k current users, our on-premise solution excels in French business law, achieving a 75% performance metric. This could be particularly valuable in driving the digital transformation initiatives you are championing, especially considering your involvement with industry boards like France Digitale.\n\nI'd love to explore how Legml can support your efforts in enhancing technology-driven growth capital. If you're open to it, feel free to book a time that suits you via my Calendly: https://calendly.com/mohamed-legml/30min. Looking forward to the conversation.\n\nBest regards,  \nMohamad",
+        "email": "**Subject:** Quick chat about boosting your tech investments?\n\nHey Benoist,\n\nGreat to see Eurazeo's focus on expanding tech investments! With all the growth capital you're managing, I'm guessing keeping up with the ever-changing French business law might be a bit of a challenge. We've built a French-speaking LLM on-premise solution that could be just what you need—22k free users love it and it hits 75% accuracy on French business law. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:56:57Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753541276910_0",
+      "name": "Michael Beraha",
+      "title": "Country CEO, Senior Banking Executive",
+      "company": "BNP Paribas",
+      "email": "michael.beraha@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/mikeberaha",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.92,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T14:47:56.910Z",
+      "lead_status": "new",
+      "raw_data": "Senior Banking Executive and Country CEO with 30 years experience gained in IT, operations, front office sales and strategic business development.",
+      "persona_id": "John Smith",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/michael-beraha-email_5374650",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T14:50:24.076Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/mikeberaha"
+      ],
+      "personality_analysis": {
+        "current_projects": [],
+        "recent_developments": [],
+        "strategic_priorities": [],
+        "industry_involvement": [],
+        "company_context": [],
+        "competitive_intelligence": [],
+        "outreach_angles": [],
+        "recent_quotes_or_statements": [],
+        "summary": "No recent information is available about Michael Beraha's current role or activities. The data provided is outdated and does not reflect his current business engagements or focus areas.",
+        "intelligence_quality": "low",
+        "generated_at": "2025-07-26T14:55:57.798Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/mikeberaha",
+          "title": "Michael Beraha - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:55:57.798Z"
+        },
+        {
+          "url": "https://www.wealthbriefing.com/html/article.php/bny-mellon-names-country-representative-for-france",
+          "title": "BNY Mellon - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:55:57.798Z"
+        },
+        {
+          "url": "https://www.globalcustodian.com/michael-beraha-to-promote-bny-mellon-in-france",
+          "title": "Michael Beraha - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:55:57.798Z"
+        },
+        {
+          "url": "https://app.qwoted.com/opportunities/event-impower-incorporating-fundforum-2023",
+          "title": "IMpower Incorporating - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:55:57.798Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:55:57.798Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:55:57.798Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Michael, I lead a team at legml.ai that developed a French-speaking LLM. We have 22k users and aim for 200k. I'd love to connect and explore how our solution could align with BNP Paribas' digital strategies. Looking forward to your thoughts!",
+        "linkedin_followup": "Hi Michael,\n\nThanks for connecting on LinkedIn! I hope you're doing well.\n\nWhile there seems to be limited recent information about your current projects at BNP Paribas, I wanted to share how our on-premise LLM solution might align with your leadership role as a Country CEO in the banking sector. Our French-speaking LLM, legml, has already attracted 22k free users and excels in French business law with a 75% performance metric, which could be particularly beneficial given BNP Paribas's strong presence in Francophone regions.\n\nIf you're interested in exploring how our solution could support your strategic initiatives at BNP Paribas, I'd love to chat further. Feel free to book a time that works for you through my Calendly link: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to the opportunity to discuss this with you.\n\nBest regards,  \nMohamad",
+        "email": "**Subject:** Quick Chat About French Law?\n\nHey Michael,\n\nGreat to see your role at BNP Paribas. With the ever-evolving landscape in banking, I'm guessing staying ahead with legal insights is a constant challenge. We've built an on-premise French-speaking LLM that might help – 22k free users already trust it for its 75% accuracy on French business law. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:57:00Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753541276910_1",
+      "name": "Jean-Laurent Bonnafé",
+      "title": "Chief Executive Officer",
+      "company": "BNP Paribas",
+      "email": "jean-laurent.bonnafé@bnp.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/jean-laurent-bonnafé-9540911a1",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.99,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T14:47:56.910Z",
+      "lead_status": "new",
+      "raw_data": "Director and Chief Executive Officer of BNP Paribas · Engineer by training, banker since 1993, and CEO of BNP Paribas since December 2011.",
+      "persona_id": "John Smith",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/jean-laurent-bonnafe-email_229257558",
+      "rocketreach_update_timestamp": "2025-07-26T14:50:27.725Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/jean-laurent-bonnafé-9540911a1"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Leading BNP Paribas' strategic initiatives in sustainable finance and digital transformation."
+        ],
+        "recent_developments": [
+          "BNP Paribas reported financial results as of June 2025, indicating ongoing strategic initiatives under Bonnafé's leadership."
+        ],
+        "strategic_priorities": [
+          "Focus on sustainable finance and digital transformation to adapt to changing market conditions."
+        ],
+        "industry_involvement": [
+          "Chairman of the Fédération Bancaire Française since 2017, actively involved in shaping banking policies."
+        ],
+        "company_context": [
+          "BNP Paribas is actively pursuing sustainable finance initiatives and digital transformation under Bonnafé's leadership."
+        ],
+        "competitive_intelligence": [
+          "Bonnafé is focused on integrating sustainability into BNP Paribas' core operations and leveraging technology for growth."
+        ],
+        "outreach_angles": [
+          "Discuss BNP Paribas' recent sustainable finance initiatives and digital transformation strategies."
+        ],
+        "recent_quotes_or_statements": [
+          "Bonnafé has emphasized the importance of sustainability and digital innovation in recent public statements."
+        ],
+        "summary": "Jean-Laurent Bonnafé, as CEO of BNP Paribas, is currently leading the bank's strategic focus on sustainable finance and digital transformation. He is actively involved in industry discussions as Chairman of the Fédération Bancaire Française, emphasizing the integration of sustainability and technology in banking operations.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T14:52:21.345Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/jean-laurent-bonnafe/en",
+          "title": "Jean-Laurent Bonnafé - Director",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:52:21.345Z"
+        },
+        {
+          "url": "https://group.bnpparibas/en/group/our-governance/general-management-and-the-executive-committee/jean-laurent-bonnafe",
+          "title": "Jean-Laurent Bonnafé, - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:52:21.345Z"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jean-Laurent_Bonnaf%C3%A9",
+          "title": "Jean-Laurent Bonnafé - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:52:21.345Z"
+        },
+        {
+          "url": "https://bpi.com/people/jean-laurent-bonnafe",
+          "title": "Jean-Laurent Bonnafé - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:52:21.345Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:52:21.345Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:52:21.345Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Jean-Laurent, impressed by BNP Paribas' strides in sustainable finance and digital transformation. I'd love to connect and explore how our French LLM solution can support your innovative initiatives. Let's discuss!",
+        "linkedin_followup": "Hi Jean-Laurent,\n\nThank you for connecting on LinkedIn. I've been following BNP Paribas' impressive strides in sustainable finance and digital transformation, particularly your recent strategic initiatives and the financial results announced in June 2025. Your focus on integrating sustainability into core operations and leveraging technology is truly inspiring.\n\nAt legml.ai, we're deeply aligned with your vision. Our French-speaking LLM solution, with a 75% performance metric in French business law, offers an on-premise model that could significantly support BNP Paribas in these areas. By enhancing legal processing capabilities, we can help streamline your operations and reinforce your digital transformation efforts.\n\nI'd love to explore how we can support BNP Paribas in achieving these strategic priorities. Feel free to book a convenient time for a chat via my Calendly: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to our conversation.\n\nBest regards,  \nMohamad",
+        "email": "**Subject:** Quick Idea for BNP Paribas  \n\nHey Jean-Laurent,  \n  \nGreat to see BNP Paribas pushing forward with sustainable finance and digital transformation. With all these initiatives, I'm guessing keeping everything running smoothly isn't easy. We've built a French-speaking LLM that might help—22k free users love it, and it hits 75% accuracy on French business law. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min  \n  \nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:57:04Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753541276911_3",
+      "name": "Nicolas Dufourcq",
+      "title": "Directeur Général",
+      "company": "Bpifrance",
+      "email": "nicolas.dufourcq@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/nicolasdufourcq",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T14:47:56.911Z",
+      "lead_status": "new",
+      "raw_data": "I am currently the Executive Director of Bpifrance (the french public investment bank). I began my career in the French Administration before becoming an",
+      "persona_id": "John Smith",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/nicolas-dufourcq-email_2455097",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T14:50:33.159Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/nicolasdufourcq"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Leading Bpifrance's efforts in reviving industrial sites with a focus on low-carbon and circular industry."
+        ],
+        "recent_developments": [
+          "Published a book in 2023 titled 'La désindustrialisation de la France: 1995-2015'."
+        ],
+        "strategic_priorities": [
+          "Reviving French industrial sites with new technologies and sustainable practices."
+        ],
+        "industry_involvement": [
+          "Member of the Board of Directors at Stellantis, Doctolib, Orange, and STMicroelectronics."
+        ],
+        "company_context": [
+          "Bpifrance is actively working on industrial revival projects and sustainable industry initiatives."
+        ],
+        "competitive_intelligence": [
+          "As CEO of Bpifrance, Dufourcq is focused on financing and supporting the social economy and industrial revival."
+        ],
+        "outreach_angles": [
+          "Discussing sustainable industrial practices and the role of technology in industrial revival could resonate with Dufourcq."
+        ],
+        "recent_quotes_or_statements": [
+          "Dufourcq emphasized the importance of reviving industrial sites with a focus on sustainability and new technologies."
+        ],
+        "summary": "Nicolas Dufourcq is the CEO of Bpifrance, focusing on reviving French industrial sites with sustainable practices. He is actively involved in various boards and recently published a book on French deindustrialization.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T14:53:59.652Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/nicolasdufourcq/en",
+          "title": "Nicolas Dufourcq - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:53:59.652Z"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nicolas_Dufourcq",
+          "title": "Nicolas Dufourcq - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:53:59.652Z"
+        },
+        {
+          "url": "https://www.stellantis.com/content/dam/stellantis-corporate/group/governance/leadership/bio/eng/Nicolas%20Duforcq.pdf",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:53:59.652Z"
+        },
+        {
+          "url": "https://www.caissedesdepots.fr/en/unique/governance/Nicolas-Dufourcq",
+          "title": "Nicolas Dufourcq - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:53:59.653Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:53:59.653Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:53:59.653Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Nicolas, inspired by your book and Bpifrance's strides in sustainable industry. I'm keen to discuss how our on-premise LLM could support low-carbon tech in reviving industrial sites. Let's connect to explore synergies!",
+        "linkedin_followup": "Hi Nicolas,\n\nThank you for connecting! I've been following Bpifrance's inspiring initiatives, particularly your efforts to revive industrial sites with a focus on low-carbon and circular industry practices. Your recent book, \"La désindustrialisation de la France: 1995-2015,\" offers valuable insights into the challenges and opportunities in the industrial sector.\n\nUnderstanding your strategic priority of reviving French industrial sites with sustainable technologies, I believe our on-premise French-speaking LLM solution could provide considerable support. With a 75% performance metric in French business law, our solution is uniquely positioned to aid in navigating regulatory landscapes and enhancing decision-making processes as you advance these projects. \n\nI'd love to explore how we can assist Bpifrance further in these endeavors. If you're open to it, please feel free to schedule a time that works for you via my Calendly link: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to our conversation.\n\nBest,  \nMohamad",
+        "email": "**Subject:** Boosting Your Industrial Revival with a Twist?\n\nHey Nicolas,\n\nGreat to see your dedication to reviving industrial sites with a low-carbon focus at Bpifrance. With all the complexities of integrating new technologies, I'm guessing navigating French business law can be a bit of a puzzle. We've built a French-speaking LLM that's spot on 75% of the time for business law - and it's already got 22k free users. This might help streamline things a bit.\n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:57:09Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753541284228_2",
+      "name": "Stéphane Lecoq",
+      "title": "Directeur des Partenariats Stratégiques et de la Coopération Internationale",
+      "company": "Business France",
+      "email": "stéphane.lecoq@business.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/st%C3%A9phane-lecoq-35883117",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Director of Strategic Investments France LinkedIn",
+      "confidence_score": 0.92,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Director of Strategic Investments France LinkedIn\"",
+      "found_at": "2025-07-26T14:48:04.228Z",
+      "lead_status": "new",
+      "raw_data": "Stéphane Lecoq. Seasoned Director - Strategic Partnerships & International Cooperation at Business France Capacity Building | Business Development | Startup",
+      "persona_id": "Elena Garcia",
+      "persona_match_reasons": [
+        "Found via targeted search for Director of Strategic Investments",
+        "Query match: \"Director of Strategic Investments France LinkedIn\"",
+        "Company type aligns with Large Corporate VC (Fortune 500 Company)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/stephane-lecoq-email_255710357",
+      "rocketreach_update_timestamp": "2025-07-26T14:50:40.723Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/st%C3%A9phane-lecoq-35883117"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Leading investment initiatives for Business France in Africa, focusing on attracting North-African companies to invest in France."
+        ],
+        "recent_developments": [
+          "Recently participated in the 'Choose France' event to promote business opportunities for North-African companies."
+        ],
+        "strategic_priorities": [
+          "Facilitating international investment in France, particularly from African markets."
+        ],
+        "industry_involvement": [
+          "Spoke at the 'Choose France' event about business opportunities for North-African companies."
+        ],
+        "company_context": [
+          "Business France is actively promoting the 'Choose France' initiative to attract international investments."
+        ],
+        "competitive_intelligence": [
+          "Stéphane Lecoq is the Inward Investment Director for Africa at Business France, based in Casablanca, focusing on investment projects from Africa to France."
+        ],
+        "outreach_angles": [
+          "Discuss potential collaboration on investment projects between North-African companies and French markets."
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Stéphane Lecoq is the Inward Investment Director for Africa at Business France, focusing on attracting investments from North-African companies to France. He recently participated in the 'Choose France' event to promote these opportunities.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T14:56:25.172Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/st%C3%A9phane-lecoq-3451305",
+          "title": "Stéphane Lecoq - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:56:25.172Z"
+        },
+        {
+          "url": "https://evenements.bpifrance.fr/inspire-connect-mediterranee-2022/en/speaker/5556f7a6-e5f9-ec11-b47a-a04a5e7cf9da/stephane-lecoq",
+          "title": "Stéphane LECOQ - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:56:25.172Z"
+        },
+        {
+          "url": "https://et.ambafrance.org/Business-France-1310",
+          "title": "Business France - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:56:25.172Z"
+        },
+        {
+          "url": "https://world.businessfrance.fr/app/uploads/sites/7/2024/05/plaquette-equipe-economique-france-au-maroc-maj-10-05-2024.pdf",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:56:25.172Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:56:25.172Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:56:25.172Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Bonjour Stéphane, ravi de vous contacter après votre intervention au 'Choose France'. Chez legml.ai, notre LLM francophone pourrait renforcer vos initiatives d'investissement en Afrique du Nord. Explorons comment ? Bien à vous, Mohamad.",
+        "linkedin_followup": "Bonjour Stéphane,\n\nMerci de m'avoir accepté dans votre réseau LinkedIn. J'espère que vous allez bien.\n\nJ'ai été particulièrement impressionné par votre travail en tant que Directeur des Partenariats Stratégiques et de la Coopération Internationale chez Business France. Votre rôle dans les initiatives d'investissement en Afrique, notamment pour attirer les entreprises nord-africaines à investir en France, est crucial. J'ai aussi noté votre participation récente à l'événement \"Choose France\" pour promouvoir les opportunités d'affaires pour ces entreprises.\n\nChez legml.ai, nous développons un modèle de langage spécialisé pour le droit français, avec une performance de 75% dans ce domaine, qui pourrait être un atout pour faciliter les investissements internationaux en France. Notre solution pourrait aider à surmonter certaines barrières linguistiques et réglementaires, rendant les processus d'investissement beaucoup plus fluides pour les entreprises africaines que vous ciblez.\n\nSi cela vous semble pertinent, je serais ravi d'explorer comment nous pourrions collaborer pour soutenir vos projets d'investissement entre les marchés nord-africains et français. Vous pouvez facilement réserver un créneau pour en discuter via ce lien : https://calendly.com/mohamed-legml/30min.\n\nJ'espère que nous pourrons discuter bientôt.\n\nBien cordialement,  \nMohamad",
+        "email": "**Subject: Quick Idea for Your Investment Projects**\n\nHey Stéphane,\n\nGreat to see your active role in the 'Choose France' event to boost North-African investments. With your focus on bringing these businesses to France, I'm guessing navigating French business law might be a bit of a maze. We've built a french-speaking LLM - it helps with 75% accuracy on French business law. This might help simplify things for your team and partners. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:57:14Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753541285362_0",
+      "name": "Jean-Louis Girodolle",
+      "title": "CEO, Banque d'Investissement",
+      "company": "Lazard France",
+      "email": "jean-louis.girodolle@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/jean-louis-girodolle-94a631b",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Strategic Investments Director France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Strategic Investments Director France banking\"",
+      "found_at": "2025-07-26T14:48:05.362Z",
+      "lead_status": "new",
+      "raw_data": "Jean-Louis Girodolle joined Lazard in January 2007 as Managing Director and was appointed Chief Executive Officer of Lazard Investment Banking in France in",
+      "persona_id": "Elena Garcia",
+      "persona_match_reasons": [
+        "Found via targeted search for Director of Strategic Investments",
+        "Query match: \"Strategic Investments Director France banking\"",
+        "Company type aligns with Large Corporate VC (Fortune 500 Company)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/jean-louis-girodolle-email_12541968",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T14:50:51.329Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/jean-louis-girodolle-94a631b"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Co-Head of European Investment Banking at Lazard",
+          "Involved in financial advisory missions in France and Europe"
+        ],
+        "recent_developments": [
+          "Appointed Co-Head of European Investment Banking in October 2023"
+        ],
+        "strategic_priorities": [
+          "Advising large French and international companies on M&A and strategic financial transactions"
+        ],
+        "industry_involvement": [
+          "Speaker at Les Rencontres Économiques discussing European sovereignty"
+        ],
+        "company_context": [
+          "Lazard's Paris office is a key part of its global platform, focusing on M&A, restructuring, and debt advisory"
+        ],
+        "competitive_intelligence": [
+          "Jean-Louis Girodolle has a strong background in advising on complex transactions and has been with Lazard since 2007"
+        ],
+        "outreach_angles": [
+          "Discussing European investment banking trends and M&A opportunities",
+          "Exploring strategic financial advisory services in France and Europe"
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Jean-Louis Girodolle is currently the Co-Head of European Investment Banking at Lazard, focusing on advising large companies on M&A and strategic transactions. Recently appointed to this role in October 2023, he is actively involved in financial advisory missions across France and Europe.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T14:54:22.296Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://www.linkedin.com/posts/lazard_lazards-ceo-in-france-and-co-head-of-investment-activity-7197252191848476672-UyUQ",
+          "title": "Lazard's CEO - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:54:22.296Z"
+        },
+        {
+          "url": "https://www.lazard.com/our-people/jean-louis-girodolle",
+          "title": "Jean-Louis Girodolle - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:54:22.296Z"
+        },
+        {
+          "url": "https://www.lesrencontreseconomiques.fr/en/speakers/jean-louis-girodolle",
+          "title": "Jean-Louis GIRODOLLE - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:54:22.296Z"
+        },
+        {
+          "url": "https://www.lazard.com/news-announcements/lazard-appoints-jean-louis-girodolle-ceo-of-investment-banking-in-france",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:54:22.296Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:54:22.296Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:54:22.296Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Jean-Louis, congrats on becoming Co-Head! I'm Mohamad from legml.ai. Our innovative LLM solution is enhancing strategic advisories. I'd love to discuss its impact on European M&A trends. Can we connect?",
+        "linkedin_followup": "Hello Jean-Louis,\n\nThank you for connecting with me on LinkedIn. I was particularly impressed to learn about your recent appointment as Co-Head of European Investment Banking at Lazard and your strategic focus on advising large French and international companies on M&A and financial transactions. It's clear that your role in shaping Lazard's Paris office into a central hub for M&A, restructuring, and debt advisory is pivotal.\n\nAt legml.ai, we are keenly aware of the complexities involved in executing high-stakes transactions across borders. Our French-speaking legal language model is specifically designed to streamline the legal advisory process, achieving a 75% performance metric in French business law contexts. This could significantly enhance your team's efficiency in handling intricate legal aspects of European M&A deals.\n\nI'd love to explore how our on-premise LLM solution can support your financial advisory missions in France and across Europe. If you're open to it, please feel free to book a convenient time for us to chat further using my Calendly link: https://calendly.com/mohamed-legml/30min. Looking forward to the possibility of collaborating with you.\n\nBest regards,\nMohamad",
+        "email": "**Subject:** Quick idea for your M&A projects\n\nHey Jean-Louis,\n\nCongrats on becoming Co-Head of European Investment Banking at Lazard! With all the advisory missions you're juggling, I'm guessing keeping up with the nuances of French business law might be a bit of a puzzle. We've built a French-speaking LLM that might help - 22k users and 75% accuracy in French business law. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:57:19Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753541285362_3",
+      "name": "Florent Trichet",
+      "title": "Directeur Général, Crédit et Assurance",
+      "company": "Blackstone Credit et Assurance",
+      "email": "florent.trichet@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/florent-trichet-37a83511",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Strategic Investments Director France banking",
+      "confidence_score": 0.92,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Strategic Investments Director France banking\"",
+      "found_at": "2025-07-26T14:48:05.362Z",
+      "lead_status": "new",
+      "raw_data": "Florent Trichet is a Managing Director in Blackstone Credit and Insurance (BXCI) based in Paris. Mr. Trichet is involved in the origination, execution, and",
+      "persona_id": "Elena Garcia",
+      "persona_match_reasons": [
+        "Found via targeted search for Director of Strategic Investments",
+        "Query match: \"Strategic Investments Director France banking\"",
+        "Company type aligns with Large Corporate VC (Fortune 500 Company)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/florent-trichet-email_19635364",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T14:50:54.533Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/florent-trichet-37a83511"
+      ],
+      "personality_analysis": {
+        "error": "400 This model's maximum context length is 128000 tokens. However, your messages resulted in 190623 tokens. Please reduce the length of the messages.",
+        "summary": "Unable to extract competitive intelligence due to processing error",
+        "intelligence_quality": "low",
+        "generated_at": "2025-07-26T14:56:48.897Z"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/florent-trichet-37a83511",
+          "title": "Florent Trichet - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:56:48.897Z"
+        },
+        {
+          "url": "https://www.blackstone.com/people/florent-trichet",
+          "title": "Florent Trichet - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:56:48.897Z"
+        },
+        {
+          "url": "https://muraena.ai/profile/florent_trichet_f7430aba",
+          "title": "Florent Trichet - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:56:48.897Z"
+        },
+        {
+          "url": "https://www.blackstone.com/the-firm/our-people",
+          "title": "Our People - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:56:48.897Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:56:48.897Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T14:56:48.897Z",
+        "analysis_method": "web_scraping_chatgpt",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": false,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Florent, I'm Mohamad from legml.ai. I admire your leadership at Blackstone Credit et Assurance. Our on-premise LLM solution has empowered 22k users. I'd love to connect and explore how we can innovate together in credit and insurance.",
+        "linkedin_followup": "Hello Florent,\n\nThank you for connecting with me on LinkedIn. I was hoping to learn more about the exciting initiatives happening at Blackstone Credit et Assurance, but it seems there's a bit of a mystery around your current projects and strategic priorities. Nevertheless, I'm eager to explore how we might collaborate.\n\nAt legml, we've developed a French-speaking LLM solution that could greatly enhance your operations, especially with our impressive 75% performance metric in French business law. This could be particularly valuable given the unique challenges in the credit and assurance sectors.\n\nI'd love to discuss how our technology can support your work at Blackstone. Please feel free to book a time for us to chat through this Calendly link: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to our conversation!\n\nBest regards,  \nMohamad",
+        "email": "Subject: Quick Idea for Blackstone Credit et Assurance\n\nHey Florent,\n\nGreat to see Blackstone Credit et Assurance leading the way in the financial sector. With no major projects on the horizon, I'm guessing you're looking for fresh ways to enhance efficiency. We've built a French-speaking LLM, legml, which might help—it offers 75% accuracy on French business law and has 22k free users backing it up. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:57:23Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753541390214_4",
+      "name": "Jean-Laurent Bonnafé",
+      "title": "Directeur Général",
+      "company": "BNP Paribas",
+      "email": "jean-laurent.bonnafé@financialservic.com.fr",
+      "linkedin_url": "https://bpi.com/people/jean-laurent-bonnafe",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking\"",
+      "found_at": "2025-07-26T14:49:50.214Z",
+      "lead_status": "new",
+      "raw_data": "On 1 December 2011 the Board of Directors appointed Mr Bonnafé Group Chief Executive Officer. Jean-Laurent Bonnafé graduated in Engineering from leading French",
+      "persona_id": "John Smith",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Leading BNP Paribas' strategic initiatives in sustainable finance and innovation.",
+          "Overseeing the integration of digital technologies and AI in banking operations."
+        ],
+        "recent_developments": [
+          "BNP Paribas reported strong financial results as of June 2025.",
+          "Jean-Laurent Bonnafé continues to serve as CEO of BNP Paribas since 2011."
+        ],
+        "strategic_priorities": [
+          "Focus on sustainable and inclusive contributions to environmental and societal challenges.",
+          "Enhancing customer experience through innovation in payment solutions and data management."
+        ],
+        "industry_involvement": [
+          "Chairman of the Fédération Bancaire Française since 2017.",
+          "Member of the International Advisory Council at Bocconi University."
+        ],
+        "company_context": [
+          "BNP Paribas is actively involved in energy transition and climate action.",
+          "The company is focusing on responsible savings and investments."
+        ],
+        "competitive_intelligence": [
+          "Jean-Laurent Bonnafé is responsible for all operational activities and group functions at BNP Paribas.",
+          "He has extensive powers in managing the group, indicating a centralized leadership approach."
+        ],
+        "outreach_angles": [
+          "Discuss BNP Paribas' role in sustainable finance and how it aligns with global environmental goals.",
+          "Explore opportunities for collaboration in digital banking innovations and AI integration."
+        ],
+        "recent_quotes_or_statements": [
+          "No specific recent quotes or statements found in the provided content."
+        ],
+        "summary": "Jean-Laurent Bonnafé is the CEO of BNP Paribas, focusing on sustainable finance and digital innovation. He oversees all operational activities and is involved in strategic initiatives to enhance customer experience and integrate AI in banking operations.",
+        "intelligence_quality": "medium",
+        "generated_at": "2025-07-26T14:54:45.528Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/jean-laurent-bonnafe/en",
+          "title": "Jean-Laurent Bonnafé - Director",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:54:45.528Z"
+        },
+        {
+          "url": "https://group.bnpparibas/en/group/our-governance/general-management-and-the-executive-committee/jean-laurent-bonnafe",
+          "title": "Jean-Laurent Bonnafé, - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:54:45.528Z"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jean-Laurent_Bonnaf%C3%A9",
+          "title": "Jean-Laurent Bonnafé - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:54:45.528Z"
+        },
+        {
+          "url": "https://bpi.com/people/jean-laurent-bonnafe",
+          "title": "Jean-Laurent Bonnafé - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:54:45.528Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:54:45.528Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:54:45.528Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Jean-Laurent, impressed by BNP Paribas' strides in sustainable finance. Curious if our French-speaking LLM could enhance BNP's AI-driven solutions in this realm. Would love to explore synergies in digital banking innovation. Let's connect!",
+        "linkedin_followup": "Hello Jean-Laurent,\n\nThank you for connecting with me on LinkedIn. I admire your leadership at BNP Paribas, particularly your efforts in steering strategic initiatives around sustainable finance and the integration of digital technologies and AI. Your dedication to enhancing customer experience through innovation resonates deeply with our mission at legml.ai.\n\nAt legml.ai, we're excited about the potential of our on-premise LLM solution to support BNP Paribas in these areas. With our solution's 75% performance in French business law, we can offer a robust framework that aligns with your focus on sustainable and inclusive finance while navigating the complexities of regulatory compliance. Our technology is designed to seamlessly integrate into existing banking operations, empowering your team to drive further innovation in payment solutions and data management.\n\nI'd love to explore how we can collaborate to advance BNP Paribas' strategic priorities in digital transformation and sustainable finance. Please feel free to book a time that suits you through my Calendly link: https://calendly.com/mohamed-legml/30min. Looking forward to the opportunity to discuss this further.\n\nWarm regards,\n\nMohamad",
+        "email": "**Subject:** Quick idea for your AI journey\n\nHey Jean-Laurent,\n\nGreat to see BNP Paribas pushing forward with sustainable finance and digital innovation. With all the buzz around AI in banking, I'm guessing integrating it seamlessly might be a challenge. We've built a French-speaking legal AI that's on-premise - 22k users already love it. Plus, it nails French business law with 75% accuracy. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:57:26Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753541397585_0",
+      "name": "Jean-Louis Girodolle",
+      "title": "Directeur Général de la Banque d'Investissement",
+      "company": "Lazard France",
+      "email": "jean-louis.girodolle@financialservic.com.fr",
+      "linkedin_url": "https://www.lazard.com/our-people/jean-louis-girodolle",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Strategic Investments Director France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Strategic Investments Director France banking\"",
+      "found_at": "2025-07-26T14:49:57.585Z",
+      "lead_status": "new",
+      "raw_data": "Jean-Louis Girodolle joined Lazard in January 2007 as Managing Director and was appointed Chief Executive Officer of Lazard Investment Banking in France in",
+      "persona_id": "Elena Garcia",
+      "persona_match_reasons": [
+        "Found via targeted search for Director of Strategic Investments",
+        "Query match: \"Strategic Investments Director France banking\"",
+        "Company type aligns with Large Corporate VC (Fortune 500 Company)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/jean-louis-girodolle-email_12541968",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Co-Head of European Investment Banking at Lazard",
+          "CEO of Lazard Investment Banking in France"
+        ],
+        "recent_developments": [
+          "Appointed Co-Head of European Investment Banking in October 2023"
+        ],
+        "strategic_priorities": [
+          "Advising large French and international companies on M&A and strategic financial transactions"
+        ],
+        "industry_involvement": [
+          "Participated in Les Rencontres Économiques event discussing European sovereignty"
+        ],
+        "company_context": [
+          "Lazard's Paris office is a key hub for global investment banking operations, including sovereign advisory and M&A"
+        ],
+        "competitive_intelligence": [
+          "Jean-Louis Girodolle is focused on expanding Lazard's influence in European investment banking"
+        ],
+        "outreach_angles": [
+          "Discuss European investment banking trends and opportunities",
+          "Explore potential collaborations on M&A advisory"
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Jean-Louis Girodolle is currently the Co-Head of European Investment Banking at Lazard and CEO of Lazard Investment Banking in France. Recently appointed to his European role, he is focused on advising large companies on M&A and strategic transactions. He actively participates in industry events like Les Rencontres Économiques.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T14:55:06.717Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://www.linkedin.com/posts/lazard_lazards-ceo-in-france-and-co-head-of-investment-activity-7197252191848476672-UyUQ",
+          "title": "Lazard's CEO - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T14:55:06.717Z"
+        },
+        {
+          "url": "https://www.lazard.com/our-people/jean-louis-girodolle",
+          "title": "Jean-Louis Girodolle - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:55:06.717Z"
+        },
+        {
+          "url": "https://www.lesrencontreseconomiques.fr/en/speakers/jean-louis-girodolle",
+          "title": "Jean-Louis GIRODOLLE - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:55:06.717Z"
+        },
+        {
+          "url": "https://www.lazard.com/news-announcements/lazard-appoints-jean-louis-girodolle-ceo-of-investment-banking-in-france",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T14:55:06.717Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T14:55:06.717Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T14:55:06.717Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Bonjour Jean-Louis, félicitations pour votre nouveau rôle chez Lazard! Je suis curieux de discuter des tendances bancaires européennes et de notre LLM en français qui soutient les transactions M&A. Explorons ensemble les opportunités de collaborat...",
+        "linkedin_followup": "Hi Jean-Louis,\n\nThank you for connecting on LinkedIn. I've been following your impressive work as Co-Head of European Investment Banking and CEO of Lazard Investment Banking in France. Congratulations on your recent appointment to the European role! Your focus on advising large French and international companies on M&A and strategic transactions is truly impactful, especially as you expand Lazard's influence in European investment banking.\n\nAt legml.ai, we've developed an on-premise LLM solution that could complement your strategic priorities at Lazard. Our model excels with 75% performance in French business law, which could be a valuable asset as you navigate complex M&A and strategic financial transactions, particularly in the French market.\n\nI'd love to discuss how our solution can support your efforts in advising on European investment banking trends and exploring new collaborations. If this sounds interesting, feel free to book a convenient time for a chat through my Calendly link: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to our conversation.\n\nBest regards,  \nMohamad",
+        "email": "**Subject:** Quick Chat About Your New Role? 🚀\n\nHey Jean-Louis,\n\nCongrats on stepping up as Co-Head of European Investment Banking at Lazard! With the big M&A deals you're juggling, I'm guessing streamlining legal insights could be a challenge. We've built a French-speaking LLM that might help – it's got 22k users and nails French business law with 75% accuracy. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T16:57:30Z",
+        "generated_by": "OutreachNode"
+      }
+    }
+  ],
+  "outreach": [],
+  "inbound": [],
+  "triage": [],
+  "search_metadata": {
+    "total_leads": 28,
+    "leads_per_persona": {
+      "Marie Dupont": 4,
+      "John Smith": 8,
+      "Elena Garcia": 16
+    },
+    "search_completed_at": "2025-07-26T16:52:09Z",
+    "search_method": "jina_api",
+    "real_data": true,
+    "llm_enhanced": true,
+    "rocketreach_enriched": 18,
+    "rocketreach_success_rate": "64%",
+    "existing_leads_updated": 10,
+    "existing_leads_total": 28,
+    "personality_analyzed_leads": 10,
+    "successful_personality_analyses": 8,
+    "personality_analysis_completed": "2025-07-26T16:56:48Z",
+    "personality_analysis_method": "web_scraping_chatgpt_analysis",
+    "personality_analysis_sources": {
+      "total_analyzed": 8,
+      "sources": {},
+      "confidence_distribution": {
+        "high": 0,
+        "medium": 0,
+        "low": 0
+      }
+    }
+  },
+  "outreach_metadata": {
+    "total_leads_processed": 10,
+    "outreach_messages_generated": 10,
+    "csv_export_path": "/home/azureuser/jim_and_dwight/profiles/p_20250726_1445/leads-outreach.csv",
+    "outreach_completed_at": "2025-07-26T16:57:31Z",
+    "outreach_method": "competitive_intelligence_based",
+    "message_types": [
+      "linkedin_connection",
+      "linkedin_followup",
+      "email"
+    ]
+  }
+}

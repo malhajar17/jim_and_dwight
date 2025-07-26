@@ -1,0 +1,1512 @@
+{
+  "run_id": "p_20250726_1502",
+  "mode": "investor",
+  "profile": {
+    "answers": {
+      "product": "an llm company for the french market",
+      "target": "seed 500 k for 10% is for scaling comput",
+      "pain": "users o 22k",
+      "signals": [
+        "is we build llms from scratch"
+      ],
+      "proof": "angel investor or a vc or abank",
+      "cta": "deck and data room",
+      "constraints": "non france users"
+    },
+    "enrichment": {
+      "product": {
+        "original": "an llm company for the french market",
+        "enriched": [
+          {
+            "question": "What is the current market size and growth rate for LLMs in the French market?",
+            "answer": "10%"
+          },
+          {
+            "question": "What specific traction numbers do you have, such as revenue, user base, or growth rate?",
+            "answer": "22k free user 1% of them are paying"
+          },
+          {
+            "question": "What are your clear competitive advantages over other LLM companies in the French market?",
+            "answer": "we have sectoria llms"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer 'an llm company for the french market' lacks specific details such as the target audience within the French market, concrete metrics or proof points, and actionable information for outreach. It does not provide sufficient context to understand the value proposition or differentiate the company from other LLM companies."
+        }
+      },
+      "target": {
+        "original": "seed 500 k for 10% is for scaling comput",
+        "enriched": [
+          {
+            "question": "What are the specific milestones or goals you plan to achieve with the $500k funding?",
+            "answer": "is to get to 100k mrr"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer lacks specificity and context. It does not provide a clear target audience or market segment, concrete metrics, or actionable information. The phrase 'scaling comput' is incomplete and unclear, and there is no mention of how the funds will be used in detail or what the value proposition is."
+        }
+      },
+      "pain": {
+        "original": "users o 22k",
+        "enriched": [
+          {
+            "question": "What is your current monthly recurring revenue (MRR) and how has it grown over the past few months?",
+            "answer": "10k"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer 'users o 22k' lacks specificity and context. It provides a single metric (user count) but does not include details about the target audience, market segment, growth rate, revenue, or any actionable information. Additional context and metrics are needed to understand the value proposition and make the answer rich enough for investor outreach."
+        }
+      },
+      "signals": {
+        "original": "is we build llms from scratch",
+        "enriched": [
+          {
+            "question": "What specific expertise or experience does your team have in building LLMs from scratch that sets you apart from competitors?",
+            "answer": "they are deepmind ex employees"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer 'we build llms from scratch' lacks specificity and context. It does not identify a target audience or market segment, provide concrete metrics or proof points, or offer actionable information for outreach. It is too generic and does not sufficiently explain the value proposition."
+        }
+      },
+      "proof": {
+        "original": "angel investor or a vc or abank",
+        "enriched": [
+          {
+            "question": "What specific geographic regions or countries are you targeting for expansion beyond the French market?",
+            "answer": "france"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer lacks specificity and context. It uses generic terms like 'angel investor,' 'vc,' and 'bank' without providing details on the target audience, market segment, or any concrete metrics. There is no actionable information or sufficient context to understand the value proposition for investor outreach."
+        }
+      },
+      "cta": {
+        "original": "deck and data room",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      },
+      "constraints": {
+        "original": "non france users",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      }
+    },
+    "value_prop": ""
+  },
+  "personas": [
+    {
+      "name": "Alexandre Dupont",
+      "title": "Managing Partner",
+      "company": "Early-stage VC fund (AUM $50M)",
+      "profile": "Alexandre is a seasoned investor with a focus on early-stage tech startups in Europe. He has a strong track record of identifying promising AI technologies.",
+      "pain_points": [
+        "Finding unique AI startups",
+        "High competition for deals",
+        "Ensuring portfolio diversification"
+      ],
+      "motivations": [
+        "Invest in cutting-edge AI technology",
+        "Expand presence in the French tech scene",
+        "Achieve high ROI"
+      ],
+      "search_query": "Early-stage VC AI tech investment France",
+      "outreach_angle": "Highlight the unique LLM technology and the potential for high returns in the French market."
+    },
+    {
+      "name": "Isabelle Laurent",
+      "title": "Angel Investor",
+      "company": "Individual Investor",
+      "profile": "Isabelle is a former tech entrepreneur turned angel investor, focusing on innovative startups in the AI and SaaS sectors. She is particularly interested in companies with strong technical teams.",
+      "pain_points": [
+        "Limited access to exclusive deals",
+        "Balancing risk and reward",
+        "Finding startups with a clear growth path"
+      ],
+      "motivations": [
+        "Support innovative tech ventures",
+        "Leverage personal network for startup growth",
+        "Participate in early-stage success stories"
+      ],
+      "search_query": "Angel investor AI SaaS startups France",
+      "outreach_angle": "Emphasize the experienced team from DeepMind and the potential for rapid growth in the French market."
+    },
+    {
+      "name": "Jean-Pierre Martel",
+      "title": "Investment Director",
+      "company": "Corporate Venture Capital (CVC) Fund",
+      "profile": "Jean-Pierre oversees strategic investments for a large multinational corporation. His focus is on AI technologies that can complement the company's existing product lines.",
+      "pain_points": [
+        "Aligning startup investments with corporate strategy",
+        "Identifying strategic synergies",
+        "Balancing innovation with corporate risk"
+      ],
+      "motivations": [
+        "Enhance corporate innovation",
+        "Secure strategic partnerships",
+        "Drive long-term growth"
+      ],
+      "search_query": "CVC AI strategic investment France",
+      "outreach_angle": "Discuss potential synergies between the LLM technology and the corporation's product lines."
+    },
+    {
+      "name": "Sophie Leclerc",
+      "title": "Principal",
+      "company": "Growth-stage VC Fund (AUM $200M)",
+      "profile": "Sophie is responsible for sourcing and evaluating growth-stage investments in the European tech sector. She has a keen interest in AI and machine learning companies.",
+      "pain_points": [
+        "Evaluating scalability of AI startups",
+        "Ensuring strong market fit",
+        "Managing investment risk"
+      ],
+      "motivations": [
+        "Invest in scalable AI solutions",
+        "Achieve significant market impact",
+        "Build a robust investment portfolio"
+      ],
+      "search_query": "Growth-stage VC AI machine learning investment Europe",
+      "outreach_angle": "Highlight the scalability of the LLM technology and the growth potential in the French market."
+    },
+    {
+      "name": "Thomas Girard",
+      "title": "Partner",
+      "company": "Seed-stage VC Fund (AUM $30M)",
+      "profile": "Thomas is a partner at a seed-stage VC fund with a focus on tech startups in France. He is passionate about supporting early-stage companies with disruptive technologies.",
+      "pain_points": [
+        "High risk in early-stage investments",
+        "Limited resources for due diligence",
+        "Finding startups with strong teams"
+      ],
+      "motivations": [
+        "Support disruptive tech innovations",
+        "Build long-term relationships with founders",
+        "Achieve high growth potential"
+      ],
+      "search_query": "Seed-stage VC tech startups France",
+      "outreach_angle": "Focus on the disruptive potential of building LLMs from scratch and the experienced team behind the technology."
+    }
+  ],
+  "leads": [
+    {
+      "id": "jina_lead_1753542355941_3",
+      "name": "Gilles Amsallem",
+      "title": "Managing Partner, Corporate and US Groups",
+      "company": "Eurazeo",
+      "email": "gilles.amsallem@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/gilles-amsallem-a6715223",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France VC",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France VC\"",
+      "found_at": "2025-07-26T15:05:55.941Z",
+      "lead_status": "new",
+      "raw_data": "Gilles is our Managing Partner in France and heads both the corporate and US groups. Gilles advises large media entertainment and technology clients.",
+      "persona_id": "Alexandre Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France VC\"",
+        "Company type aligns with Early-stage VC fund (AUM $50M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/gilles-amsallem-email_27776967",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:09:35.419Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/gilles-amsallem-a6715223"
+      ],
+      "personality_analysis": {
+        "error": "linkedinUrls is not defined",
+        "analyzed_at": "2025-07-26T15:13:10.323Z",
+        "analysis_method": "failed"
+      },
+      "personality_metadata": {
+        "analysis_completed": false,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T15:13:10.323Z",
+        "error": "linkedinUrls is not defined"
+      },
+      "ready_for_outreach": false
+    },
+    {
+      "id": "jina_lead_1753542355941_4",
+      "name": "Benoist Grossmann",
+      "title": "Senior Managing Partner, Chairman of Eurazeo Tech",
+      "company": "Eurazeo",
+      "email": "benoist.grossmann@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/benoist-grossmann-4956b37",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France VC",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France VC\"",
+      "found_at": "2025-07-26T15:05:55.941Z",
+      "lead_status": "new",
+      "raw_data": "Benoist Grossmann is Senior Managing Partner – Chairman Eurazeo Tech. Before joining the Group, Benoist worked for several venture capital funds for over 10",
+      "persona_id": "Alexandre Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France VC\"",
+        "Company type aligns with Early-stage VC fund (AUM $50M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/benoist-grossmann-email_3194482",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:09:38.645Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/benoist-grossmann-4956b37"
+      ],
+      "personality_analysis": {
+        "error": "linkedinUrls is not defined",
+        "analyzed_at": "2025-07-26T15:13:31.843Z",
+        "analysis_method": "failed"
+      },
+      "personality_metadata": {
+        "analysis_completed": false,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T15:13:31.843Z",
+        "error": "linkedinUrls is not defined"
+      },
+      "ready_for_outreach": false
+    },
+    {
+      "id": "jina_lead_1753542357783_0",
+      "name": "Julien Roux",
+      "title": "Managing Partner, Financial Institutions and Debt Funds",
+      "company": "Eurazeo",
+      "email": "julien.roux@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/julienroux92",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France finance",
+      "confidence_score": 0.9,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France finance\"",
+      "found_at": "2025-07-26T15:05:57.783Z",
+      "lead_status": "new",
+      "raw_data": "Julien is Managing Partner of France and acts for both lenders (financial institutions, debt funds) and borrowers on a wide spectrum of domestic and cross-",
+      "persona_id": "Alexandre Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France finance\"",
+        "Company type aligns with Early-stage VC fund (AUM $50M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/julien-roux-email_6777097",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:09:42.163Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/julienroux92"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542357783_1",
+      "name": "Xavier Freynet",
+      "title": "EY France Financial Services Managing Partner",
+      "company": "EY Financial Services",
+      "email": "xavier.freynet@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/xavierfreynet",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France finance",
+      "confidence_score": 0.9,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France finance\"",
+      "found_at": "2025-07-26T15:05:57.783Z",
+      "lead_status": "new",
+      "raw_data": "Xavier Freynet has started working as the Managing Partner of EY Financial Services in France, since 1 July 2021. He is responsible for all services",
+      "persona_id": "Alexandre Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France finance\"",
+        "Company type aligns with Early-stage VC fund (AUM $50M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/xavier-freynet-email_78369819",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:09:45.942Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/xavierfreynet",
+        "💼 Title: Managing Partner, Financial Services → EY France Financial Services Managing Partner"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542357783_2",
+      "name": "Fabrice Scheer",
+      "title": "Managing Partner, Corporate Finance",
+      "company": "Alantra France",
+      "email": "fabrice.scheer@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/fabrice-scheer-a2631a1a",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France finance",
+      "confidence_score": 0.92,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France finance\"",
+      "found_at": "2025-07-26T15:05:57.783Z",
+      "lead_status": "new",
+      "raw_data": "Fabrice is Managing Partner of Alantra France Corporate Finance. Fabrice has extensive experience in M&A, having advised on more than 90 transactions.",
+      "persona_id": "Alexandre Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France finance\"",
+        "Company type aligns with Early-stage VC fund (AUM $50M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/fabrice-scheer-email_17962262",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:09:49.704Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/fabrice-scheer-a2631a1a"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542357783_3",
+      "name": "Mathieu Remy",
+      "title": "Managing Partner, Corporate Mandates",
+      "company": "Winston & Strawn LLP",
+      "email": "mathieu.remy@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/mathieu-remy-398a375",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France finance",
+      "confidence_score": 0.9,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France finance\"",
+      "found_at": "2025-07-26T15:05:57.783Z",
+      "lead_status": "new",
+      "raw_data": "Managing partner of the Paris office, Mathieu Remy represents domestic and international clients and routinely assists with a range of corporate mandates,",
+      "persona_id": "Alexandre Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France finance\"",
+        "Company type aligns with Early-stage VC fund (AUM $50M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/mathieu-remy-email_67694617",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:09:52.918Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/mathieu-remy-398a375"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542357783_4",
+      "name": "Jérôme Herbet",
+      "title": "Managing Partner, Paris Corporate Practice",
+      "company": "Winston & Strawn LLP",
+      "email": "jérôme.herbet@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/jerome-hebert-0497952b",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France finance",
+      "confidence_score": 0.92,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France finance\"",
+      "found_at": "2025-07-26T15:05:57.783Z",
+      "lead_status": "new",
+      "raw_data": "Jérôme Herbet is the managing partner of Winston's Paris office and chair of the Paris Corporate Practice. He advises clients in various domestic and",
+      "persona_id": "Alexandre Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France finance\"",
+        "Company type aligns with Early-stage VC fund (AUM $50M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/jerome-hebert-email_26085805",
+      "rocketreach_update_timestamp": "2025-07-26T15:09:56.606Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/jerome-hebert-0497952b"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542363035_0",
+      "name": "Michael Beraha",
+      "title": "Senior Banking Executive, Country CEO",
+      "company": "BNP Paribas",
+      "email": "michael.beraha@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/mikeberaha",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.88,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T15:06:03.035Z",
+      "lead_status": "new",
+      "raw_data": "Senior Banking Executive and Country CEO with 30 years experience gained in IT, operations, front office sales and strategic business development.",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/michael-beraha-email_5374650",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:10:00.137Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/mikeberaha"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542363035_1",
+      "name": "Jean-Laurent Bonnafé",
+      "title": "Chief Executive Officer",
+      "company": "BNP Paribas",
+      "email": "jean-laurent.bonnafé@bnp.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/jean-laurent-bonnafé-9540911a1",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T15:06:03.035Z",
+      "lead_status": "new",
+      "raw_data": "Director and Chief Executive Officer of BNP Paribas · Engineer by training, banker since 1993, and CEO of BNP Paribas since December 2011.",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/jean-laurent-bonnafe-email_229257558",
+      "rocketreach_update_timestamp": "2025-07-26T15:10:06.177Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/jean-laurent-bonnafé-9540911a1"
+      ],
+      "personality_analysis": {
+        "error": "linkedinUrls is not defined",
+        "analyzed_at": "2025-07-26T15:13:53.552Z",
+        "analysis_method": "failed"
+      },
+      "personality_metadata": {
+        "analysis_completed": false,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T15:13:53.552Z",
+        "error": "linkedinUrls is not defined"
+      },
+      "ready_for_outreach": false
+    },
+    {
+      "id": "jina_lead_1753542363035_2",
+      "name": "Stephan Guglieri",
+      "title": "Director of Technology Strategy",
+      "company": "BNP Paribas",
+      "email": "stephan.guglieri@financialservic.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/stephan-guglieri-94919321/en",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.87,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T15:06:03.035Z",
+      "lead_status": "new",
+      "raw_data": "I have a strong aptitude to grow and federate people. I coach and challenge them to design & implement strategies, and to gain leadership.",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true
+    },
+    {
+      "id": "jina_lead_1753542363035_3",
+      "name": "Nicolas Dufourcq",
+      "title": "Technology Executive",
+      "company": "Bpifrance",
+      "email": "nicolas.dufourcq@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/nicolasdufourcq",
+      "location": "France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.7999999999999999,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T15:06:03.035Z",
+      "lead_status": "new",
+      "raw_data": "I am currently the Executive Director of Bpifrance (the french public investment bank). I began my career in the French Administration before becoming an",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/nicolas-dufourcq-email_2455097",
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:10:11.561Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/nicolasdufourcq",
+        "🏢 Company: Financial Services Company → Bpifrance"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542365155_0",
+      "name": "Olivier DAVID",
+      "title": "Responsable Développement Ouest",
+      "company": "Bpifrance",
+      "email": "olivier.david@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/olivier-david-52985561",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Executive France insurance LinkedIn",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Executive France insurance LinkedIn\"",
+      "found_at": "2025-07-26T15:06:05.155Z",
+      "lead_status": "new",
+      "raw_data": "With thirty years experience in the credit and political risks London market, supporting multinational companies, commodity traders and banks.",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"Executive France insurance LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/olivier-david-email_154089769",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:10:15.018Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/olivier-david-52985561",
+        "💼 Title: Directeur Général → Responsable Développement Ouest"
+      ],
+      "personality_analysis": {
+        "error": "linkedinUrls is not defined",
+        "analyzed_at": "2025-07-26T15:14:23.150Z",
+        "analysis_method": "failed"
+      },
+      "personality_metadata": {
+        "analysis_completed": false,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T15:14:23.150Z",
+        "error": "linkedinUrls is not defined"
+      },
+      "ready_for_outreach": false
+    },
+    {
+      "id": "jina_lead_1753542365155_3",
+      "name": "Hélène Denis",
+      "title": "Directeur des Risques de Crédit et Politiques",
+      "company": "Lloyd's of London",
+      "email": "hélène.denis@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/helenedenis",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Executive France insurance LinkedIn",
+      "confidence_score": 0.9,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Executive France insurance LinkedIn\"",
+      "found_at": "2025-07-26T15:06:05.155Z",
+      "lead_status": "new",
+      "raw_data": "Executive officer - Senior Advisor - Insurance sector & Finance · Insurance, Finance, Actuarial, Legal, Risk , Compliance · Experience: Indépendant",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"Executive France insurance LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true
+    },
+    {
+      "id": "jina_lead_1753542365155_4",
+      "name": "Philippe Perret",
+      "title": "Senior Vice President, Group Networking Sales",
+      "company": "Indépendante",
+      "email": "philippe.perret@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/perretphilippe",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Executive France insurance LinkedIn",
+      "confidence_score": 0.88,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Executive France insurance LinkedIn\"",
+      "found_at": "2025-07-26T15:06:05.155Z",
+      "lead_status": "new",
+      "raw_data": "Experienced Chief Executive Officer with a demonstrated history of working in the · Experience: Societe Generale Assurances · Education: Institut des",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"Executive France insurance LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/philippe-perret-email_8479532",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:10:22.470Z",
+      "rocketreach_updates": [
+        "💼 Title: Conseillère Senior en Assurance et Finance → Senior Vice President, Group Networking Sales"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542371040_0",
+      "name": "Jean-Louis Girodolle",
+      "title": "Directeur Général",
+      "company": "Société Générale Assurances",
+      "email": "jean-louis.girodolle@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/jean-louis-girodolle-94a631b",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Investment Director France banking",
+      "confidence_score": 0.92,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Investment Director France banking\"",
+      "found_at": "2025-07-26T15:06:11.040Z",
+      "lead_status": "new",
+      "raw_data": "Jean-Louis Girodolle joined Lazard in January 2007 as Managing Director and was appointed Chief Executive Officer of Lazard Investment Banking in France in",
+      "persona_id": "Jean-Pierre Martel",
+      "persona_match_reasons": [
+        "Found via targeted search for Investment Director",
+        "Query match: \"Investment Director France banking\"",
+        "Company type aligns with Corporate Venture Capital (CVC) Fund",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/jean-louis-girodolle-email_12541968",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:10:26.408Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/jean-louis-girodolle-94a631b"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542371040_1",
+      "name": "Jeffrey Edmondson",
+      "title": "Directeur - Responsable France, Gestion des Opérations Bancaires",
+      "company": "Société Générale",
+      "email": "jeffrey.edmondson@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/jeff-edmondson-a6ba9a90",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Investment Director France banking",
+      "confidence_score": 0.9,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Investment Director France banking\"",
+      "found_at": "2025-07-26T15:06:11.040Z",
+      "lead_status": "new",
+      "raw_data": "Director - Investment Banking France Business Manager/COO · Strong finance professional who has held several positions in Global Markets CFO and Operations",
+      "persona_id": "Jean-Pierre Martel",
+      "persona_match_reasons": [
+        "Found via targeted search for Investment Director",
+        "Query match: \"Investment Director France banking\"",
+        "Company type aligns with Corporate Venture Capital (CVC) Fund",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/jeff-edmondson-email_291886779",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:10:33.398Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/jeff-edmondson-a6ba9a90"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542371040_3",
+      "name": "François Kayat",
+      "title": "Directeur Exécutif - Conseil en Banque d'Investissement",
+      "company": "BNP Paribas",
+      "email": "françois.kayat@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/francois-kayat-a58803",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Investment Director France banking",
+      "confidence_score": 0.88,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Investment Director France banking\"",
+      "found_at": "2025-07-26T15:06:11.040Z",
+      "lead_status": "new",
+      "raw_data": "He brings 36 years of investment banking experience and has advised numerous companies in a wide range of sectors. He has also been active with our Sovereign",
+      "persona_id": "Jean-Pierre Martel",
+      "persona_match_reasons": [
+        "Found via targeted search for Investment Director",
+        "Query match: \"Investment Director France banking\"",
+        "Company type aligns with Corporate Venture Capital (CVC) Fund",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/francois-kayat-email_24943869",
+      "rocketreach_update_timestamp": "2025-07-26T15:10:45.388Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/francois-kayat-a58803"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542372931_1",
+      "name": "Pascal Béasse",
+      "title": "Directeur des Opérations d'Investissement Groupe",
+      "company": "CNP Assurances",
+      "email": "pascal.béasse@cnp.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/pascal-b%C3%A9asse-a0066a45",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Investment Director France insurance",
+      "confidence_score": 0.87,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Investment Director France insurance\"",
+      "found_at": "2025-07-26T15:06:12.931Z",
+      "lead_status": "new",
+      "raw_data": "Cécile Blondeau Dallet. Director of Investments France at CNP Assurances. A graduate of ENSEEIHT, Cécile Blondeau-Dallet began her career in September 1997 in",
+      "persona_id": "Jean-Pierre Martel",
+      "persona_match_reasons": [
+        "Found via targeted search for Investment Director",
+        "Query match: \"Investment Director France insurance\"",
+        "Company type aligns with Corporate Venture Capital (CVC) Fund",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/pascal-beasse-email_234552851",
+      "rocketreach_update_timestamp": "2025-07-26T15:10:49.278Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/pascal-b%C3%A9asse-a0066a45",
+        "💼 Title: Directeur de la Technologie → Directeur des Opérations d'Investissement Groupe"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542372931_4",
+      "name": "Nelly Bourriquel",
+      "title": "Directrice Exécutive - Couverture de Gestion d'Actifs",
+      "company": "Crédit Agricole",
+      "email": "nelly.bourriquel@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/nellyb",
+      "location": "Lyon, France",
+      "source": "jina_search",
+      "search_query": "Investment Director France insurance",
+      "confidence_score": 0.8999999999999999,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Investment Director France insurance\"",
+      "found_at": "2025-07-26T15:06:12.931Z",
+      "lead_status": "new",
+      "raw_data": "Executive Director - Asset Management Coverage · Recognized as passionate, solution-oriented, customer focused leader with high-energy innovator skills",
+      "persona_id": "Jean-Pierre Martel",
+      "persona_match_reasons": [
+        "Found via targeted search for Investment Director",
+        "Query match: \"Investment Director France insurance\"",
+        "Company type aligns with Corporate Venture Capital (CVC) Fund",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/nelly-bourriquel-email_57196059",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:10:52.791Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/nellyb"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542378920_4",
+      "name": "Nicolas Dufourcq",
+      "title": "Directeur Général - Bpifrance",
+      "company": "Bpifrance",
+      "email": "nicolas.dufourcq@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/nicolasdufourcq",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Principal France banking LinkedIn",
+      "confidence_score": 0.92,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Principal France banking LinkedIn\"",
+      "found_at": "2025-07-26T15:06:18.920Z",
+      "lead_status": "new",
+      "raw_data": "I am currently the Executive Director of Bpifrance (the french public investment bank). I began my career in the French Administration before becoming an",
+      "persona_id": "Sophie Leclerc",
+      "persona_match_reasons": [
+        "Found via targeted search for Principal",
+        "Query match: \"Principal France banking LinkedIn\"",
+        "Company type aligns with Growth-stage VC Fund (AUM $200M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/nicolas-dufourcq-email_2455097",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:10:55.875Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/nicolasdufourcq"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542380885_3",
+      "name": "Beth Wood",
+      "title": "freelance writer and researcher",
+      "company": "Société de Services Financiers Innovants",
+      "email": "beth.wood@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/bethwoodleidt",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Principal France insurance LinkedIn",
+      "confidence_score": 0.9,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Principal France insurance LinkedIn\"",
+      "found_at": "2025-07-26T15:06:20.885Z",
+      "lead_status": "new",
+      "raw_data": "Beth is a keen marketer with a nose for opportunity. Her experience as an entrepreneuer has shaped her approach to both her personal and professional life.",
+      "persona_id": "Sophie Leclerc",
+      "persona_match_reasons": [
+        "Found via targeted search for Principal",
+        "Query match: \"Principal France insurance LinkedIn\"",
+        "Company type aligns with Growth-stage VC Fund (AUM $200M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/beth-wood-email_45755845",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T15:10:59.616Z",
+      "rocketreach_updates": [
+        "💼 Title: Directrice des Technologies → freelance writer and researcher"
+      ]
+    },
+    {
+      "id": "jina_lead_1753542380885_4",
+      "name": "Laura Tofteland",
+      "title": "Directrice Marketing",
+      "company": "Principal Financial Group",
+      "email": "laura.tofteland@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/tofteland",
+      "location": "Lyon, France",
+      "source": "jina_search",
+      "search_query": "Principal France insurance LinkedIn",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Principal France insurance LinkedIn\"",
+      "found_at": "2025-07-26T15:06:20.885Z",
+      "lead_status": "new",
+      "raw_data": "Highly skilled and motivated marketing professional with over 20 years of experience in the financial services industry.",
+      "persona_id": "Sophie Leclerc",
+      "persona_match_reasons": [
+        "Found via targeted search for Principal",
+        "Query match: \"Principal France insurance LinkedIn\"",
+        "Company type aligns with Growth-stage VC Fund (AUM $200M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/laura-tofteland-email_12936111",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "error": "linkedinUrls is not defined",
+        "analyzed_at": "2025-07-26T15:14:57.521Z",
+        "analysis_method": "failed"
+      },
+      "personality_metadata": {
+        "analysis_completed": false,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T15:14:57.521Z",
+        "error": "linkedinUrls is not defined"
+      },
+      "ready_for_outreach": false
+    },
+    {
+      "id": "jina_lead_1753542546009_2",
+      "name": "Emmanuel Seugé",
+      "title": "Fondateur et Associé Gérant",
+      "company": "CASSIUS Family",
+      "email": "emmanuel.seugé@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/emmanuel-seug%C3%A9-7197285",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France early-stage VC",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France early-stage VC\"",
+      "found_at": "2025-07-26T15:09:06.009Z",
+      "lead_status": "new",
+      "raw_data": "Founder and Managing Partner, CASSIUS. Sep 2016 - Present 8 years 11 months. Early stage Venture Capital fund investing across North America and Europe.",
+      "persona_id": "Alexandre Dupont",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France early-stage VC\"",
+        "Company type aligns with Early-stage VC fund (AUM $50M)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "error": "linkedinUrls is not defined",
+        "analyzed_at": "2025-07-26T15:15:26.032Z",
+        "analysis_method": "failed"
+      },
+      "personality_metadata": {
+        "analysis_completed": false,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T15:15:26.032Z",
+        "error": "linkedinUrls is not defined"
+      },
+      "ready_for_outreach": false
+    },
+    {
+      "id": "jina_lead_1753542551193_0",
+      "name": "Michael Beraha",
+      "title": "Directeur Général Pays",
+      "company": "Banque de Services Financiers",
+      "email": "michael.beraha@financialservic.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/mikeberaha",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.9,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T15:09:11.193Z",
+      "lead_status": "new",
+      "raw_data": "Senior Banking Executive and Country CEO with 30 years experience gained in IT, operations, front office sales and strategic business development.",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/michael-beraha-email_5374650",
+      "llm_enhanced": true
+    },
+    {
+      "id": "jina_lead_1753542551193_1",
+      "name": "Jean-Laurent Bonnafé",
+      "title": "Directeur Général et CEO",
+      "company": "BNP Paribas",
+      "email": "jean-laurent.bonnafé@bnp.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/jean-laurent-bonnafe/en",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.98,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T15:09:11.193Z",
+      "lead_status": "new",
+      "raw_data": "Director and Chief Executive Officer of BNP Paribas · Engineer by training, banker since 1993, and CEO of BNP Paribas since December 2011.",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "error": "linkedinUrls is not defined",
+        "analyzed_at": "2025-07-26T15:12:46.213Z",
+        "analysis_method": "failed"
+      },
+      "personality_metadata": {
+        "analysis_completed": false,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T15:12:46.213Z",
+        "error": "linkedinUrls is not defined"
+      },
+      "ready_for_outreach": false
+    },
+    {
+      "id": "jina_lead_1753542551193_2",
+      "name": "Stephan Guglieri",
+      "title": "Directeur Stratégie Technologique",
+      "company": "Banque de Services Financiers",
+      "email": "stephan.guglieri@financialservic.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/stephan-guglieri-94919321/en",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.85,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T15:09:11.193Z",
+      "lead_status": "new",
+      "raw_data": "I have a strong aptitude to grow and federate people. I coach and challenge them to design & implement strategies, and to gain leadership.",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true
+    },
+    {
+      "id": "jina_lead_1753542551193_3",
+      "name": "Nicolas Dufourcq",
+      "title": "Directeur Exécutif",
+      "company": "Bpifrance",
+      "email": "nicolas.dufourcq@financialservic.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/nicolasdufourcq/en",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CEO France banking LinkedIn",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CEO France banking LinkedIn\"",
+      "found_at": "2025-07-26T15:09:11.193Z",
+      "lead_status": "new",
+      "raw_data": "I am currently the Executive Director of Bpifrance (the french public investment bank). I began my career in the French Administration before becoming an",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CEO France banking LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/nicolas-dufourcq-email_2455097",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "error": "linkedinUrls is not defined",
+        "analyzed_at": "2025-07-26T15:15:55.919Z",
+        "analysis_method": "failed"
+      },
+      "personality_metadata": {
+        "analysis_completed": false,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T15:15:55.919Z",
+        "error": "linkedinUrls is not defined"
+      },
+      "ready_for_outreach": false
+    },
+    {
+      "id": "jina_lead_1753542553211_0",
+      "name": "Bertrand Poupart",
+      "title": "Directeur Exécutif Technologie",
+      "company": "AXA France",
+      "email": "bertrand.poupart@axa.fr",
+      "linkedin_url": "https://www.linkedin.com/in/bertrand-poupart-lafarge",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CFO France insurance LinkedIn",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CFO France insurance LinkedIn\"",
+      "found_at": "2025-07-26T15:09:13.211Z",
+      "lead_status": "new",
+      "raw_data": "Experience: AXA en France · Education: HEC Paris · Location: {:currentLocation} · 500+ connections on LinkedIn. View Bertrand Poupart-Lafarge's profile on",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CFO France insurance LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/bertrand-poupart-lafarge-email_103356836",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "error": "linkedinUrls is not defined",
+        "analyzed_at": "2025-07-26T15:16:21.733Z",
+        "analysis_method": "failed"
+      },
+      "personality_metadata": {
+        "analysis_completed": false,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T15:16:21.733Z",
+        "error": "linkedinUrls is not defined"
+      },
+      "ready_for_outreach": false
+    },
+    {
+      "id": "jina_lead_1753542553211_1",
+      "name": "Patrick Emmel",
+      "title": "Directeur Financier",
+      "company": "Cooper Gay Europe",
+      "email": "patrick.emmel@cooper.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/patrick-emmel-cfo/en",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CFO France insurance LinkedIn",
+      "confidence_score": 0.9,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CFO France insurance LinkedIn\"",
+      "found_at": "2025-07-26T15:09:13.211Z",
+      "lead_status": "new",
+      "raw_data": "Currently serving as Chief Financial Officer at Cooper Gay, a European insurance broker (France, Germany, United Kingdom, Belgium, and Italy) specializing in",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CFO France insurance LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/patrick-emmel-email_66697387",
+      "llm_enhanced": true
+    },
+    {
+      "id": "jina_lead_1753542553211_2",
+      "name": "Monica Rodriguez Furber",
+      "title": "Directrice Exécutive Technologie",
+      "company": "Société de Services Financiers",
+      "email": "monica.furber@financialservic.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/monicafurber/en",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CFO France insurance LinkedIn",
+      "confidence_score": 0.85,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CFO France insurance LinkedIn\"",
+      "found_at": "2025-07-26T15:09:13.211Z",
+      "lead_status": "new",
+      "raw_data": "Experience · Head of Controlling, Planning and Strategy · Head of Finance, Southern Europe & France · Head of Finance, France · Head of Financial Control and FP&A (",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CFO France insurance LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true
+    },
+    {
+      "id": "jina_lead_1753542553211_3",
+      "name": "Paul CARRICANO",
+      "title": "Directeur Exécutif Technologie",
+      "company": "Société de Services Financiers",
+      "email": "paul.carricano@financialservic.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/paul-carricano/en",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "CFO France insurance LinkedIn",
+      "confidence_score": 0.85,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CFO France insurance LinkedIn\"",
+      "found_at": "2025-07-26T15:09:13.211Z",
+      "lead_status": "new",
+      "raw_data": "CFO France - HDI Global · Qualified Actuary with French Institute of Actuaries since 2012, Finance Manager for Chubb France since 2019 · Experience: HDI",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CFO France insurance LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true
+    },
+    {
+      "id": "jina_lead_1753542553211_4",
+      "name": "Leïla JULIEN",
+      "title": "Directrice Financière Groupe",
+      "company": "Coexya",
+      "email": "leïla.julien@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/le%C3%AFla-julien",
+      "location": "Lyon, France",
+      "source": "jina_search",
+      "search_query": "CFO France insurance LinkedIn",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"CFO France insurance LinkedIn\"",
+      "found_at": "2025-07-26T15:09:13.211Z",
+      "lead_status": "new",
+      "raw_data": "CFO of the group Coexya since 2013, my scope covers the following activities: Finance (general accounting, consolidation, cost accounting, management control,",
+      "persona_id": "Isabelle Laurent",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"CFO France insurance LinkedIn\"",
+        "Company type aligns with Individual Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "error": "linkedinUrls is not defined",
+        "analyzed_at": "2025-07-26T15:17:19.480Z",
+        "analysis_method": "failed"
+      },
+      "personality_metadata": {
+        "analysis_completed": false,
+        "ai_analysis_success": false,
+        "processing_timestamp": "2025-07-26T15:17:19.480Z",
+        "error": "linkedinUrls is not defined"
+      },
+      "ready_for_outreach": false
+    },
+    {
+      "id": "jina_lead_1753542558721_0",
+      "name": "Jean-Louis Girodolle",
+      "title": "Directeur Général de la Banque d'Investissement",
+      "company": "Lazard Frères",
+      "email": "jean-louis.girodolle@financialservic.com.fr",
+      "linkedin_url": "https://www.lazard.com/our-people/jean-louis-girodolle",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Investment Director France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Investment Director France banking\"",
+      "found_at": "2025-07-26T15:09:18.721Z",
+      "lead_status": "new",
+      "raw_data": "Jean-Louis Girodolle joined Lazard in January 2007 as Managing Director and was appointed Chief Executive Officer of Lazard Investment Banking in France in",
+      "persona_id": "Jean-Pierre Martel",
+      "persona_match_reasons": [
+        "Found via targeted search for Investment Director",
+        "Query match: \"Investment Director France banking\"",
+        "Company type aligns with Corporate Venture Capital (CVC) Fund",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/jean-louis-girodolle-email_12541968",
+      "llm_enhanced": true
+    },
+    {
+      "id": "jina_lead_1753542558721_1",
+      "name": "Jeffrey Edmondson",
+      "title": "Directeur - Responsable des Opérations Bancaires",
+      "company": "Lazard Frères",
+      "email": "jeffrey.edmondson@financialservic.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/jeffrey-edmondson-5a77b818",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Investment Director France banking",
+      "confidence_score": 0.9,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Investment Director France banking\"",
+      "found_at": "2025-07-26T15:09:18.721Z",
+      "lead_status": "new",
+      "raw_data": "Director - Investment Banking France Business Manager/COO · Strong finance professional who has held several positions in Global Markets CFO and Operations",
+      "persona_id": "Jean-Pierre Martel",
+      "persona_match_reasons": [
+        "Found via targeted search for Investment Director",
+        "Query match: \"Investment Director France banking\"",
+        "Company type aligns with Corporate Venture Capital (CVC) Fund",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/jeffrey-edmondson-email_36553376",
+      "llm_enhanced": true
+    },
+    {
+      "id": "jina_lead_1753542558721_3",
+      "name": "François Kayat",
+      "title": "Directeur Exécutif en Banque d'Investissement",
+      "company": "Lazard Frères",
+      "email": "françois.kayat@financialservic.com.fr",
+      "linkedin_url": "https://www.lazard.com/our-people/francois-kayat",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Investment Director France banking",
+      "confidence_score": 0.92,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Investment Director France banking\"",
+      "found_at": "2025-07-26T15:09:18.721Z",
+      "lead_status": "new",
+      "raw_data": "He brings 36 years of investment banking experience and has advised numerous companies in a wide range of sectors. He has also been active with our Sovereign",
+      "persona_id": "Jean-Pierre Martel",
+      "persona_match_reasons": [
+        "Found via targeted search for Investment Director",
+        "Query match: \"Investment Director France banking\"",
+        "Company type aligns with Corporate Venture Capital (CVC) Fund",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true
+    },
+    {
+      "id": "jina_lead_1753542559863_1",
+      "name": "Pascal Béasse",
+      "title": "Directeur des Technologies",
+      "company": "CNP Assurances",
+      "email": "pascal.béasse@cnp.com.fr",
+      "linkedin_url": "https://www.cnp.fr/en/the-cnp-assurances-group/newsroom/spokespersons/pascal-beasse",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Investment Director France insurance",
+      "confidence_score": 0.88,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Investment Director France insurance\"",
+      "found_at": "2025-07-26T15:09:19.863Z",
+      "lead_status": "new",
+      "raw_data": "Cécile Blondeau Dallet. Director of Investments France at CNP Assurances. A graduate of ENSEEIHT, Cécile Blondeau-Dallet began her career in September 1997 in",
+      "persona_id": "Jean-Pierre Martel",
+      "persona_match_reasons": [
+        "Found via targeted search for Investment Director",
+        "Query match: \"Investment Director France insurance\"",
+        "Company type aligns with Corporate Venture Capital (CVC) Fund",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true
+    },
+    {
+      "id": "jina_lead_1753542559863_4",
+      "name": "Nelly Bourriquel",
+      "title": "Directrice Exécutive - Couverture de Gestion d'Actifs",
+      "company": "Lazard Frères",
+      "email": "nelly.bourriquel@financialservic.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/nellyb",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Investment Director France insurance",
+      "confidence_score": 0.8999999999999999,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Investment Director France insurance\"",
+      "found_at": "2025-07-26T15:09:19.863Z",
+      "lead_status": "new",
+      "raw_data": "Executive Director - Asset Management Coverage · Recognized as passionate, solution-oriented, customer focused leader with high-energy innovator skills",
+      "persona_id": "Jean-Pierre Martel",
+      "persona_match_reasons": [
+        "Found via targeted search for Investment Director",
+        "Query match: \"Investment Director France insurance\"",
+        "Company type aligns with Corporate Venture Capital (CVC) Fund",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/nelly-bourriquel-email_57196059",
+      "llm_enhanced": true
+    }
+  ],
+  "outreach": [],
+  "inbound": [],
+  "triage": [],
+  "search_metadata": {
+    "total_leads": 37,
+    "leads_per_persona": {
+      "Alexandre Dupont": 8,
+      "Isabelle Laurent": 16,
+      "Jean-Pierre Martel": 10,
+      "Sophie Leclerc": 3
+    },
+    "search_completed_at": "2025-07-26T17:12:34Z",
+    "search_method": "jina_api",
+    "real_data": true,
+    "llm_enhanced": true,
+    "rocketreach_enriched": 23,
+    "rocketreach_success_rate": "62%",
+    "existing_leads_updated": 19,
+    "existing_leads_total": 37,
+    "personality_analyzed_leads": 10,
+    "successful_personality_analyses": 0,
+    "personality_analysis_completed": "2025-07-26T17:17:19Z",
+    "personality_analysis_method": "web_scraping_chatgpt_analysis",
+    "personality_analysis_sources": {
+      "total_analyzed": 0,
+      "sources": {}
+    }
+  }
+}

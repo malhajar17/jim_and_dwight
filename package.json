@@ -1,0 +1,14 @@
+{
+  "name": "jim_and_dwight",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev-mode.js",
+    "pipeline": "node scripts/full-pipeline.js",
+    "investor-pipeline": "node scripts/investor-pipeline.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^4.28.4"
+  }
+}
