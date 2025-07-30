@@ -1,5 +1,6 @@
 # Jim & Dwight Lead Generation System
 
+<div class="tenor-gif-embed" data-postid="3457615" data-share-method="host" data-aspect-ratio="1.77143" data-width="100%"><a href="https://tenor.com/view/comedy-the-office-dwight-jim-nonsense-gif-3457615">6 Days Since Last Nonsense GIF</a>from <a href="https://tenor.com/search/comedy-gifs">Comedy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ![Jim and Dwight](https://media.tenor.com/6s8YsHXU9uMAAAAM/comedy-the-office.gif)
 
 **The Situation:** Look, we're good at sales. Like, really good. Jim once sold more than anyone at the Stamford branch, and Dwight is literally Assistant Regional Manager. But here's the thing - Jim would rather spend his time planning elaborate pranks (and talking to Pam), while Dwight prefers to focus on beet farming and Angela (when he's not busy being the best salesman in northeastern Pennsylvania).
