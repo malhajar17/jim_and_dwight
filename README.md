@@ -1,6 +1,6 @@
 # Jim & Dwight Lead Generation System
 
-![Jim and Dwight](https://media.giphy.com/media/eMaaVsuXx8pSU/giphy.gif)
+![Jim and Dwight](comedy-the-office.gif)
 
 **The Situation:** Look, we're good at sales. Like, really good. Jim once sold more than anyone at the Stamford branch, and Dwight is literally Assistant Regional Manager. But here's the thing - Jim would rather spend his time planning elaborate pranks (and talking to Pam), while Dwight prefers to focus on beet farming and Angela (when he's not busy being the best salesman in northeastern Pennsylvania).
 
