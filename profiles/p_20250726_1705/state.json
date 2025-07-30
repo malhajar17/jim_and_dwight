@@ -1,0 +1,1315 @@
+{
+  "run_id": "p_20250726_1705",
+  "mode": "sales",
+  "profile": {
+    "answers": {
+      "product": "llm for banks",
+      "target": "500+ sized companies with cxo",
+      "pain": "no need to worry about security its on premise",
+      "signals": [
+        "have ai budget",
+        "willing to work with startups"
+      ],
+      "proof": "75% performance on french law",
+      "cta": "demo",
+      "constraints": "france"
+    },
+    "enrichment": {
+      "product": {
+        "original": "llm for banks",
+        "enriched": [
+          {
+            "question": "What specific pain points does your LLM address for banks, and how does it quantify improvements in terms of time or cost savings?",
+            "answer": "its on premis and slm"
+          },
+          {
+            "question": "How does your LLM differentiate itself from competitors in the banking sector?",
+            "answer": "its trained only on banking data"
+          },
+          {
+            "question": "Can you provide any specific proof points or success stories from banks that have implemented your LLM?",
+            "answer": "75% accuarcy on french buisness law"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer 'llm for banks' lacks specificity and context. It does not provide details about the specific functionality or benefits of the LLM, the target audience within banks, any metrics or proof points, or actionable information for outreach. More information is needed to understand the value proposition and make the answer rich enough."
+        }
+      },
+      "target": {
+        "original": "500+ sized companies with cxo",
+        "enriched": [
+          {
+            "question": "What specific roles within the C-suite are you targeting at these 500+ sized companies?",
+            "answer": "cio"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer '500+ sized companies with cxo' lacks specificity and actionable information. It does not provide concrete metrics, numbers, or proof points, nor does it offer sufficient context to understand the value proposition. The target audience is vaguely defined as 'cxo' without specifying the industry or market segment, and there is no mention of the product or service being offered."
+        }
+      },
+      "pain": {
+        "original": "no need to worry about security its on premise",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      },
+      "signals": {
+        "original": "have ai budget,willing to work with startups",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      },
+      "proof": {
+        "original": "75% performance on french law",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      },
+      "cta": {
+        "original": "demo",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      },
+      "constraints": {
+        "original": "france",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      }
+    },
+    "value_prop": ""
+  },
+  "personas": [
+    {
+      "name": "Jean-Luc Dubois",
+      "title": "Chief Information Officer",
+      "company": "Large French Bank (5000+ employees)",
+      "profile": "Experienced CIO at a leading bank in France, overseeing IT strategy and infrastructure. Focused on digital transformation and security compliance.",
+      "pain_points": [
+        "Ensuring data security",
+        "Integrating AI with legacy systems",
+        "Meeting regulatory requirements"
+      ],
+      "motivations": [
+        "Enhance data security",
+        "Streamline operations",
+        "Comply with regulations"
+      ],
+      "search_query": "CIO large bank France digital transformation AI",
+      "outreach_angle": "Highlight on-premise security and regulatory compliance benefits"
+    },
+    {
+      "name": "Isabelle Martin",
+      "title": "Chief Technology Officer",
+      "company": "Mid-sized Fintech Company (200-500 employees)",
+      "profile": "CTO at an innovative fintech company, responsible for technology strategy and product development. Keen on leveraging AI to enhance product offerings.",
+      "pain_points": [
+        "Limited AI expertise",
+        "Budget constraints",
+        "Rapid technological changes"
+      ],
+      "motivations": [
+        "Innovate product offerings",
+        "Optimize technology spend",
+        "Stay ahead of tech trends"
+      ],
+      "search_query": "CTO fintech AI innovation product development",
+      "outreach_angle": "Emphasize AI-driven product innovation and cost-effectiveness"
+    },
+    {
+      "name": "Pierre Lefevre",
+      "title": "Head of Compliance",
+      "company": "National Bank (1000-5000 employees)",
+      "profile": "Leads the compliance department at a national bank, ensuring adherence to financial regulations and laws. Focused on minimizing legal risks.",
+      "pain_points": [
+        "Complex regulatory landscape",
+        "High compliance costs",
+        "Risk of non-compliance"
+      ],
+      "motivations": [
+        "Reduce compliance costs",
+        "Mitigate legal risks",
+        "Streamline compliance processes"
+      ],
+      "search_query": "Head of Compliance national bank regulatory risk management",
+      "outreach_angle": "Showcase accuracy in French business law and cost reduction in compliance"
+    },
+    {
+      "name": "Sophie Bernard",
+      "title": "Chief Data Officer",
+      "company": "Global Insurance Firm (500+ employees)",
+      "profile": "CDO at a global insurance firm, tasked with data strategy and governance. Aims to harness data for strategic insights and competitive advantage.",
+      "pain_points": [
+        "Data integration challenges",
+        "Ensuring data quality",
+        "Leveraging data for insights"
+      ],
+      "motivations": [
+        "Improve data quality",
+        "Gain actionable insights",
+        "Enhance decision-making"
+      ],
+      "search_query": "Chief Data Officer insurance data strategy insights",
+      "outreach_angle": "Focus on banking-specific data training and insight generation capabilities"
+    },
+    {
+      "name": "Antoine Rousseau",
+      "title": "Chief Risk Officer",
+      "company": "Regional Bank (500-1000 employees)",
+      "profile": "CRO at a regional bank, responsible for identifying and managing financial risks. Prioritizes robust risk management frameworks.",
+      "pain_points": [
+        "Identifying emerging risks",
+        "Risk management inefficiencies",
+        "Regulatory compliance"
+      ],
+      "motivations": [
+        "Strengthen risk management",
+        "Enhance operational efficiency",
+        "Ensure regulatory compliance"
+      ],
+      "search_query": "Chief Risk Officer regional bank risk management compliance",
+      "outreach_angle": "Highlight risk management improvements and compliance support"
+    }
+  ],
+  "leads": [
+    {
+      "id": "jina_lead_1753549660632_1",
+      "name": "Thierry Bedoin",
+      "title": "Directeur Général des Systèmes d'Information",
+      "company": "Banque de France",
+      "email": "thierry.bedoin@banque-france.fr",
+      "linkedin_url": "https://www.banque-france.fr/en/thierry-bedoin",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "IT Director France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"IT Director France banking\"",
+      "found_at": "2025-07-26T17:07:40.632Z",
+      "lead_status": "new",
+      "raw_data": "Thierry Bedoin has been Director General of the Banque de France's Information System since April 2020 and is a member of the Executive Committee.",
+      "persona_id": "Jean-Luc Dubois",
+      "persona_match_reasons": [
+        "Found via targeted search for Chief Information Officer",
+        "Query match: \"IT Director France banking\"",
+        "Company type aligns with Large French Bank (5000+ employees)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Leading the digital transformation of Banque de France",
+          "Developing and implementing the information system strategy at Banque de France",
+          "Overseeing the innovation process through Le Lab, an in-house innovation laboratory"
+        ],
+        "recent_developments": [
+          "Received Central Banking magazine’s Fintech and Regtech Pioneer Award in 2019",
+          "Continues to serve as the French representative of the Eurosystem’s IT Committee"
+        ],
+        "strategic_priorities": [
+          "Enhancing digital transformation and innovation at Banque de France",
+          "Promoting new digital usages and a digital culture within the organization"
+        ],
+        "industry_involvement": [
+          "Speaker at HubForum Paris 2022",
+          "Active participant in the Paris Fintech Forum"
+        ],
+        "company_context": [
+          "Banque de France is focusing on digital transformation and innovation",
+          "The bank is involved in developing common IT infrastructures for European national central banks"
+        ],
+        "competitive_intelligence": [
+          "Thierry Bedoin is responsible for the digital strategy and IT operations at Banque de France",
+          "He plays a key role in the bank's innovation and digital experimentation initiatives"
+        ],
+        "outreach_angles": [
+          "Discussing digital transformation and innovation strategies",
+          "Exploring collaboration opportunities through Le Lab"
+        ],
+        "recent_quotes_or_statements": [
+          "Thierry Bedoin emphasizes the importance of innovation, new technologies, and data usage for the future of Banque de France"
+        ],
+        "summary": "Thierry Bedoin is the Director General of the Information System at Banque de France, focusing on digital transformation and innovation. He leads the bank's digital strategy and oversees the development of new solutions through Le Lab. Bedoin is actively involved in the Eurosystem’s IT Committee and has been recognized for his contributions to fintech and regtech innovation.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T17:10:43.178Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/thierrybedoin/en",
+          "title": "Thierry Bedoin - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:10:43.178Z"
+        },
+        {
+          "url": "https://www.banque-france.fr/en/thierry-bedoin",
+          "title": "Thierry Bedoin - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:10:43.178Z"
+        },
+        {
+          "url": "https://www.eventible.com/speakers/profile/thierry-bedoin-8324",
+          "title": "Thierry Bedoin - Speaker Directory",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:10:43.178Z"
+        },
+        {
+          "url": "https://members.parisfintechforum.com/speaker/0ab755fe-9221-ed11-bd6e-a04a5e7d2ab9/thierry-bedoin",
+          "title": "Thierry Bedoin - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:10:43.178Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:10:43.178Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:10:43.178Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Bonjour Thierry, admiratif de votre rôle dans la transformation numérique à Banque de France. J'aimerais échanger sur l'innovation numérique et notre solution LLM sur site, idéale pour de telles initiatives. Curieux d'en discuter?",
+        "linkedin_followup": "Hi Thierry,\n\nThank you for connecting on LinkedIn. I've been following your impressive work at Banque de France, particularly your leadership in the digital transformation journey and the innovative strides you're making through Le Lab. Your role in enhancing digital usage and fostering a digital culture within the organization is truly inspiring.\n\nI understand that security is a top priority for you, especially with your involvement in developing IT infrastructures for European national central banks. Our on-premise LLM solution is specifically designed with security in mind, ensuring you have complete control over your data while supporting your innovation efforts. Plus, with a performance metric of 75% on French business law, it aligns seamlessly with the legal complexities you handle.\n\nI'd love to explore how our solution can further support your digital transformation and innovation initiatives at Banque de France. If you’re open to it, you can easily book a time for us to chat using this Calendly link: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to the possibility of collaborating.\n\nBest regards,\nMohamad",
+        "email": "**Subject:** Quick idea for Banque de France's digital journey\n\n---\n\nHey Thierry,\n\nCongrats on leading the charge with Banque de France's digital transformation and all the cool stuff happening at Le Lab! With all that innovation, I'm guessing juggling security and efficiency is a bit of a puzzle.\n\nWe've built an on-premise LLM tailored for big players like you—no security worries here. Plus, it nails French business law with 75% accuracy.\n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:16:32Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753549669439_0",
+      "name": "Meet Gino",
+      "title": "Directeur de la Technologie",
+      "company": "N26",
+      "email": "meet.gino@financialservic.com.fr",
+      "linkedin_url": "https://n26.com/en-eu/gino-cordt",
+      "location": "Berlin, Germany",
+      "source": "jina_search",
+      "search_query": "Chief Technology Officer France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Chief Technology Officer France banking\"",
+      "found_at": "2025-07-26T17:07:49.439Z",
+      "lead_status": "new",
+      "raw_data": "Gino Cordt is N26's Chief Technology Officer, and oversees the critical responsibility of bringing data and security together.",
+      "persona_id": "Isabelle Martin",
+      "persona_match_reasons": [
+        "Found via targeted search for Chief Technology Officer",
+        "Query match: \"Chief Technology Officer France banking\"",
+        "Company type aligns with Mid-sized Fintech Company (200-500 employees)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Overseeing N26's Data and Technology divisions",
+          "Integrating data and security to enhance the digital banking experience"
+        ],
+        "recent_developments": [
+          "Gino Cordt continues to focus on data-driven insights and innovation at N26"
+        ],
+        "strategic_priorities": [
+          "Building a digital bank that integrates data and security effectively"
+        ],
+        "industry_involvement": [],
+        "company_context": [
+          "N26 is focusing on reimagining banking with a team of 1,500 people across ten global offices"
+        ],
+        "competitive_intelligence": [
+          "Gino Cordt has a strong background in data, having joined N26 as Head of Data and later becoming Chief Data Officer"
+        ],
+        "outreach_angles": [
+          "Discuss the integration of data and security in digital banking",
+          "Explore data-driven innovation in fintech"
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Gino Cordt is the Chief Technology Officer at N26, overseeing the Data and Technology divisions. He focuses on integrating data and security to enhance the digital banking experience, leveraging his extensive background in data-driven insights.",
+        "intelligence_quality": "medium",
+        "generated_at": "2025-07-26T17:11:16.433Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://www.linkedin.com/posts/marcus-w-mosen-295887_boardwork-n26-digitalbanking-activity-7250842918763073537-Fx-C",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:11:16.433Z"
+        },
+        {
+          "url": "https://n26.com/en-eu/gino-cordt",
+          "title": "Meet Gino - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:11:16.433Z"
+        },
+        {
+          "url": "https://n26.com/en-eu/team",
+          "title": "Meet N26's - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:11:16.433Z"
+        },
+        {
+          "url": "https://assets.ctfassets.net/q33z48p65a6w/2pPDiEpK2lmkoZAODubEKZ/301d105e57bf90aa441263682caa4426/N26_BIO_-_Gino_Cordt__EN-EU_.pdf?gh_jid=922&lang=en",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:11:16.433Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:11:16.433Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:11:16.433Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Meet, impressed by your focus on data-driven insights at N26. Curious how our on-prem LLM solution, excelling in French law, might enhance data-security integration for your digital banking projects. Let's connect!",
+        "linkedin_followup": "Hi Meet,\n\nThanks for connecting! I’ve been following the impressive work you’re doing at N26, especially in overseeing the Data and Technology divisions. Your focus on integrating data and security to enhance the digital banking experience truly sets you apart in the fintech landscape.\n\nGiven your strategic priority of building a digital bank with strong data and security integration, I thought it might be worth discussing how our on-premise LLM solution could complement your efforts. Our solution is designed with security in mind, operating entirely on-premise, so you don’t have to worry about data breaches—a key concern when handling sensitive financial information.\n\nAdditionally, our LLM has demonstrated a 75% performance in understanding and applying French business law, which could be beneficial as you continue to drive data-driven innovation at N26. I’d love to explore how we can support your current projects and strategic goals further.\n\nIf you’re open to it, I’d be happy to set up a chat. You can easily pick a time that suits you through my Calendly link: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to the possibility of collaborating with you.\n\nBest,\nMohamad",
+        "email": "**Subject:** Quick Idea for N26's Next Big Thing\n\nHey Meet,\n\nGreat to see Gino's push on integrating data and security at N26. With all the focus on data-driven insights, I'm guessing keeping it secure yet accessible is a puzzle. We've built an on-premise LLM for banks - no need to worry about security. Plus, it's rocking 75% accuracy on French business law. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:16:37Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753549675244_1",
+      "name": "Benjamin K.",
+      "title": "Directeur de la Conformité",
+      "company": "BMW Group France",
+      "email": "benjamin.k.@bmw.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/benjamin-k-b7388357/en",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Head of Compliance France LinkedIn",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Head of Compliance France LinkedIn\"",
+      "found_at": "2025-07-26T17:07:55.244Z",
+      "lead_status": "new",
+      "raw_data": "Head of Compliance at BMW Group France · Expertise in Compliance. Anti corruption, anti money laundering (AML) and KYC, Financial security, Internal control",
+      "persona_id": "Pierre Lefevre",
+      "persona_match_reasons": [
+        "Found via targeted search for Head of Compliance",
+        "Query match: \"Head of Compliance France LinkedIn\"",
+        "Company type aligns with National Bank (1000-5000 employees)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Leading the Americas Corporate Practice and Co-Head of the Americas M&A Practice at Clifford Chance.",
+          "Involved in significant M&A transactions such as advising Hearst on its proposed acquisition of DallasNews Corporation and advising Airbus on the sale of Metron Aviation to Stratify Aerospace."
+        ],
+        "recent_developments": [
+          "Recognized by Chambers USA 2025 as Highly Regarded in Corporate/M&A.",
+          "Clifford Chance further strengthened its US Corporate M&A practice with new partner additions."
+        ],
+        "strategic_priorities": [
+          "Focusing on cross-border M&A transactions, particularly for non-US corporate clients investing in the United States."
+        ],
+        "industry_involvement": [
+          "Speaker at The M&A Forum: Driving Efficiency in Deal Making on November 7, 2023.",
+          "Published insights on cross-border M&A issues for non-US acquirers."
+        ],
+        "company_context": [
+          "Clifford Chance is actively expanding its US Corporate M&A practice with new partner hires.",
+          "The firm is involved in high-profile M&A transactions across various sectors."
+        ],
+        "competitive_intelligence": [
+          "Benjamin Sibbett is a key figure in Clifford Chance's Americas M&A practice, focusing on high-value cross-border transactions.",
+          "He is recognized for his expertise in managing multi-jurisdictional teams and complex M&A deals."
+        ],
+        "outreach_angles": [
+          "Discuss recent trends in cross-border M&A and the challenges faced by non-US acquirers.",
+          "Explore opportunities for collaboration on multi-jurisdictional M&A transactions."
+        ],
+        "recent_quotes_or_statements": [
+          "Described as 'very client-oriented' and 'smart, responsive and practical' by leading publications."
+        ],
+        "summary": "Benjamin Sibbett is a leading partner at Clifford Chance, heading the Americas Corporate and M&A practices. He is recognized for his expertise in cross-border M&A, particularly for non-US clients investing in the US. Recently, he has been involved in significant transactions and is a sought-after speaker on M&A topics.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T17:12:04.163Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/benjamin-k-b7388357/en",
+          "title": "Benjamin K. - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:12:04.163Z"
+        },
+        {
+          "url": "https://www.cliffordchance.com/people_and_places/people/partners/us/benjamin_sibbett.html",
+          "title": "Benjamin Sibbett - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:12:04.163Z"
+        },
+        {
+          "url": "https://www.bmwgroup.com/en/report/2024/index.html",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:12:04.163Z"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=d4PAYuWOkKw",
+          "title": "Benjamin Hébert - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:12:04.163Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:12:04.163Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:12:04.163Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Bonjour Benjamin, en tant que Directeur de la Conformité chez BMW Group France, votre travail sur les transactions transfrontalières m'inspire. Je serais ravi de discuter de notre LLM sur site pour sécuriser vos défis M&A. Connectons-nous!",
+        "linkedin_followup": "Hi Benjamin,\n\nThanks for connecting with me on LinkedIn! I’ve been following the impressive work you're leading at Clifford Chance, particularly your involvement in high-profile M&A transactions like advising Hearst and Airbus. Your expertise in cross-border M&A, especially for non-US clients, is truly commendable.\n\nGiven your focus on managing multi-jurisdictional teams and navigating the complexities of cross-border deals, I thought our on-premise LLM solution could be a valuable asset for you. It’s designed with security in mind, especially important for sensitive transactions, and performs at 75% on French business law, which could streamline your M&A processes.\n\nI’d love to explore how we can support your strategic priorities further. If you’re open to it, you can easily book a time for us to chat using this link: https://calendly.com/mohamed-legml/30min. Looking forward to the possibility of collaborating!\n\nBest regards,  \nMohamad",
+        "email": "**Subject:** Quick Chat About Compliance?\n\nHey Benjamin,\n\nGreat to see your leadership in cross-border M&A at Clifford Chance. With all the moving pieces in compliance, I'm guessing security is a big concern. We've built an on-premise LLM for folks like you—keeping things secure and 75% accurate on French business law. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:16:41Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753549692757_0",
+      "name": "Frank Roncey,",
+      "title": "Directeur des Risques pour les Amériques",
+      "company": "BNP Paribas",
+      "email": "frank.roncey,@bnp.com.fr",
+      "linkedin_url": "https://group.bnpparibas/en/group/our-governance/general-management-and-the-executive-committee/frank-roncey",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Chief Risk Officer France banking",
+      "confidence_score": 0.93,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Chief Risk Officer France banking\"",
+      "found_at": "2025-07-26T17:08:12.757Z",
+      "lead_status": "new",
+      "raw_data": "Frank Roncey became Chief Risk Officer for the Americas. In 2009 he took on responsibility for risk oversight of BNP Paribas' retail banking activities.",
+      "persona_id": "Antoine Rousseau",
+      "persona_match_reasons": [
+        "Found via targeted search for Chief Risk Officer",
+        "Query match: \"Chief Risk Officer France banking\"",
+        "Company type aligns with Regional Bank (500-1000 employees)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [],
+        "recent_developments": [],
+        "strategic_priorities": [],
+        "industry_involvement": [],
+        "company_context": [],
+        "competitive_intelligence": [
+          "Frank Roncey is the Chief Risk Officer at BNP Paribas, responsible for overseeing the risk management strategies of the group."
+        ],
+        "outreach_angles": [
+          "Discuss risk management strategies and challenges in the current financial climate."
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Frank Roncey serves as the Chief Risk Officer at BNP Paribas, focusing on the group's risk management strategies. His role involves overseeing risk across various sectors within the bank.",
+        "intelligence_quality": "medium",
+        "generated_at": "2025-07-26T17:15:01.444Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/frank-roncey",
+          "title": "Frank Roncey - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:15:01.444Z"
+        },
+        {
+          "url": "https://group.bnpparibas/en/group/our-governance/general-management-and-the-executive-committee/frank-roncey",
+          "title": "Frank Roncey, - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:15:01.444Z"
+        },
+        {
+          "url": "https://group.bnpparibas/en/group/our-governance/general-management-and-the-executive-committee",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:15:01.444Z"
+        },
+        {
+          "url": "https://www.wsj.com/market-data/quotes/FR/XPAR/TPB/company-people/executive-profile/132323976?gaa_at=eafs&gaa_n=ASWzDAi4vSzWtEaqnyYGD6FYowNL-Eo4tv-E9oXAjkkOLlCjwmBKfORAQiib&gaa_ts=68851086&gaa_sig=ISVEaUhEaRbIAdQKqQENHYGJOFe0poZ1kMa0u6JOGvPI7GLngDtGLihbRuBKiYnRKR_WRzeNK-i2TGCiLgA_lQ%3D%3D",
+          "title": "Frank Roncey - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:15:01.444Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:15:01.444Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:15:01.444Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Frank, impressed by your work in risk management at BNP Paribas. I'm Mohamad at legml.ai. We offer an on-premise LLM solution tailored for banks. Would love to chat about tackling current risk challenges with AI.",
+        "linkedin_followup": "Hi Frank,\n\nThank you for connecting on LinkedIn! I’m really impressed by your role at BNP Paribas as the Chief Risk Officer, especially given the complexities of overseeing risk management strategies across the Americas.\n\nIn today’s financial climate, effectively managing risk is more challenging than ever, and I understand how crucial it is to implement robust and secure solutions. This is where our on-premise LLM for banks can make a real difference. Our solution not only ensures that security concerns are minimized, but it also delivers a strong 75% performance in French business law, aligning with the rigorous demands of your work.\n\nI’d love to discuss how our LLM can support BNP Paribas in navigating the current risk management landscape. If you're open to it, please feel free to book a convenient time for us to chat using this Calendly link: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to our conversation!\n\nBest regards,  \nMohamad",
+        "email": "**Subject:** Quick Chat About Risk Management?\n\nHey Frank,\n\nGreat to see your work in steering BNP Paribas's risk management strategies across various sectors. With the complexities you probably tackle daily, I'm guessing you might appreciate an extra layer of security and accuracy. We've built an on-premise LLM for banks—no need to worry about security. Plus, it hits 75% accuracy on French business law. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:16:46Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753549692757_2",
+      "name": "Jean-Marc Sabatier",
+      "title": "Directeur des Risques Globaux",
+      "company": "Natixis Investment Managers",
+      "email": "jean-marc.sabatier@natixis.com.fr",
+      "linkedin_url": "https://www.im.natixis.com/en-us/about/leadership-team/jean-marc-sabatier",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Chief Risk Officer France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Chief Risk Officer France banking\"",
+      "found_at": "2025-07-26T17:08:12.757Z",
+      "lead_status": "new",
+      "raw_data": "Jean-Marc Sabatier is Global Chief Risk Officer at Natixis Investment Managers and is a member of the Management Committee.",
+      "persona_id": "Antoine Rousseau",
+      "persona_match_reasons": [
+        "Found via targeted search for Chief Risk Officer",
+        "Query match: \"Chief Risk Officer France banking\"",
+        "Company type aligns with Regional Bank (500-1000 employees)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [],
+        "recent_developments": [
+          "Jean-Marc Sabatier is currently the Global Chief Risk Officer at Natixis Investment Managers.",
+          "He was previously the Deputy Global Chief Risk Officer at Natixis Investment Managers."
+        ],
+        "strategic_priorities": [],
+        "industry_involvement": [],
+        "company_context": [],
+        "competitive_intelligence": [
+          "Jean-Marc Sabatier is focused on risk management at a global level for Natixis Investment Managers."
+        ],
+        "outreach_angles": [
+          "Discussing global risk management strategies and challenges in the investment management industry could resonate with Jean-Marc Sabatier."
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Jean-Marc Sabatier is the Global Chief Risk Officer at Natixis Investment Managers, focusing on global risk management. He has previously held senior risk management roles in various regions, including Asia Pacific.",
+        "intelligence_quality": "medium",
+        "generated_at": "2025-07-26T17:12:55.730Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/jean-marc-sabatier-a7915b7",
+          "title": "Jean-Marc Sabatier - Chief Risk Officer at Natixis Investment",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:12:55.730Z"
+        },
+        {
+          "url": "https://www.im.natixis.com/en-us/about/leadership-team/jean-marc-sabatier",
+          "title": "Jean-Marc Sabatier - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:12:55.730Z"
+        },
+        {
+          "url": "https://www.im.natixis.com/en-us/about/leadership-team",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:12:55.730Z"
+        },
+        {
+          "url": "https://rocketreach.co/jean-marc-sabatier-email_6441339",
+          "title": "Jean-Marc Sabatier - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:12:55.730Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:12:55.730Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:12:55.730Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Jean-Marc, noticed your transition to Global CRO at Natixis. I'd love to connect and discuss how our on-premise LLM solution can support risk management strategies. It’s designed for security and fits well in your industry.",
+        "linkedin_followup": "Hi Jean-Marc,\n\nThank you for connecting on LinkedIn. I’ve been following your impressive journey as the Global Chief Risk Officer at Natixis Investment Managers, especially your transition from the Deputy Global Chief Risk Officer role. Your focus on global risk management is crucial in today’s ever-evolving investment landscape.\n\nUnderstanding the complexities and challenges of managing risks on a global scale, I wanted to share how our on-premise LLM solution can offer a tailored approach. It’s designed specifically for large organizations like Natixis, ensuring top-notch security while operating entirely on-premise. Additionally, our solution has demonstrated a 75% performance rate on French business law, which might align well with your operational standards and regulatory needs.\n\nI’d love to explore how our solution could support your strategic priorities in risk management. If you're interested, feel free to choose a convenient time for a chat through this link: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to the possibility of working together.\n\nBest regards,  \nMohamad",
+        "email": "Subject: Quick Thought for Natixis' Risk Challenges\n\nHey Jean-Marc,\n\nGreat to see you've stepped up as the Global Chief Risk Officer at Natixis Investment Managers. With all the global risk management you’re handling, I'm guessing keeping everything secure is a top priority. We've built an on-premise LLM just for folks like you—no need to worry about security. Plus, it hits 75% accuracy on French business law. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:16:50Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753549739608_1",
+      "name": "Thierry Bedoin",
+      "title": "Directeur Général des Systèmes d'Information",
+      "company": "Banque de France",
+      "email": "thierry.bedoin@banque-france.fr",
+      "linkedin_url": "https://www.banque-france.fr/en/thierry-bedoin",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "IT Director France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"IT Director France banking\"",
+      "found_at": "2025-07-26T17:08:59.608Z",
+      "lead_status": "new",
+      "raw_data": "Thierry Bedoin has been Director General of the Banque de France's Information System since April 2020 and is a member of the Executive Committee.",
+      "persona_id": "Jean-Luc Dubois",
+      "persona_match_reasons": [
+        "Found via targeted search for Chief Information Officer",
+        "Query match: \"IT Director France banking\"",
+        "Company type aligns with Large French Bank (5000+ employees)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Leading the digital transformation of Banque de France",
+          "Overseeing the development of Le Lab, an innovation center for digital experimentation"
+        ],
+        "recent_developments": [
+          "Received Central Banking magazine’s Fintech and Regtech Pioneer Award in 2019"
+        ],
+        "strategic_priorities": [
+          "Implementing information system strategy to enhance technology use in monetary policy and financial stability",
+          "Promoting new digital usages and a digital culture within Banque de France"
+        ],
+        "industry_involvement": [
+          "French representative of the Eurosystem’s IT Committee",
+          "Speaker at HubForum Paris 2022"
+        ],
+        "company_context": [
+          "Banque de France is focusing on digital transformation and innovation",
+          "Development of common IT infrastructures for European national central banks"
+        ],
+        "competitive_intelligence": [
+          "As Director General of Information System, Thierry Bedoin is responsible for the digital strategy and IT operations at Banque de France",
+          "He has a significant role in coordinating digital initiatives and supporting various divisions in their transformation"
+        ],
+        "outreach_angles": [
+          "Discussing challenges and opportunities in digital transformation and innovation",
+          "Exploring collaboration opportunities through Le Lab for digital experimentation"
+        ],
+        "recent_quotes_or_statements": [
+          "Thierry Bedoin emphasizes the importance of innovation, new technologies, and data usage for the future of Banque de France"
+        ],
+        "summary": "Thierry Bedoin is the Director General of the Information System at Banque de France, focusing on digital transformation and innovation. He leads the development of Le Lab, an innovation center, and represents France in the Eurosystem’s IT Committee. His strategic priorities include enhancing technology use in monetary policy and promoting a digital culture.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T17:13:21.979Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/thierrybedoin/en",
+          "title": "Thierry Bedoin - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:13:21.979Z"
+        },
+        {
+          "url": "https://www.banque-france.fr/en/thierry-bedoin",
+          "title": "Thierry Bedoin - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:13:21.979Z"
+        },
+        {
+          "url": "https://www.eventible.com/speakers/profile/thierry-bedoin-8324",
+          "title": "Thierry Bedoin - Speaker Directory",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:13:21.979Z"
+        },
+        {
+          "url": "https://members.parisfintechforum.com/speaker/0ab755fe-9221-ed11-bd6e-a04a5e7d2ab9/thierry-bedoin",
+          "title": "Thierry Bedoin - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:13:21.979Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:13:21.979Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:13:21.979Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Thierry, impressed by your work on Banque de France's digital shift. Curious how our on-premise LLM can support your IS strategy. Excited to discuss digital culture and innovation possibilities. Let's connect!",
+        "linkedin_followup": "Hi Thierry,\n\nThanks so much for connecting on LinkedIn. I’ve been following your incredible work at Banque de France, especially your leadership in the digital transformation and the development of Le Lab. It's inspiring to see how you’re spearheading efforts to integrate new technologies into monetary policy and financial stability.\n\nGiven your focus on promoting a digital culture and innovation, I believe our on-premise LLM solution could be a valuable asset for your initiatives. With its 75% performance metric on French business law, it offers robust support while ensuring security, a critical aspect for an institution like yours.\n\nI’d love to explore how we can align with your strategic priorities and support your digital experimentation efforts. If you’re open to it, you can easily book a time on my calendar here: https://calendly.com/mohamed-legml/30min. Looking forward to the opportunity to discuss how we can assist Banque de France in its digital journey.\n\nBest regards,  \nMohamad",
+        "email": "**Subject:** Quick Idea for Le Lab  \n\nHey Thierry,\n\nGreat to see your work leading the charge with Le Lab at Banque de France. With all the digital transformation on your plate, I'm guessing managing tech and security can be a bit of a juggling act. We've built an LLM for banks that’s on-premise, so no security worries - plus, it’s got a 75% accuracy on French business law.  \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min  \n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:16:54Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753549746130_0",
+      "name": "Meet Gino",
+      "title": "Directeur de la Technologie et de la Sécurité",
+      "company": "N26",
+      "email": "meet.gino@financialservic.com.fr",
+      "linkedin_url": "https://n26.com/en-eu/gino-cordt",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Chief Technology Officer France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Chief Technology Officer France banking\"",
+      "found_at": "2025-07-26T17:09:06.130Z",
+      "lead_status": "new",
+      "raw_data": "Gino Cordt is N26's Chief Technology Officer, and oversees the critical responsibility of bringing data and security together.",
+      "persona_id": "Isabelle Martin",
+      "persona_match_reasons": [
+        "Found via targeted search for Chief Technology Officer",
+        "Query match: \"Chief Technology Officer France banking\"",
+        "Company type aligns with Mid-sized Fintech Company (200-500 employees)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Overseeing N26's Data and Technology divisions",
+          "Integrating data and security to enhance the digital banking experience"
+        ],
+        "recent_developments": [
+          "Gino Cordt continues to focus on data-driven insights and innovation at N26"
+        ],
+        "strategic_priorities": [
+          "Bringing data and security together to build a digital bank",
+          "Enhancing user experience through technology and data integration"
+        ],
+        "industry_involvement": [],
+        "company_context": [
+          "N26 is focused on reimagining banking and disrupting the industry with a digital-first approach"
+        ],
+        "competitive_intelligence": [
+          "Gino Cordt has a strong background in data, having joined N26 as Head of Data and later becoming Chief Data Officer",
+          "He is responsible for the strategic integration of data and security at N26"
+        ],
+        "outreach_angles": [
+          "Discussing data-driven innovation in digital banking",
+          "Exploring the integration of security and data in enhancing user experience"
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Gino Cordt is the Chief Technology Officer at N26, overseeing the Data and Technology divisions. He focuses on integrating data and security to enhance the digital banking experience, leveraging his background in data-driven insights and innovation.",
+        "intelligence_quality": "medium",
+        "generated_at": "2025-07-26T17:13:44.746Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://www.linkedin.com/posts/marcus-w-mosen-295887_boardwork-n26-digitalbanking-activity-7250842918763073537-Fx-C",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:13:44.746Z"
+        },
+        {
+          "url": "https://n26.com/en-eu/gino-cordt",
+          "title": "Meet Gino - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:13:44.746Z"
+        },
+        {
+          "url": "https://n26.com/en-eu/team",
+          "title": "Meet N26's - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:13:44.746Z"
+        },
+        {
+          "url": "https://assets.ctfassets.net/q33z48p65a6w/2pPDiEpK2lmkoZAODubEKZ/301d105e57bf90aa441263682caa4426/N26_BIO_-_Gino_Cordt__EN-EU_.pdf?gh_jid=922&lang=en",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:13:44.746Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:13:44.746Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:13:44.746Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Bonjour Meet, impressed by your work at N26 blending data with security for enhanced UX. Curious if our on-premise LLM, excelling in French law, might complement your innovation drive. Let's connect and explore?",
+        "linkedin_followup": "Hi Meet,\n\nThanks for connecting with me on LinkedIn! I've been following your impressive work at N26, especially your focus on integrating data and security to enhance the digital banking experience. It's clear that your strategic priority of uniting these elements is key to reimagining banking in a digital-first world.\n\nGiven your ongoing projects, I wanted to share how our on-premise LLM solution might align with your goals. Our solution is designed to seamlessly integrate data and security, ensuring that there's no need to worry about security concerns since everything is managed on-premise. Plus, with a 75% performance on French business law, it could provide the robust, data-driven support you're looking for.\n\nI'd love to explore how we can support your initiatives at N26 further. If you're open to it, you can easily book a time for us to chat using my Calendly link: https://calendly.com/mohamed-legml/30min. \n\nLooking forward to our conversation!\n\nBest regards,  \nMohamad",
+        "email": "Subject: Quick Idea for N26's Tech & Security\n\nHey Meet,\n\nGreat to see N26 focusing on integrating data and security to boost the digital banking experience. With all the innovation you're driving, I'm guessing weaving through security intricacies might be a bit of a puzzle. We've built an on-premise LLM for banks that might help - no need to worry about security. Plus, it hits 75% accuracy on French business law. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:16:58Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753549751910_0",
+      "name": "Stéphanie Maarek,",
+      "title": "Responsable Mondiale de la Conformité",
+      "company": "BNP Paribas",
+      "email": "stéphanie.maarek,@bnp.com.fr",
+      "linkedin_url": "https://group.bnpparibas/en/group/our-governance/general-management-and-the-executive-committee/stephanie-maarek",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Head of Compliance France banking",
+      "confidence_score": 0.93,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Head of Compliance France banking\"",
+      "found_at": "2025-07-26T17:09:11.910Z",
+      "lead_status": "new",
+      "raw_data": "On 1 January 2023, Stéphanie Maarek was appointed Global Head of Compliance and a member of the BNP Paribas Executive Committee. Education. Stephanie Maarek is",
+      "persona_id": "Pierre Lefevre",
+      "persona_match_reasons": [
+        "Found via targeted search for Head of Compliance",
+        "Query match: \"Head of Compliance France banking\"",
+        "Company type aligns with National Bank (1000-5000 employees)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Leading the compliance function at BNP Paribas, focusing on managing non-financial risks including conduct, operational, and regulatory risks."
+        ],
+        "recent_developments": [
+          "Appointed as Global Head of Compliance and a member of the BNP Paribas Executive Committee on January 1, 2023."
+        ],
+        "strategic_priorities": [
+          "Enhancing compliance frameworks to address non-financial risks and ensuring regulatory adherence across global markets."
+        ],
+        "industry_involvement": [
+          "No recent speaking engagements, publications, or interviews found."
+        ],
+        "company_context": [
+          "BNP Paribas is focusing on sustainable finance initiatives and adapting to changing global financial regulations."
+        ],
+        "competitive_intelligence": [
+          "Stéphanie Maarek is responsible for overseeing compliance across BNP Paribas, with a focus on non-financial risk management."
+        ],
+        "outreach_angles": [
+          "Discuss recent trends in compliance and non-financial risk management, or inquire about BNP Paribas's approach to regulatory challenges."
+        ],
+        "recent_quotes_or_statements": [
+          "No specific quotes or statements found."
+        ],
+        "summary": "Stéphanie Maarek is the Global Head of Compliance at BNP Paribas, focusing on managing non-financial risks. Recently appointed to the Executive Committee, she is enhancing compliance frameworks to address regulatory challenges.",
+        "intelligence_quality": "medium",
+        "generated_at": "2025-07-26T17:15:58.178Z",
+        "content_sources": 2,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://www.linkedin.com/posts/stephanie-maarek_complianceofficerday-bnpparibas-compliance-activity-7246433750396342273-WoR9",
+          "title": "Stephanie Maarek's - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:15:58.178Z"
+        },
+        {
+          "url": "https://group.bnpparibas/en/group/our-governance/general-management-and-the-executive-committee/stephanie-maarek",
+          "title": "Stéphanie Maarek, - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:15:58.178Z"
+        },
+        {
+          "url": "https://cdn-group.bnpparibas.com/uploads/file/stephanie_maarek_eng.pdf",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:15:58.178Z"
+        },
+        {
+          "url": "https://www.bloomberg.com/profile/person/19652621",
+          "title": "Stephanie Maarek, - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:15:58.178Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:15:58.178Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 2,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:15:58.178Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Stéphanie, congrats on your new role! Your work on non-financial risks is impressive. I'd love to discuss how our on-premise LLM solution can enhance BNP's compliance frameworks. Let's connect?",
+        "linkedin_followup": "Hi Stéphanie,\n\nThank you for connecting with me on LinkedIn! I’ve been following your impressive work as you lead BNP Paribas's compliance function, particularly your recent efforts to enhance frameworks addressing non-financial risks and regulatory adherence. Your appointment to the Executive Committee this year is a testament to your leadership in navigating these complex challenges.\n\nGiven your focus on managing non-financial risks, I wanted to share how our on-premise LLM solution could support your goals. Our solution is designed specifically for large enterprises like BNP Paribas, ensuring top-tier security since everything is hosted on-site. Moreover, with a proven performance of 75% on French business law, it aligns well with your strategic priority of maintaining robust compliance frameworks across global markets.\n\nI believe our solution could be a valuable tool as you focus on addressing regulatory challenges while supporting BNP Paribas's sustainable finance initiatives. Would you be open to a brief discussion to explore this further? You can easily schedule a time that works for you through my Calendly link: https://calendly.com/mohamed-legml/30min. \n\nLooking forward to the opportunity to connect further.\n\nBest regards,  \nMohamad",
+        "email": "**Subject:** Quick Thought for BNP Paribas\n\nHey Stéphanie,\n\nGreat to see your recent appointment to the Executive Committee at BNP Paribas! With all the focus on non-financial risks, I'm guessing keeping everything compliant must be quite the puzzle. We've built an on-premise LLM for banks - no security worries, and it boasts 75% accuracy on French business law. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:17:03Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753549759053_1",
+      "name": "Antoine Ly",
+      "title": "Directeur des Sciences de Données",
+      "company": "SCOR SE",
+      "email": "antoine.ly@financialservic.com.fr",
+      "linkedin_url": "https://www.scor.com/en/our-experts/antoine-ly",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Chief Data Officer France insurance",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Chief Data Officer France insurance\"",
+      "found_at": "2025-07-26T17:09:19.053Z",
+      "lead_status": "new",
+      "raw_data": "Antoine leads Data Science and Machine Learning Engineering centers of expertise as Chief Data Science Officer for SCOR – a top tier Reinsurance company.",
+      "persona_id": "Sophie Bernard",
+      "persona_match_reasons": [
+        "Found via targeted search for Chief Data Officer",
+        "Query match: \"Chief Data Officer France insurance\"",
+        "Company type aligns with Global Insurance Firm (500+ employees)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Leading Data Science and Machine Learning Engineering centers of expertise at SCOR",
+          "Teaching courses on Artificial Intelligence in Insurance at the French Actuaries Institute and ENSAE Paris"
+        ],
+        "recent_developments": [
+          "Appointed as Chief Data Science Officer at SCOR",
+          "Transitioned from Head of Data Science, L&H to current role"
+        ],
+        "strategic_priorities": [
+          "Driving strategic transformation of insurance through data science",
+          "Enhancing collaboration and knowledge sharing within SCOR using data science solutions"
+        ],
+        "industry_involvement": [
+          "Teaching at the French Actuaries Institute and ENSAE Paris",
+          "Featured in a video explaining data science solutions at SCOR"
+        ],
+        "company_context": [
+          "SCOR is focusing on innovative solutions and services in reinsurance",
+          "SCOR's stock price recently decreased by 0.07%"
+        ],
+        "competitive_intelligence": [
+          "Responsible for technical challenges and strategic transformation at SCOR",
+          "Focus on applying machine learning to insurance"
+        ],
+        "outreach_angles": [
+          "Discuss the impact of data science on insurance transformation",
+          "Explore collaboration opportunities in machine learning applications"
+        ],
+        "recent_quotes_or_statements": [
+          "Explained how SCOR delivers best-in-class data science solutions with Domino Data Lab"
+        ],
+        "summary": "Antoine Ly is the Chief Data Science Officer at SCOR, focusing on leading data science initiatives and driving the strategic transformation of insurance. He is actively involved in teaching and enhancing collaboration within the organization through innovative data science solutions.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T17:14:31.682Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/antoine-ly-77186780",
+          "title": "Antoine Ly - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:14:31.682Z"
+        },
+        {
+          "url": "https://www.scor.com/en/our-experts/antoine-ly",
+          "title": "Antoine Ly - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:14:31.682Z"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=V_SVLaR90Kw",
+          "title": "Antoine Ly - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:14:31.682Z"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=NXpQ-aIaW8U",
+          "title": "Unleashing Data - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:14:31.682Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:14:31.682Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:14:31.682Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Antoine, congrats on your new role at SCOR! Your work in transforming insurance with data science is inspiring. I'd love to connect and discuss how our on-premise LLM solution could support your data-driven initiatives.",
+        "linkedin_followup": "Hi Antoine,\n\nThanks for connecting on LinkedIn! I’ve been following your impressive work at SCOR, especially your leadership in the Data Science and Machine Learning Engineering centers of expertise. It’s inspiring to see how you’re driving the strategic transformation of insurance through data science, particularly your efforts in enhancing collaboration and knowledge sharing within SCOR.\n\nGiven SCOR's focus on innovative reinsurance solutions and the technical challenges you’re tackling, I believe our on-premise LLM solution could be a valuable asset for your team. With a 75% performance on French business law, it’s designed to seamlessly integrate into your existing infrastructure, ensuring security and compliance are never a concern—something I know is crucial for your strategic priorities.\n\nI’d love to discuss how we can support your initiatives further. If you’re open to it, let’s schedule a call to explore this opportunity in more detail. You can easily find a time that works for you using my Calendly link: https://calendly.com/mohamed-legml/30min\n\nLooking forward to our conversation and exploring how we can contribute to SCOR’s ongoing success.\n\nBest regards,  \nMohamad",
+        "email": "**Subject:** Quick Idea for SCOR's Data Science Journey  \n\nHey Antoine,\n\nCongrats on stepping up as SCOR's Chief Data Science Officer! With your focus on transforming insurance through data science, I'm guessing there are some security headaches in managing all that data. We've built an on-premise LLM tailored for big companies like SCOR - no need to stress about security. Plus, it's got 75% accuracy on French business law. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:17:08Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753549766652_0",
+      "name": "Vladislav Grigorov",
+      "title": "Directeur des Risques",
+      "company": "Swiss Life France",
+      "email": "vladislav.grigorov@financialservic.com.fr",
+      "linkedin_url": "https://fr.linkedin.com/in/vladislav-grigorov-065b2319a/en",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Chief Risk Officer France LinkedIn",
+      "confidence_score": 0.93,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Chief Risk Officer France LinkedIn\"",
+      "found_at": "2025-07-26T17:09:26.652Z",
+      "lead_status": "new",
+      "raw_data": "Chief Risk Officer · Experience: Swiss Life France · Education: London Business School · Location: France · 500+ connections on LinkedIn.",
+      "persona_id": "Antoine Rousseau",
+      "persona_match_reasons": [
+        "Found via targeted search for Chief Risk Officer",
+        "Query match: \"Chief Risk Officer France LinkedIn\"",
+        "Company type aligns with Regional Bank (500-1000 employees)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Chief Risk Officer at Swiss Life France",
+          "Sponsor of CSR and ExtraFinancials at Swiss Life France"
+        ],
+        "recent_developments": [
+          "Permanent Invitee to ExC at Swiss Life France"
+        ],
+        "strategic_priorities": [
+          "Focus on corporate social responsibility (CSR) and extra-financials"
+        ],
+        "industry_involvement": [
+          "Speaker at Institutional Day's closing conference on delegation strategies"
+        ],
+        "company_context": [
+          "Swiss Life France is a leading player in insurance and wealth management with a focus on sustainable development"
+        ],
+        "competitive_intelligence": [
+          "Vladislav Grigorov is involved in risk management and CSR initiatives at Swiss Life France"
+        ],
+        "outreach_angles": [
+          "Discuss CSR initiatives and their impact on risk management",
+          "Explore strategies for integrating extra-financials into business operations"
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Vladislav Grigorov is the Chief Risk Officer at Swiss Life France, focusing on risk management and CSR initiatives. He is actively involved in promoting sustainable development within the company and recently spoke at an industry conference on delegation strategies.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T17:16:29.674Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/vladislav-grigorov-065b2319a/en",
+          "title": "Vladislav Grigorov - Chief Risk Officer",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:16:29.674Z"
+        },
+        {
+          "url": "https://rocketreach.co/vladislav-grigorov-email_232128104",
+          "title": "Vladislav Grigorov - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:16:29.674Z"
+        },
+        {
+          "url": "https://institutional-day.evenements.agefi.fr/en/onglet-intervenants-vue-detaillee/68091d808695f73fe65cafef",
+          "title": "ONGLET INTERVENANTS - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:16:29.674Z"
+        },
+        {
+          "url": "https://rocketreach.co/swiss-life-france-profile_b5f7dbd2f42d2aaf",
+          "title": "Swiss Life France Information - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:16:29.674Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:16:29.674Z",
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:16:29.674Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "outreach_messages": {
+        "linkedin_connection": "Hi Vladislav, congrats on your role as a permanent invitee at ExC! I'm keen to discuss how our on-premise LLM can enhance CSR and integrate extra-financials into risk management. Let's connect and explore this further!",
+        "linkedin_followup": "Hi Vladislav,\n\nThank you for connecting with me on LinkedIn. I’ve been following your impressive work as the Chief Risk Officer at Swiss Life France, especially your focus on integrating corporate social responsibility (CSR) into risk management strategies. It’s also exciting to see your role as a permanent invitee to the ExC, which surely reflects your valuable contributions to the company.\n\nGiven your strategic priorities around CSR and extra-financials, I believe our on-premise LLM solution could be a great fit for your initiatives at Swiss Life France. Our technology is specifically designed to integrate seamlessly into large organizations like yours, ensuring full data security while maintaining high performance. In fact, our solution achieves 75% accuracy on French business law, which might be particularly beneficial as you navigate the complexities of sustainable development and risk management.\n\nI’d love to discuss how we can support your efforts further. Feel free to book a time that works for you through this link: https://calendly.com/mohamed-legml/30min. Looking forward to exploring how we can contribute to your ongoing projects at Swiss Life France.\n\nBest regards,  \nMohamad",
+        "email": "**Subject:** Quick Chat About Your CSR Goals?\n\nHey Vladislav,\n\nGreat to see your focus on CSR initiatives at Swiss Life France. With your role in promoting sustainable development, I'm guessing managing risks while pushing these projects forward can be a bit tricky. We've built an on-premise LLM for companies like yours - no security worries, just solid support with 75% accuracy on French business law. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:17:12Z",
+        "generated_by": "OutreachNode"
+      }
+    }
+  ],
+  "outreach": [],
+  "inbound": [],
+  "triage": [],
+  "search_metadata": {
+    "total_leads": 36,
+    "leads_per_persona": {
+      "Jean-Luc Dubois": 8,
+      "Isabelle Martin": 10,
+      "Pierre Lefevre": 5,
+      "Sophie Bernard": 5,
+      "Antoine Rousseau": 8
+    },
+    "search_completed_at": "2025-07-26T19:10:12Z",
+    "search_method": "jina_api",
+    "real_data": true,
+    "llm_enhanced": true,
+    "personality_analyzed_leads": 10,
+    "successful_personality_analyses": 10,
+    "personality_analysis_completed": "2025-07-26T19:16:29Z",
+    "personality_analysis_method": "web_scraping_chatgpt_analysis",
+    "personality_analysis_sources": {
+      "total_analyzed": 10,
+      "sources": {},
+      "confidence_distribution": {
+        "high": 0,
+        "medium": 0,
+        "low": 0
+      }
+    }
+  },
+  "outreach_metadata": {
+    "total_leads_processed": 10,
+    "outreach_messages_generated": 10,
+    "csv_export_path": "/home/azureuser/jim_and_dwight/profiles/p_20250726_1705/leads-outreach.csv",
+    "outreach_completed_at": "2025-07-26T19:17:13Z",
+    "outreach_method": "competitive_intelligence_based",
+    "message_types": [
+      "linkedin_connection",
+      "linkedin_followup",
+      "email"
+    ]
+  }
+}

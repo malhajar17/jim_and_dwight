@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "quickstart": "node scripts/quickstart.js",
+    "resume-enrich": "node scripts/resume-enrich.js",
     "dev": "node scripts/dev-mode.js",
     "pipeline": "node scripts/full-pipeline.js",
     "investor-pipeline": "node scripts/investor-pipeline.js"

@@ -1,7 +1,0 @@
-[2025-07-26T16:28:12Z] INIT run p_20250726_1425 mode=investor
-[2025-07-26T16:28:12Z] USER_CONTEXT captured (7 answers) with context-aware LLM enrichment
-[2025-07-26T16:28:12Z] PLAN stub received USER_CONTEXT_READY
-[2025-07-26T16:28:23Z] PERSONAS generated: 5 target personas created
-[2025-07-26T16:31:12Z] SEARCH completed: 17 REAL leads found via Jina API across 5 personas. 9 new leads enriched with RocketReach. 0 existing leads updated with better RocketReach data.
-[2025-07-26T16:35:31Z] SEARCH completed: 25 REAL leads found via Jina API across 5 personas. 13 new leads enriched with RocketReach. 13 existing leads updated with better RocketReach data.
-[2025-07-26T16:41:52Z] PERSONALITY ANALYSIS completed: 10 leads analyzed

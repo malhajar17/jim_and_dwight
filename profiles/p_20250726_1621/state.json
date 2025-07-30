@@ -1,0 +1,1365 @@
+{
+  "run_id": "p_20250726_1621",
+  "mode": "investor",
+  "profile": {
+    "answers": {
+      "product": "legml",
+      "target": "preseed",
+      "pain": "users",
+      "signals": [
+        "sectorieal llm"
+      ],
+      "proof": "angel",
+      "cta": "deck",
+      "constraints": "no non techichal vcs"
+    },
+    "enrichment": {
+      "product": {
+        "original": "legml",
+        "enriched": [
+          {
+            "question": "What specific market size and growth metrics can you provide for legml?",
+            "answer": "10b"
+          },
+          {
+            "question": "Can you share any specific traction numbers such as revenue, user base, or growth rate for legml?",
+            "answer": "growth rate"
+          },
+          {
+            "question": "What are the clear competitive advantages that differentiate legml from other companies in the same category?",
+            "answer": "its re sectorial"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer 'legml' lacks specificity and context. It does not provide any details about the product, target audience, market segment, metrics, or value proposition. Without these elements, it is impossible to determine the richness of the answer for investor outreach."
+        }
+      },
+      "target": {
+        "original": "preseed",
+        "enriched": [
+          {
+            "question": "What is the planned use of funds for the preseed round?",
+            "answer": "scale compute"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer 'preseed' lacks specific details, such as the target audience, market segment, concrete metrics, or use of funds. It does not provide actionable information or sufficient context to understand the value proposition. More information is needed to make the answer rich enough."
+        }
+      },
+      "pain": {
+        "original": "users",
+        "enriched": [
+          {
+            "question": "What specific user growth metrics can you provide for legml?",
+            "answer": "22k users free"
+          }
+        ],
+        "classification": {
+          "needsEnrichment": true,
+          "reasoning": "The answer 'users' is too vague and lacks specificity. It does not provide any concrete metrics, numbers, or proof points, nor does it offer sufficient context or actionable information for investor outreach. It needs more details to be considered rich enough."
+        }
+      },
+      "signals": {
+        "original": "sectorieal llm",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      },
+      "proof": {
+        "original": "angel",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      },
+      "cta": {
+        "original": "deck",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      },
+      "constraints": {
+        "original": "no non techichal vcs",
+        "enriched": [],
+        "classification": {
+          "needsEnrichment": false,
+          "reasoning": "Sufficient context already available"
+        }
+      }
+    },
+    "value_prop": ""
+  },
+  "personas": [
+    {
+      "name": "Alex Thompson",
+      "title": "Managing Partner",
+      "company": "Early-stage VC Fund ($50M AUM)",
+      "profile": "Alex is a seasoned investor with a focus on early-stage technology startups. He has a background in computer science and is keen on investing in innovative tech solutions.",
+      "pain_points": [
+        "Finding unique tech startups",
+        "Ensuring strong founder-market fit",
+        "Managing investment risk"
+      ],
+      "motivations": [
+        "High growth potential",
+        "Disruptive technology",
+        "Strong founding team"
+      ],
+      "search_query": "early-stage VC tech innovation disruptive startups",
+      "outreach_angle": "Highlight legml's sectorial LLM differentiation and growth potential"
+    },
+    {
+      "name": "Emily Rivera",
+      "title": "Angel Investor",
+      "company": "Independent Angel Investor",
+      "profile": "Emily is a former tech entrepreneur turned angel investor. She focuses on pre-seed investments in AI and machine learning startups, looking for passionate founders.",
+      "pain_points": [
+        "Limited access to early-stage deals",
+        "High risk of pre-seed investments",
+        "Evaluating technical feasibility"
+      ],
+      "motivations": [
+        "Support innovative AI solutions",
+        "Mentor passionate founders",
+        "Diversify investment portfolio"
+      ],
+      "search_query": "angel investor AI machine learning pre-seed",
+      "outreach_angle": "Emphasize legml's growth rate and user base as proof of concept"
+    },
+    {
+      "name": "Raj Patel",
+      "title": "Director of Strategic Investments",
+      "company": "Global Tech Corporation",
+      "profile": "Raj leads strategic investments for a multinational tech company, focusing on startups that can complement their existing product lines and open new markets.",
+      "pain_points": [
+        "Aligning startup innovation with corporate strategy",
+        "Integration challenges",
+        "Competitive market landscape"
+      ],
+      "motivations": [
+        "Strategic alignment",
+        "Market expansion",
+        "Technology acquisition"
+      ],
+      "search_query": "strategic investments tech corporation AI startups",
+      "outreach_angle": "Discuss how legml's sectorial focus aligns with corporate strategy and market expansion goals"
+    },
+    {
+      "name": "Linda Nguyen",
+      "title": "Principal",
+      "company": "Growth-stage VC Fund ($200M AUM)",
+      "profile": "Linda is a principal at a growth-stage VC fund, focusing on scaling tech companies with proven market traction. She has a background in finance and operations.",
+      "pain_points": [
+        "Identifying scalable business models",
+        "Assessing market saturation",
+        "Balancing portfolio risk"
+      ],
+      "motivations": [
+        "Scalable growth",
+        "Market leadership",
+        "Operational excellence"
+      ],
+      "search_query": "growth-stage VC scalable tech startups",
+      "outreach_angle": "Highlight legml's market size and compute scaling plans"
+    },
+    {
+      "name": "Carlos Mendes",
+      "title": "Regional Investment Manager",
+      "company": "Latin America-focused VC Fund",
+      "profile": "Carlos manages investments for a VC fund focused on emerging markets in Latin America. He seeks startups with potential for regional impact and scalability.",
+      "pain_points": [
+        "Navigating regulatory environments",
+        "Cultural and market differences",
+        "Access to local talent"
+      ],
+      "motivations": [
+        "Regional impact",
+        "Scalability in emerging markets",
+        "Cultural alignment"
+      ],
+      "search_query": "Latin America VC emerging markets tech startups",
+      "outreach_angle": "Position legml as a scalable solution with potential for regional impact in emerging markets"
+    }
+  ],
+  "leads": [
+    {
+      "id": "jina_lead_1753547456079_2",
+      "name": "Gilles Amsallem",
+      "title": "Managing Partner, Corporate and US Groups",
+      "company": "Eurazeo",
+      "email": "gilles.amsallem@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/gilles-amsallem-a6715223",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France VC",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France VC\"",
+      "found_at": "2025-07-26T16:30:56.079Z",
+      "lead_status": "new",
+      "raw_data": "Gilles is our Managing Partner in France and heads both the corporate and US groups. Gilles advises large media entertainment and technology clients.",
+      "persona_id": "Alex Thompson",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France VC\"",
+        "Company type aligns with Early-stage VC Fund ($50M AUM)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/gilles-amsallem-email_27776967",
+      "rocketreach_update_timestamp": "2025-07-26T16:34:06.372Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/gilles-amsallem-a6715223"
+      ],
+      "personality_analysis": {
+        "current_projects": [],
+        "recent_developments": [
+          "Gilles Amsallem is recognized in the Legal 500 Europe, Middle East and Africa 2025 for Corporate and M&A."
+        ],
+        "strategic_priorities": [],
+        "industry_involvement": [],
+        "company_context": [],
+        "competitive_intelligence": [
+          "Gilles Amsallem is the Managing Partner in France at Taylor Wessing and heads both the corporate and US groups."
+        ],
+        "outreach_angles": [
+          "Discuss his recognition in the Legal 500 Europe, Middle East and Africa 2025 for Corporate and M&A."
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Gilles Amsallem is the Managing Partner in France at Taylor Wessing, leading the corporate and US groups. He was recently recognized in the Legal 500 Europe, Middle East and Africa 2025 for his work in Corporate and M&A.",
+        "intelligence_quality": "medium",
+        "generated_at": "2025-07-26T16:58:35.989Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T16:58:35.989Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "personality_sources": [
+        {
+          "url": "https://www.linkedin.com/in/gilles-amsallem-",
+          "title": "Gilles Amsallem - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T16:58:35.989Z"
+        },
+        {
+          "url": "https://www.taylorwessing.com/en/people/france/paris/gilles-amsallem",
+          "title": "Gilles Amsallem - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T16:58:35.989Z"
+        },
+        {
+          "url": "https://assets.leadersleague.com/guides/Transaction_&_deal/T&D_2023_24.pdf",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T16:58:35.989Z"
+        },
+        {
+          "url": "https://chambers.com/downloads/rankings/793/france.pdf",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T16:58:35.989Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T16:58:35.989Z",
+      "outreach_messages": {
+        "linkedin_connection": "Hi Gilles, congrats on your Legal 500 recognition for Corporate and M&A! At legml.ai, we're enhancing legal processes with our on-premise LLM solution. Would love to connect and explore how this could align with your work at Eurazeo.",
+        "linkedin_followup": "Hi Gilles,\n\nThanks for connecting on LinkedIn. I was thrilled to see your recent recognition in the Legal 500 Europe, Middle East and Africa 2025 for your work in Corporate and M&A. It’s a testament to your leadership at Taylor Wessing, especially in guiding the corporate and US groups.\n\nI wanted to share how legml can support your work. Our on-premise LLM solution is designed to enhance legal research and due diligence processes, boasting a remarkable 75% performance improvement in French business law tasks. This could be particularly beneficial as you continue to excel in the M&A space.\n\nIf you’re open to exploring how this can align with your strategic objectives, I’d love to discuss further. Feel free to book a time that suits you through my Calendly link: https://calendly.com/mohamed-legml/30min. Looking forward to the possibility of collaborating.\n\nBest regards,\nMohamad",
+        "email": "**Subject:** Quick Chat About French Business Law?\n\nHey Gilles,\n\nCongrats on the Legal 500 recognition—impressive stuff! With all that on your plate, I'm guessing keeping up with the nuances of French business law might be a bit of a puzzle. We've built legml, an on-premise LLM, and it nails 75% accuracy on French business law. This might help make things a tad easier. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:03:12Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753547456080_3",
+      "name": "Benoist Grossmann",
+      "title": "Senior Managing Partner, Chairman of Eurazeo Tech",
+      "company": "Eurazeo",
+      "email": "benoist.grossmann@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/benoist-grossmann-4956b37",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France VC",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France VC\"",
+      "found_at": "2025-07-26T16:30:56.080Z",
+      "lead_status": "new",
+      "raw_data": "Benoist Grossmann is Senior Managing Partner – Chairman Eurazeo Tech. Before joining the Group, Benoist worked for several venture capital funds for over 10",
+      "persona_id": "Alex Thompson",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France VC\"",
+        "Company type aligns with Early-stage VC Fund ($50M AUM)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/benoist-grossmann-email_3194482",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T16:34:09.747Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/benoist-grossmann-4956b37"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Managing Growth Capital and Eurazeo Growth activities at Idinvest Partners",
+          "Chairman of Eurazeo Tech"
+        ],
+        "recent_developments": [
+          "Eurazeo Investment Manager and Eurazeo Mid Cap are merging to form Eurazeo Global Investor"
+        ],
+        "strategic_priorities": [
+          "Focus on technology investments and growth capital"
+        ],
+        "industry_involvement": [
+          "President of France Digitale since December 2019",
+          "Member of Meta France’s advisory board",
+          "Director of Swile and Withings",
+          "Member of BPI France’s Innovation Committee"
+        ],
+        "company_context": [
+          "Eurazeo is a leading private asset manager in Europe with recent structural changes like the merger to form Eurazeo Global Investor"
+        ],
+        "competitive_intelligence": [
+          "Benoist Grossmann is heavily involved in technology and growth capital investments",
+          "He holds significant roles in various tech and investment boards"
+        ],
+        "outreach_angles": [
+          "Discuss the merger of Eurazeo Investment Manager and Eurazeo Mid Cap",
+          "Explore opportunities in technology investments and growth capital"
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Benoist Grossmann is the Senior Managing Partner and Chairman of Eurazeo Tech, focusing on technology investments and growth capital. He is actively involved in various industry boards and committees, including France Digitale and Meta France’s advisory board. Eurazeo is undergoing significant structural changes with the merger to form Eurazeo Global Investor.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T16:59:03.254Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T16:59:03.254Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/benoist-grossmann-4956b37",
+          "title": "Benoist Grossmann - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T16:59:03.254Z"
+        },
+        {
+          "url": "https://www.eurazeo.com/en/group/teams/profile/benoist-grossmann",
+          "title": "Benoist Grossmann - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T16:59:03.254Z"
+        },
+        {
+          "url": "https://www.eurazeo.com/en/group/teams?page=1",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T16:59:03.254Z"
+        },
+        {
+          "url": "https://www.karmanproject.org/members/benoist-grossmann",
+          "title": "Benoist Grossmann - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T16:59:03.254Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T16:59:03.254Z",
+      "outreach_messages": {
+        "linkedin_connection": "Hi Benoist, congrats on the Eurazeo Global Investor merger! As you focus on tech investments, I'd love to connect and share how legml's on-premise LLM could align with your growth capital strategies. Curious to explore potential synergies.",
+        "linkedin_followup": "Hi Benoist,\n\nThank you for connecting on LinkedIn. I’ve been following the exciting developments at Eurazeo, especially the merger to form Eurazeo Global Investor. It’s impressive how you’re steering the focus on technology investments and growth capital at Eurazeo Tech.\n\nAt legml.ai, we specialize in on-premise LLM solutions tailored to enhance decision-making in tech-driven investments. Our solution is designed to align with your strategic priorities and can deliver a 75% performance metric in French business law, which I believe could be a significant asset as you oversee the growth capital and tech investments at Idinvest Partners.\n\nI'd love to explore how we can support your initiatives at Eurazeo, especially during this pivotal time of structural change. If you're open to it, let's schedule a brief call to discuss further. You can easily find a time that suits you via my Calendly link: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to our conversation!\n\nBest,  \nMohamad",
+        "email": "Subject: Quick thought for Eurazeo's tech focus\n\nHey Benoist,\n\nGreat to see Eurazeo Tech merging into Eurazeo Global Investor—big moves! With all the tech focus and growth capital management, I'm guessing sorting through all the legal stuff might get tricky. We've built legml, an on-premise LLM with 75% accuracy on French business law. This might help streamline things a bit.\n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:03:16Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753547457822_4",
+      "name": "George Paterson",
+      "title": "Directeur Général de la Technologie",
+      "company": "Banque et Services Financiers de Paris",
+      "email": "george.paterson@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/george-paterson-79b81b42",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France banking\"",
+      "found_at": "2025-07-26T16:30:57.822Z",
+      "lead_status": "new",
+      "raw_data": "George Paterson is a banking and finance lawyer based in Paris. He is also Global Head of Banking and Finance, Paris Office Managing Partner and Head of our",
+      "persona_id": "Alex Thompson",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France banking\"",
+        "Company type aligns with Early-stage VC Fund ($50M AUM)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/george-paterson-email_11784113",
+      "rocketreach_update_timestamp": "2025-07-26T16:34:27.922Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/george-paterson-79b81b42"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Leading the global banking and finance practice at Norton Rose Fulbright",
+          "Managing the Paris office and heading the Paris Aviation team"
+        ],
+        "recent_developments": [
+          "Appointed as Global Head of Banking and Finance at Norton Rose Fulbright in January 2023",
+          "Received four awards at the Aviation 100 Deals of the Year Awards in 2022"
+        ],
+        "strategic_priorities": [
+          "Expanding the global banking and finance services",
+          "Providing cross-border and multidisciplinary advice to financial institutions"
+        ],
+        "industry_involvement": [
+          "Recognized as a leading lawyer in aviation finance by Chambers Global, Chambers Europe, and The Legal 500 EMEA"
+        ],
+        "company_context": [
+          "Norton Rose Fulbright is expanding its global projects practice with new partner teams in Paris",
+          "The firm has bolstered its real estate offering with new partners in Paris"
+        ],
+        "competitive_intelligence": [
+          "George Paterson is focused on aviation finance and leasing transactions",
+          "He has extensive experience with export credit finance and tax-based structures"
+        ],
+        "outreach_angles": [
+          "Discuss recent expansions in the Paris office and how they align with global banking and finance strategies",
+          "Explore opportunities in aviation finance and cross-border leasing transactions"
+        ],
+        "recent_quotes_or_statements": [
+          "George Paterson stated, 'In a complex landscape, our financial institution clients need a wide range of cross-border and multidisciplinary advice, which we are able to provide.'"
+        ],
+        "summary": "George Paterson is the Global Head of Banking and Finance at Norton Rose Fulbright, managing the Paris office and leading the Paris Aviation team. Recently appointed in January 2023, he focuses on expanding global banking services and providing comprehensive advice to financial institutions.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T16:59:28.117Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T16:59:28.117Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "personality_sources": [
+        {
+          "url": "https://www.linkedin.com/pub/dir/George/Paterson",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T16:59:28.117Z"
+        },
+        {
+          "url": "https://www.nortonrosefulbright.com/people/121234",
+          "title": "George Paterson - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T16:59:28.117Z"
+        },
+        {
+          "url": "https://www.nortonrosefulbright.com/fr-fr/news/d1868c69/norton-rose-fulbright-announces-george-paterson-as-global-head-of-banking-and-finance",
+          "title": "Norton Rose - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T16:59:28.117Z"
+        },
+        {
+          "url": "https://fiscalonline.com/on-en-parle/Norton-Rose-Fulbright-poursuit-son-developpement-a-Paris-avec-les-arrivees-de-deux-nouveaux-associes",
+          "title": "Norton Rose - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T16:59:28.117Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T16:59:28.117Z",
+      "outreach_messages": {
+        "linkedin_connection": "Hi George, congrats on your role at Norton Rose Fulbright! I'd love to connect and discuss how legml's on-prem LLM solutions can support your global banking expansions and aviation finance initiatives at Banque et Services.",
+        "linkedin_followup": "Bonjour George,\n\nMerci d'avoir accepté ma connexion sur LinkedIn. J'ai été particulièrement impressionné par votre récente nomination en tant que Global Head of Banking and Finance chez Norton Rose Fulbright, ainsi que par la direction que vous donnez à l'équipe d'aviation de Paris. Vos efforts pour développer les services bancaires mondiaux et fournir des conseils multidisciplinaires aux institutions financières sont vraiment inspirants, surtout dans un paysage aussi complexe que celui que vous avez décrit.\n\nChez legml, nous avons développé une solution LLM on-premise qui pourrait s'aligner parfaitement avec vos priorités stratégiques, notamment l'expansion de votre pratique mondiale de la finance et la gestion de transactions complexes en leasing aéronautique. Notre modèle se distingue par une performance impressionnante de 75% en droit des affaires français, ce qui pourrait être un atout considérable pour vos besoins en matière de conseils transfrontaliers et multidisciplinaires.\n\nJe serais ravi de discuter de la manière dont notre solution pourrait soutenir vos initiatives actuelles, notamment à travers les récentes expansions de votre bureau parisien. Si vous êtes disponible, je vous invite à réserver un créneau pour une conversation via ce lien : https://calendly.com/mohamed-legml/30min. Cela pourrait être l'occasion d'explorer ensemble comment nous pouvons contribuer à vos objectifs.\n\nAu plaisir de vous parler bientôt,\n\nMohamad",
+        "email": "**Subject:** Quick idea for Banque et Services Financiers de Paris\n\nHey George,\n\nAwesome to see your efforts in expanding global banking services at Banque et Services Financiers de Paris! With all that cross-border advising, I'm guessing keeping up with French business law is a bit of a puzzle. We've built legml - an on-premise LLM that nails 75% accuracy on French business law. This might help simplify things a bit. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:03:22Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753547467025_3",
+      "name": "Philippe Perret",
+      "title": "Senior Vice President, Group Networking Sales",
+      "company": "Société Générale Assurances",
+      "email": "philippe.perret@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/perretphilippe",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Insurance executive France LinkedIn",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Insurance executive France LinkedIn\"",
+      "found_at": "2025-07-26T16:31:07.025Z",
+      "lead_status": "new",
+      "raw_data": "Experienced Chief Executive Officer with a demonstrated history of working in the · Experience: Societe Generale Assurances · Education: Institut des",
+      "persona_id": "Emily Rivera",
+      "persona_match_reasons": [
+        "Found via targeted search for Angel Investor",
+        "Query match: \"Insurance executive France LinkedIn\"",
+        "Company type aligns with Independent Angel Investor",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/philippe-perret-email_8479532",
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_update_timestamp": "2025-07-26T16:34:49.666Z",
+      "rocketreach_updates": [
+        "💼 Title: Directeur Général de la Technologie → Senior Vice President, Group Networking Sales"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Leading digital transformation initiatives at Societe Generale Assurances"
+        ],
+        "recent_developments": [
+          "Reappointed as the head of the French Bancassurers Group"
+        ],
+        "strategic_priorities": [
+          "Focus on digital innovation and asset management within the insurance sector"
+        ],
+        "industry_involvement": [
+          "Active on social media discussing topics related to insurance and digital innovation"
+        ],
+        "company_context": [
+          "Societe Generale Assurances is undergoing digital transformation under his leadership"
+        ],
+        "competitive_intelligence": [
+          "As CEO, he is driving digital and innovative strategies at Societe Generale Assurances"
+        ],
+        "outreach_angles": [
+          "Discuss digital transformation in insurance and asset management strategies"
+        ],
+        "recent_quotes_or_statements": [
+          "No specific quotes available"
+        ],
+        "summary": "Philippe Perret is the CEO of Societe Generale Assurances, focusing on digital transformation and innovation in the insurance sector. Recently reappointed as the head of the French Bancassurers Group, he is actively involved in driving strategic priorities around digital and asset management.",
+        "intelligence_quality": "medium",
+        "generated_at": "2025-07-26T17:00:21.475Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:00:21.475Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "personality_sources": [
+        {
+          "url": "https://www.linkedin.com/in/perretphilippe",
+          "title": "Philippe Perret - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:00:21.475Z"
+        },
+        {
+          "url": "https://www.argusdelassurance.com/les-assureurs/philippe-perret-reconduit-a-la-tete-du-groupement-francais-des-bancassureurs.231220",
+          "title": "Philippe Perret - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:00:21.475Z"
+        },
+        {
+          "url": "https://x.com/ph_perret?lang=en",
+          "title": "Philippe Perret - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:00:21.475Z"
+        },
+        {
+          "url": "https://rocketreach.co/philippe-perret-email_239735175",
+          "title": "Philippe Perret - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:00:21.475Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:00:21.475Z",
+      "outreach_messages": {
+        "linkedin_connection": "Hi Philippe, impressed by your leadership in digital innovation at Société Générale Assurances. At legml, we specialize in on-premise LLM solutions that could enhance your transformation and asset management goals. Let's connect to explore synergies!",
+        "linkedin_followup": "Hi Philippe,\n\nThank you for connecting on LinkedIn! I’ve been following the impressive digital transformation initiatives you’re leading at Société Générale Assurances with great interest. Your reappointment as the head of the French Bancassurers Group is a testament to your innovative leadership in digital and asset management strategies.\n\nGiven your focus on digital innovation, I'm excited to share how our on-premise LLM solution, legml, could be a valuable asset in your journey. We've achieved a 75% performance metric in French business law, which could significantly enhance your digital transformation efforts within the insurance sector.\n\nI’d love to explore how we can support your strategic priorities further. If you’re open to a conversation, you can easily schedule a time that works for you via my Calendly link: https://calendly.com/mohamed-legml/30min. Looking forward to the possibility of collaborating with you.\n\nWarm regards,  \nMohamad",
+        "email": "Subject: Quick Idea for Your Digital Transformation\n\nHey Philippe,\n\nGreat to see your focus on digital innovation at Société Générale Assurances. With all the digital transformation buzz, I'm guessing you're juggling a ton of priorities. We've built legml, an on-premise LLM, which might help—it's hitting 75% accuracy on French business law. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:03:26Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753547473257_0",
+      "name": "Eric Levassor",
+      "title": "Directeur Exécutif - Allocation Stratégique et Optimisation",
+      "company": "Natixis Corporate & Investment Banking",
+      "email": "eric.levassor@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/eric-levasseur-321874116",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Director of Strategic Investments France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Director of Strategic Investments France banking\"",
+      "found_at": "2025-07-26T16:31:13.257Z",
+      "lead_status": "new",
+      "raw_data": "Eric Levassor. Executive Director - Strategic Allocation & Optimization. Natixis Corporate & Investment Banking Université Paris Dauphine - PSL",
+      "persona_id": "Raj Patel",
+      "persona_match_reasons": [
+        "Found via targeted search for Director of Strategic Investments",
+        "Query match: \"Director of Strategic Investments France banking\"",
+        "Company type aligns with Global Tech Corporation",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/eric-levasseur-email_80342141",
+      "rocketreach_update_timestamp": "2025-07-26T16:35:03.690Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/eric-levasseur-321874116"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Leading Credit Portfolio and Resource Management at Natixis Corporate & Investment Banking"
+        ],
+        "recent_developments": [
+          "Appointed as Executive Director at Natixis Corporate & Investment Banking in 2024"
+        ],
+        "strategic_priorities": [
+          "Managing credit portfolios and optimizing resource management within Natixis"
+        ],
+        "industry_involvement": [],
+        "company_context": [
+          "Natixis is expanding its investment banking business in Asia Pacific and strengthening its global markets team"
+        ],
+        "competitive_intelligence": [
+          "Eric Levassor is focused on credit portfolio management and resource optimization at Natixis"
+        ],
+        "outreach_angles": [
+          "Discuss credit portfolio strategies and resource management optimization"
+        ],
+        "recent_quotes_or_statements": [],
+        "summary": "Eric Levassor is the Executive Director of Credit Portfolio and Resource Management at Natixis Corporate & Investment Banking, focusing on managing credit portfolios and optimizing resources. He was appointed to this role in 2024.",
+        "intelligence_quality": "medium",
+        "generated_at": "2025-07-26T17:00:55.651Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:00:55.651Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "personality_sources": [
+        {
+          "url": "https://uk.linkedin.com/in/eric-levassor-272b7b16",
+          "title": "Eric Levassor - Executive Director",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:00:55.651Z"
+        },
+        {
+          "url": "https://rocketreach.co/eric-levassor-email_5836922",
+          "title": "Eric Levassor - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:00:55.651Z"
+        },
+        {
+          "url": "https://www.im.natixis.com/en-us/about/leadership-team",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:00:55.651Z"
+        },
+        {
+          "url": "https://newsroom-en.groupebpce.fr/natixis-corporate--investment-banking.html",
+          "title": "Natixis Corporate - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:00:55.651Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:00:55.651Z",
+      "outreach_messages": {
+        "linkedin_connection": "Hi Eric, congrats on your new role at Natixis! I'm keen to discuss how our on-premise LLM solution can enhance credit portfolio strategies and resource optimization. Let's connect and explore potential synergies.",
+        "linkedin_followup": "Bonjour Eric,\n\nMerci d'avoir accepté ma demande de connexion sur LinkedIn. J'ai été particulièrement impressionné par votre récente nomination en tant que Directeur Exécutif chez Natixis Corporate & Investment Banking. Votre leadership dans la gestion du portefeuille de crédit et l'optimisation des ressources est essentiel, surtout dans le contexte actuel de l'expansion de Natixis en Asie-Pacifique.\n\nChez legml.ai, nous avons développé une solution LLM on-premise qui pourrait être un atout considérable pour vos projets. Notre technologie permet non seulement d'optimiser la gestion des portefeuilles de crédit mais aussi d'améliorer l'efficacité des ressources grâce à une performance de 75% en droit des affaires français. Cela pourrait être particulièrement pertinent pour renforcer votre équipe des marchés mondiaux.\n\nJe serais ravi de discuter de la façon dont notre solution pourrait s'intégrer dans vos initiatives actuelles. Vous pouvez réserver un créneau pour en parler davantage via ce lien : https://calendly.com/mohamed-legml/30min.\n\nAu plaisir d'échanger avec vous.\n\nCordialement,  \nMohamad",
+        "email": "**Subject:** Quick Thought on Managing Credit Portfolios\n\nHey Eric,\n\nCongrats on stepping up as Executive Director at Natixis! With all the juggling in credit portfolios and resource optimization, I'm guessing keeping up with French business law might get tricky. We've built legml - an on-premise LLM that's 75% accurate on French business law. This might help streamline things for you. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:03:31Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753547475188_0",
+      "name": "Olivier Guigné",
+      "title": "Directeur des Investissements",
+      "company": "CNP Assurances",
+      "email": "olivier.guigné@cnp.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/olivier-guign%C3%A9-6093694b",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Director of Strategic Investments France insurance",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Director of Strategic Investments France insurance\"",
+      "found_at": "2025-07-26T16:31:15.188Z",
+      "lead_status": "new",
+      "raw_data": "In 2013, he became Head of Investment Strategy and Listed Investments Management Department at CNP Assurances.  Director of Investments France at CNP",
+      "persona_id": "Raj Patel",
+      "persona_match_reasons": [
+        "Found via targeted search for Director of Strategic Investments",
+        "Query match: \"Director of Strategic Investments France insurance\"",
+        "Company type aligns with Global Tech Corporation",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/olivier-guigne-email_100481567",
+      "rocketreach_update_timestamp": "2025-07-26T16:35:16.044Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/olivier-guign%C3%A9-6093694b"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Leading diversification efforts into unlisted infrastructures and private equity funds.",
+          "Driving green investment initiatives aiming for €20bn by the end of 2023."
+        ],
+        "recent_developments": [
+          "Appointed Director of Investments and Savings Europe at CNP Assurances in April 2024.",
+          "Awarded CIO of the Year by Insurance Asset Risk in 2023."
+        ],
+        "strategic_priorities": [
+          "Diversifying investment portfolios into emerging markets and untested territories.",
+          "Reducing greenhouse gas emissions from listed shares and cutting investments in thermal coal."
+        ],
+        "industry_involvement": [
+          "Recognized for guiding CNP Assurances through structural shifts in investment strategies."
+        ],
+        "company_context": [
+          "CNP Assurances is focusing on green investments and has issued two green bonds recently.",
+          "The company has increased its exposure to infrastructure investments by €1.9bn."
+        ],
+        "competitive_intelligence": [
+          "Olivier Guigné is focused on tactical diversification and investing in new technologies and sectors.",
+          "He is leading efforts to adapt rapidly to technological and societal changes in investment strategies."
+        ],
+        "outreach_angles": [
+          "Discuss the impact of green investments and sustainability in the insurance sector.",
+          "Explore opportunities in emerging markets and untested investment territories."
+        ],
+        "recent_quotes_or_statements": [
+          "We need to diversify more and be more tactical, as we need to adapt to changes more rapidly than before."
+        ],
+        "summary": "Olivier Guigné, Director of Investments and Savings Europe at CNP Assurances, is currently leading efforts in diversifying investment portfolios into unlisted infrastructures and emerging markets. He is also driving the company's green investment initiatives, aiming for €20bn by the end of 2023. Recently awarded CIO of the Year, Guigné is focused on adapting to rapid technological and societal changes in investment strategies.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T17:01:21.162Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:01:21.162Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/olivier-guign%C3%A9-6093694b",
+          "title": "Olivier Guigné - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:01:21.162Z"
+        },
+        {
+          "url": "https://www.cnp.fr/le-groupe-cnp-assurances/qui-sommes-nous/la-gouvernance/comite-executif/olivier-guigne",
+          "title": "Olivier Guigné - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:01:21.162Z"
+        },
+        {
+          "url": "https://www.insuranceassetrisk.com/content/awards/insurance-asset-risk-awards-2023-uk-and-europe/winners/cio-of-the-year-award-olivier-guigne-(cnp-assurances).html",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:01:21.162Z"
+        },
+        {
+          "url": "https://www.cnp.fr/en/cnp/content/download/7435/file/Biographie-Olivier-Guigne-2024-EN.pdf",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:01:21.162Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:01:21.162Z",
+      "outreach_messages": {
+        "linkedin_connection": "Hi Olivier, congrats on your new role and CIO award! Our on-premise LLM solution at legml.ai could support your push into green investments and emerging markets. Let's connect to explore sustainable innovation together!",
+        "linkedin_followup": "Bonjour Olivier,\n\nMerci d'avoir accepté ma demande de connexion sur LinkedIn. J'ai été particulièrement impressionné par votre leadership chez CNP Assurances, notamment votre travail sur la diversification des investissements vers les infrastructures non cotées et les fonds de private equity. Félicitations également pour votre récente nomination en tant que Directeur des Investissements et de l'Épargne Europe et pour avoir été nommé CIO de l'année.\n\nChez legml.ai, nous comprenons l'importance de s'adapter rapidement aux changements technologiques et sociétaux, une priorité stratégique que vous avez mise en avant. Notre solution LLM on-premise pourrait être un atout pour vos initiatives d'investissement vert et vos efforts de diversification. Avec une performance éprouvée de 75% en droit des affaires français, notre technologie peut vous aider à naviguer dans les complexités juridiques des marchés émergents et des territoires inexploités, tout en soutenant vos objectifs de réduction des émissions de gaz à effet de serre.\n\nJ'aimerais discuter de la manière dont nous pouvons vous accompagner dans ces projets ambitieux. Vous pouvez réserver un créneau à votre convenance via ce lien : https://calendly.com/mohamed-legml/30min. J'ai hâte de pouvoir échanger plus en détail sur vos priorités et voir comment nous pouvons collaborer.\n\nÀ bientôt,  \nMohamad",
+        "email": "**Subject:** Quick Idea for Your Investment Goals\n\nHey Olivier,\n\nCongrats on leading CNP Assurances' green investment push to hit €20bn by the end of 2023! With all that focus on diversifying into emerging markets, I'm guessing navigating French business law can be a bit tricky. We've built legml, an on-premise LLM that nails 75% accuracy on French business law—might save you some headaches. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:03:37Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753547475188_3",
+      "name": "Vincent Foucart",
+      "title": "Directeur Général de la Technologie",
+      "company": "Société Générale",
+      "email": "vincent.foucart@financialservic.com.fr",
+      "linkedin_url": "https://www.linkedin.com/in/vincent-foucart-a6509843",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Director of Strategic Investments France insurance",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Director of Strategic Investments France insurance\"",
+      "found_at": "2025-07-26T16:31:15.188Z",
+      "lead_status": "new",
+      "raw_data": "Managing Director · Vincent Foucart graduated from ENSTA, HEC and CHEA. In addition he is Certified Financial Analyst and Actuary.",
+      "persona_id": "Raj Patel",
+      "persona_match_reasons": [
+        "Found via targeted search for Director of Strategic Investments",
+        "Query match: \"Director of Strategic Investments France insurance\"",
+        "Company type aligns with Global Tech Corporation",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "rocketreach_updated": true,
+      "rocketreach_url": "https://rocketreach.co/vincent-foucart-email_6028487",
+      "rocketreach_update_timestamp": "2025-07-26T16:35:21.212Z",
+      "rocketreach_updates": [
+        "🔗 LinkedIn: Updated → https://www.linkedin.com/in/vincent-foucart-a6509843"
+      ],
+      "personality_analysis": {
+        "current_projects": [
+          "Building a European platform for Miller's reinsurance and specialty activities",
+          "Growing Miller's business on international treaties, specialized lines, and strategic consulting"
+        ],
+        "recent_developments": [
+          "Appointed as General Manager of Reinsurance for Western Europe at Miller in March 2025"
+        ],
+        "strategic_priorities": [
+          "Expanding Miller's reinsurance brokerage internationally",
+          "Focusing on growth in international treaties, specialized lines, and strategic consulting"
+        ],
+        "industry_involvement": [],
+        "company_context": [
+          "Miller is expanding its reinsurance brokerage activities internationally, following acquisitions of AHJ Holdings, 4809 Brokers AG, and Bruzon"
+        ],
+        "competitive_intelligence": [
+          "Vincent Foucart is responsible for the growth of Miller's reinsurance business in Western Europe, operating from Paris"
+        ],
+        "outreach_angles": [
+          "Discuss opportunities in expanding reinsurance platforms in Europe",
+          "Explore strategic consulting in reinsurance and specialized lines"
+        ],
+        "recent_quotes_or_statements": [
+          "Vincent Foucart has the responsibility for the growth of the company on three fundamental pillars: international treaties, specialized lines, and strategic consulting"
+        ],
+        "summary": "Vincent Foucart is the General Manager of Reinsurance for Western Europe at Miller, focusing on building a European platform and expanding the company's business in international treaties, specialized lines, and strategic consulting. He operates from Paris and is instrumental in Miller's international reinsurance brokerage expansion.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T17:01:43.088Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:01:43.088Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "personality_sources": [
+        {
+          "url": "https://ch.linkedin.com/in/vincent-foucart-a6509843",
+          "title": "Vincent Foucart - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:01:43.088Z"
+        },
+        {
+          "url": "https://www.oecevents.com/speakers-2019/vincent-foucart",
+          "title": "Vincent Foucart - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:01:43.088Z"
+        },
+        {
+          "url": "https://www.newsassurancespro.com/reassurance-vincent-foucart-rejoint-le-courtier-miller/01691641197",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:01:43.088Z"
+        },
+        {
+          "url": "https://www.argusdelassurance.com/carnet-des-decideurs/foucart-vincent,80101",
+          "title": "Vincent Foucart - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:01:43.088Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:01:43.088Z",
+      "outreach_messages": {
+        "linkedin_connection": "Hi Vincent, congrats on your new role at Miller! Your work on expanding reinsurance platforms in Europe is impressive. I'd love to connect and discuss how our on-premise LLM solutions can support your strategic consulting goals.",
+        "linkedin_followup": "Bonjour Vincent,\n\nMerci d'avoir accepté ma demande de connexion sur LinkedIn. J'ai été particulièrement impressionné par votre leadership dans le développement de la plateforme européenne pour les activités de réassurance et de lignes spécialisées de Miller. Votre rôle crucial dans l'expansion de la réassurance en Europe de l'Ouest, en mettant l'accent sur les traités internationaux et le consulting stratégique, est véritablement inspirant.\n\nChez legml.ai, nous comprenons les défis liés à la croissance rapide et à l'expansion internationale, notamment dans des secteurs spécialisés comme le vôtre. Notre solution LLM sur site a déjà prouvé son efficacité en atteignant une performance de 75% en droit des affaires français, ce qui pourrait être un atout considérable pour renforcer vos capacités en matière de traités internationaux et de lignes spécialisées. \n\nJ'aimerais discuter de la manière dont notre technologie peut soutenir vos ambitions chez Miller, en particulier dans la création de votre plateforme européenne. Je vous propose de réserver un moment pour en discuter plus en détail via ce lien : https://calendly.com/mohamed-legml/30min.\n\nJe suis impatient de connaître vos perspectives sur ces sujets.\n\nBien cordialement,\n\nMohamad",
+        "email": "Subject: Quick Idea for Société Générale's Expansion\n\nHey Vincent,\n\nExciting to see your work on building that European platform for Miller's reinsurance activities! With such an ambitious expansion, I'm guessing navigating all those legal nuances can be a bit of a puzzle. We've built legml, an on-premise LLM, to make this easier, boasting 75% accuracy in French business law. This might help streamline things for you.\n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:03:42Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753547611981_0",
+      "name": "Xavier Freynet",
+      "title": "Managing Partner, Services Financiers",
+      "company": "EY Financial Services",
+      "email": "xavier.freynet@financialservic.com.fr",
+      "linkedin_url": "https://www.ey.com/en_uk/people/xavier-freynet",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France banking\"",
+      "found_at": "2025-07-26T16:33:31.981Z",
+      "lead_status": "new",
+      "raw_data": "Xavier Freynet has started working as the Managing Partner of EY Financial Services in France, since 1 July 2021. He is responsible for all services",
+      "persona_id": "Alex Thompson",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France banking\"",
+        "Company type aligns with Early-stage VC Fund ($50M AUM)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/xavier-freynet-email_78369819",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Leading EY Financial Services in France, focusing on audit, consulting, technology, tax, legal, strategy, and transaction services."
+        ],
+        "recent_developments": [
+          "Appointed as Managing Partner of EY Financial Services in France since July 1, 2021."
+        ],
+        "strategic_priorities": [
+          "Focusing on digitalization, automation, and AI to meet evolving client needs.",
+          "Driving innovation and transformation in financial services."
+        ],
+        "industry_involvement": [
+          "Engaged in analyzing business models and developing core business services for large financial services organizations."
+        ],
+        "company_context": [
+          "Overseeing a team of 1,100 professionals serving clients in banking, capital markets, insurance, payments, and wealth and asset management."
+        ],
+        "competitive_intelligence": [
+          "Responsible for large and complex transformation projects, including technology-enabled solutions."
+        ],
+        "outreach_angles": [
+          "Discussing the impact of digitalization and AI on financial services.",
+          "Exploring opportunities for collaboration in technology transformation projects."
+        ],
+        "recent_quotes_or_statements": [
+          "Digitalization, automation, and the use of AI represent the most dramatic change experienced in his career."
+        ],
+        "summary": "Xavier Freynet is the Managing Partner of EY Financial Services in France, focusing on digital transformation and innovation. He leads a team of 1,100 professionals, driving complex projects in banking and financial services.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T17:02:06.912Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 2,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:02:06.912Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/in/xavierfreynet",
+          "title": "Xavier Freynet - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:02:06.912Z"
+        },
+        {
+          "url": "https://www.ey.com/en_gl/people/xavier-freynet",
+          "title": "Xavier Freynet - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:02:06.912Z"
+        },
+        {
+          "url": "https://www.ey.com/en_us/people/xavier-freynet",
+          "title": "Xavier Freynet - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:02:06.912Z"
+        },
+        {
+          "url": "https://www.ey.com/en_no/people/xavier-freynet",
+          "title": "Xavier Freynet - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:02:06.912Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:02:06.912Z",
+      "outreach_messages": {
+        "linkedin_connection": "Hi Xavier, congrats on your role at EY! I'm intrigued by your focus on AI in financial services. At legml.ai, we offer on-premise LLM solutions aligning with your digitalization goals. Let's connect and explore potential synergies in tech transfor...",
+        "linkedin_followup": "Hi Xavier,\n\nThank you for connecting on LinkedIn! I've been following EY Financial Services' impressive journey under your leadership, especially your focus on digitalization, automation, and AI to drive innovation in the industry. It’s exciting to see how you’re leading complex transformation projects, particularly in technology-enabled solutions.\n\nAt legml.ai, we share your commitment to harnessing the power of AI to meet evolving client needs. Our on-premise LLM solution is designed to seamlessly integrate into your existing frameworks, specifically addressing the challenges of digital transformation in financial services. Our model has demonstrated a 75% performance metric in French business law, which could be pivotal as you steer your team of 1,100 professionals towards innovative solutions in banking and asset management.\n\nI’d love to explore how we can support EY’s strategic priorities further. Let’s find a time to discuss this in more detail. Feel free to book a convenient slot via my Calendly link: https://calendly.com/mohamed-legml/30min. \n\nLooking forward to our conversation.\n\nBest regards,  \nMohamad",
+        "email": "**Subject:** Quick idea for EY's digital journey\n\nHey Xavier,\n\nCongrats on leading EY Financial Services in France, especially with all the cool stuff around digital transformation and AI. With your focus on innovation, I'm guessing keeping up with the nuances of French business law is a bit of a challenge. We've built legml, an on-premise LLM for preseed, hitting 75% accuracy on French business law. This might help smooth things out. Want to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:03:47Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753547611981_3",
+      "name": "Radwan Hoteit",
+      "title": "Managing Partner, Services Financiers",
+      "company": "EY & Associés",
+      "email": "radwan.hoteit@ey.com.fr",
+      "linkedin_url": "https://www.ey.com/en_nl/people/radwan-hoteit",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France banking",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France banking\"",
+      "found_at": "2025-07-26T16:33:31.981Z",
+      "lead_status": "new",
+      "raw_data": "Radwan is currently the Managing Partner Financial Services at EY & Associés, France. As such, he is responsible for all services including and not limit",
+      "persona_id": "Alex Thompson",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France banking\"",
+        "Company type aligns with Early-stage VC Fund ($50M AUM)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_enriched": true,
+      "rocketreach_url": "https://rocketreach.co/radwan-hoteit-email_12163452",
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Managing EY France's Financial Services sector, overseeing audit, consulting, legal, and transaction services."
+        ],
+        "recent_developments": [
+          "Radwan Hoteit continues to serve as the Managing Partner for Financial Services at EY France, a position he has held since 2006."
+        ],
+        "strategic_priorities": [
+          "Enhancing the performance and agility of financial institutions to contribute to a better working world."
+        ],
+        "industry_involvement": [
+          "Radwan has extensive experience in banking and capital markets, and he is involved in industry and business development at the EMEIA level."
+        ],
+        "company_context": [
+          "EY France's Financial Services sector employs 1100 professionals under Radwan's leadership."
+        ],
+        "competitive_intelligence": [
+          "Radwan is focused on risk management and financial services consultancy, leveraging his background in auditing and banking."
+        ],
+        "outreach_angles": [
+          "Discussing the role of financial services in economic development and sustainability could resonate with Radwan."
+        ],
+        "recent_quotes_or_statements": [
+          "\"I am certain that the finance industry will continue to play a vital role in the ongoing development of the economy and burgeoning prosperity.\""
+        ],
+        "summary": "Radwan Hoteit is the Managing Partner for Financial Services at EY France, focusing on enhancing financial institutions' performance and agility. He has a strong background in banking and capital markets, and he is committed to contributing to a better working world through financial services.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T17:02:44.588Z",
+        "content_sources": 1,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 0,
+        "linkedin_urls_kept_for_reference": 0,
+        "non_linkedin_sites_attempted": 1,
+        "content_sources_used": 1,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:02:44.589Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "personality_sources": [
+        {
+          "url": "https://www.ey.com/en_us/people/radwan-hoteit",
+          "title": "Radwan Hoteit - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:02:44.589Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:02:44.589Z",
+      "outreach_messages": {
+        "linkedin_connection": "Hi Radwan, impressed by your leadership in EY’s financial services. I’d love to connect and discuss how legml's on-premise LLMs can enhance agility and sustainability in finance. Curious about your insights on economic development!",
+        "linkedin_followup": "Hi Radwan,\n\nThanks for connecting on LinkedIn! I've been following your impactful work as the Managing Partner for Financial Services at EY France, and I'm truly impressed by your commitment to enhancing the performance and agility of financial institutions. Your focus on risk management and consultancy to contribute to a better working world is both inspiring and crucial in today's dynamic economic environment.\n\nI believe our on-premise LLM solution at legml could be highly beneficial in supporting your strategic priorities. Specifically, our technology can enhance the efficiency of financial services operations, aligning well with your goal of improving the performance of financial institutions. With a 75% accuracy rate in French business law, our solution is designed to meet the unique challenges you face, especially in overseeing audit and legal services.\n\nI'd love to explore how we can support your projects further. If you're open to it, you can easily book a time that suits you via my Calendly: https://calendly.com/mohamed-legml/30min. I look forward to the possibility of collaborating to drive further success in your endeavors.\n\nWarm regards,\nMohamad",
+        "email": "Subject: Quick Chat About Financial Services?\n\nHey Radwan,\n\nGreat to see you're leading EY France's Financial Services to enhance performance and agility. With all the complex regulations you're navigating, I'm guessing finding efficient solutions is a big deal. We've built legml - an on-premise LLM with 75% accuracy on French business law, which might help ease some of that burden. \n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:03:52Z",
+        "generated_by": "OutreachNode"
+      }
+    },
+    {
+      "id": "jina_lead_1753547613764_2",
+      "name": "David Méheut",
+      "title": "Managing Partner, Insurance and Reinsurance Law",
+      "company": "Clyde & Co",
+      "email": "david.méheut@financialservic.com.fr",
+      "linkedin_url": "https://www.clydeco.com/en/people/m/david-meheut",
+      "location": "Paris, France",
+      "source": "jina_search",
+      "search_query": "Managing Partner France insurance",
+      "confidence_score": 0.95,
+      "contact_verified": false,
+      "notes": "Found via Jina search: \"Managing Partner France insurance\"",
+      "found_at": "2025-07-26T16:33:33.764Z",
+      "lead_status": "new",
+      "raw_data": "David Méheut is a Managing Partner in the Paris office of Clyde & Co with almost 20-years' experience in insurance and reinsurance law.",
+      "persona_id": "Alex Thompson",
+      "persona_match_reasons": [
+        "Found via targeted search for Managing Partner",
+        "Query match: \"Managing Partner France insurance\"",
+        "Company type aligns with Early-stage VC Fund ($50M AUM)",
+        "Geographic match: France"
+      ],
+      "is_valid_person": true,
+      "validation_reason": "Real person name",
+      "rocketreach_attempted": true,
+      "llm_enhanced": true,
+      "personality_analysis": {
+        "current_projects": [
+          "Part of Clyde & Co's working group on artificial intelligence, focusing on its impact on civil liability.",
+          "Studying climate change related risks, particularly in the context of class actions and ESG reporting."
+        ],
+        "recent_developments": [
+          "Named 'Lawyer of the Year' in Insurance law by Best Lawyers in France.",
+          "Recognized as a 'leading individual' by Legal 500 and ranked in Chambers Europe."
+        ],
+        "strategic_priorities": [
+          "Advising on cybersecurity and data breach mandates.",
+          "Handling cases involving directors and officers liability, political risks, and reinsurance."
+        ],
+        "industry_involvement": [
+          "Lecturer of the 'Law and management of emerging risks' Master 2 course at Lyon 3 Jean Moulin University.",
+          "Published an article on how AI will reshape civil liability."
+        ],
+        "company_context": [
+          "Clyde & Co is focusing on emerging risks and the impact of AI on civil liability.",
+          "The firm is involved in major insurance and reinsurance cases affecting the French market."
+        ],
+        "competitive_intelligence": [
+          "David Méheut is well-versed in both civil and common law, making him efficient in handling complex international cases.",
+          "He has significant experience in international arbitration, particularly ICC arbitration."
+        ],
+        "outreach_angles": [
+          "Discuss the impact of AI on civil liability and potential collaboration on related projects.",
+          "Explore insights on climate change risks and ESG reporting in the insurance sector."
+        ],
+        "recent_quotes_or_statements": [
+          "David Méheut provides very useful advice and analysis on complex cases.",
+          "His pleadings before the French courts are very persuasive."
+        ],
+        "summary": "David Méheut is a Managing Partner at Clyde & Co's Paris office, specializing in insurance and reinsurance law, international arbitration, and emerging risks like AI and climate change. He is actively involved in advising on cybersecurity mandates and is recognized as a leading figure in his field.",
+        "intelligence_quality": "high",
+        "generated_at": "2025-07-26T17:03:08.470Z",
+        "content_sources": 3,
+        "analysis_method": "competitive_intelligence_extraction"
+      },
+      "personality_metadata": {
+        "analysis_completed": true,
+        "linkedin_urls_found": 1,
+        "linkedin_urls_kept_for_reference": 1,
+        "non_linkedin_sites_attempted": 3,
+        "content_sources_used": 3,
+        "ai_analysis_success": true,
+        "processing_timestamp": "2025-07-26T17:03:08.470Z",
+        "analysis_method": "competitive_intelligence_extraction",
+        "scraping_strategy": "exclude_linkedin"
+      },
+      "ready_for_outreach": true,
+      "personality_sources": [
+        {
+          "url": "https://fr.linkedin.com/posts/clydeco_paris-legalawards-legalexcellence-activity-7210927189112868864-W1pa",
+          "title": "Professional - Technology Executive",
+          "scraped_successfully": false,
+          "type": "linkedin_reference",
+          "timestamp": "2025-07-26T17:03:08.470Z"
+        },
+        {
+          "url": "https://www.clydeco.com/en/people/m/david-meheut",
+          "title": "David Méheut - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:03:08.470Z"
+        },
+        {
+          "url": "https://www.lexology.com/firms/clyde-and-co-llp/david_meheut",
+          "title": "David Meheut - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:03:08.470Z"
+        },
+        {
+          "url": "https://jusconnect.com/en/p/david-meheut",
+          "title": "David Méheut - Technology Executive",
+          "scraped_successfully": true,
+          "type": "scraped_content",
+          "timestamp": "2025-07-26T17:03:08.470Z"
+        }
+      ],
+      "last_personality_analysis": "2025-07-26T17:03:08.470Z",
+      "outreach_messages": {
+        "linkedin_connection": "Hi David, congrats on 'Lawyer of the Year'! I'm curious about your AI work at Clyde & Co. Our on-prem LLM solution at legml.ai could align with your insights on AI's civil liability impact. Let's connect?",
+        "linkedin_followup": "Hi David,\n\nThank you for connecting on LinkedIn. I’m impressed by your leadership at Clyde & Co, especially your work with the AI working group focusing on civil liability impacts. The intersection of AI and legal frameworks is a fascinating space, and it's great to see experts like you leading the charge.\n\nI also noted your involvement in analyzing climate change-related risks in the context of ESG reporting and class actions. These are critical issues that align closely with the capabilities of our on-premise LLM solution at legml. Our model excels in French business law, with a proven 75% performance metric, making it particularly adept at tackling complex legal challenges, such as those posed by emerging AI impacts and climate change risks.\n\nI’d love to explore how we can support your strategic priorities, particularly in advising on cybersecurity and data breach mandates, and perhaps collaborate on AI and civil liability projects. If it sounds worthwhile, feel free to pick a convenient time for a brief chat using my Calendly link: https://calendly.com/mohamed-legml/30min.\n\nLooking forward to the possibility of working together!\n\nBest regards,\nMohamad",
+        "email": "**Subject:** Quick Chat on AI & Insurance?\n\nHey David,\n\nCongrats on being named 'Lawyer of the Year'! With your focus on AI's impact on civil liability, I'm guessing navigating its complexities can be a bit much. We've built legml - it nails French business law with 75% accuracy. This might help smooth things out!\n\nWant to chat? Book a quick call: https://calendly.com/mohamed-legml/30min\n\nRegards,  \nMohamad  \nlegml.ai",
+        "generated_at": "2025-07-26T19:03:58Z",
+        "generated_by": "OutreachNode"
+      }
+    }
+  ],
+  "outreach": [],
+  "inbound": [],
+  "triage": [],
+  "search_metadata": {
+    "total_leads": 40,
+    "leads_per_persona": {
+      "Alex Thompson": 13,
+      "Emily Rivera": 14,
+      "Raj Patel": 7,
+      "Linda Nguyen": 3,
+      "Carlos Mendes": 3
+    },
+    "search_completed_at": "2025-07-26T18:37:34Z",
+    "search_method": "jina_api",
+    "real_data": true,
+    "llm_enhanced": true,
+    "rocketreach_enriched": 21,
+    "rocketreach_success_rate": "53%",
+    "existing_leads_updated": 13,
+    "existing_leads_total": 40,
+    "personality_analyzed_leads": 10,
+    "successful_personality_analyses": 10,
+    "personality_analysis_completed": "2025-07-26T19:03:08Z",
+    "personality_analysis_method": "web_scraping_chatgpt_analysis",
+    "personality_analysis_sources": {
+      "total_analyzed": 10,
+      "sources": {},
+      "confidence_distribution": {
+        "high": 0,
+        "medium": 0,
+        "low": 0
+      }
+    }
+  },
+  "outreach_metadata": {
+    "total_leads_processed": 10,
+    "outreach_messages_generated": 10,
+    "csv_export_path": "/home/azureuser/jim_and_dwight/profiles/p_20250726_1621/leads-outreach.csv",
+    "outreach_completed_at": "2025-07-26T19:03:59Z",
+    "outreach_method": "competitive_intelligence_based",
+    "message_types": [
+      "linkedin_connection",
+      "linkedin_followup",
+      "email"
+    ]
+  }
+}
